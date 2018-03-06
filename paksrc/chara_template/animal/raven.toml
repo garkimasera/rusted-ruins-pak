@@ -1,0 +1,20 @@
+object_type = "chara_template"
+id = "!raven"
+ 
+[image]
+path = "raven.png"
+w = 32
+h = 48
+
+[chara_template]
+race = "Animal"
+gen_weight = 20
+gen_level = 6
+max_hp = 26
+str = 17
+vit = 13
+dex = 18
+int = 15
+wil = 13
+cha = 12
+spd = 160

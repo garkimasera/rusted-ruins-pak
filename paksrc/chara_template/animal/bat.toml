@@ -1,0 +1,20 @@
+object_type = "chara_template"
+id = "!bat"
+ 
+[image]
+path = "bat.png"
+w = 24
+h = 48
+
+[chara_template]
+race = "Animal"
+gen_weight = 20
+gen_level = 3
+max_hp = 10
+str = 8
+vit = 10
+dex = 15
+int = 6
+wil = 7
+cha = 10
+spd = 120

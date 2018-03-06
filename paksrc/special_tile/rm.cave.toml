@@ -1,0 +1,11 @@
+object_type = "special_tile"
+id = "!rm.cave"
+
+[special_tile]
+always_background = true
+
+[image]
+path = "rm.cave.png"
+w = 48
+h = 48
+

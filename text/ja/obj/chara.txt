@@ -1,0 +1,12 @@
+% !bat
+コウモリ
+% !fox
+狐
+% !jelly
+ゼリー
+% !mouse
+ネズミ
+% !raven
+オオガラス
+% !stray-dog
+野犬

@@ -1,0 +1,15 @@
+object_type = "item"
+id = "!iron-revolver"
+ 
+[image]
+path = "iron-revolver.png"
+
+[item]
+gen_weight = 1
+gen_level = 10
+basic_price = 3000
+
+item_kind = "Weapon"
+weapon_kind = "Gun"
+dice_n = 2
+dice_x = 10

@@ -1,0 +1,5 @@
+object_type = "talk_script"
+id = "!hello"
+  
+[talk_script.sections."start"]
+reaction = "End"

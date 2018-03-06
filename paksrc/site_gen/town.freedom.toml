@@ -1,0 +1,18 @@
+object_type = "site_gen"
+id = "!town.freedom"
+
+[site_gen]
+kind = "Town"
+map_template_id = ["!town.freedom.0"]
+
+[[site_gen.unique_citizens]]
+pos = [3, 3]
+floor = 0
+chara_template_id = "!archeologist.m"
+talk_script_id = "!hello"
+
+[[site_gen.shops]]
+pos = [2, 2]
+floor = 0
+kind = "Equipment"
+

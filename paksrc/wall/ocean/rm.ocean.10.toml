@@ -1,0 +1,15 @@
+object_type = "wall"
+id = "!rm.ocean.10"
+
+[image]
+path = "rm.ocean.10.png"
+w = 48
+h = 48
+grid_w = 2
+grid_h = 1
+n_frame = 2
+duration = 12
+
+[wall]
+base_draw = true
+always_background = true

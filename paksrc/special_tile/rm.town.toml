@@ -1,0 +1,11 @@
+object_type = "special_tile"
+id = "!rm.town"
+
+[special_tile]
+always_background = true
+
+[image]
+path = "rm.town.png"
+w = 48
+h = 48
+

@@ -1,0 +1,20 @@
+object_type = "chara_template"
+id = "!fox"
+ 
+[image]
+path = "fox.png"
+w = 32
+h = 23
+
+[chara_template]
+race = "Animal"
+gen_weight = 15
+gen_level = 8
+max_hp = 32
+str = 22
+vit = 16
+dex = 18
+int = 14
+wil = 15
+cha = 24
+spd = 110

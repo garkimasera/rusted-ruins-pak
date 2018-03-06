@@ -1,0 +1,16 @@
+object_type = "item"
+id = "!healing-potion"
+ 
+[image]
+path = "healing-potion.png"
+w = 24
+h = 24
+
+[item]
+gen_weight = 20
+gen_level = 0
+basic_price = 20
+
+item_kind = "Potion"
+medical_effect = "Heal"
+eff = 30

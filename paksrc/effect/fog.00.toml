@@ -1,0 +1,7 @@
+object_type = "effect"
+id = "!fog.00"
+
+[image]
+path = "fog.00.png"
+w = 48
+h = 48

@@ -1,0 +1,10 @@
+object_type = "ui_img"
+id = "!title-screen"
+
+[image]
+path = "title-screen.png"
+w = 800
+h = 600
+
+
+ 

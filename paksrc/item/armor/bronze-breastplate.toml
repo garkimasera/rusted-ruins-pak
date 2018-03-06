@@ -1,0 +1,15 @@
+object_type = "item"
+id = "!bronze-breastplate"
+ 
+[image]
+path = "bronze-breastplate.png"
+
+[item]
+gen_weight = 3
+gen_level = 11
+basic_price = 500
+
+item_kind = "Armor"
+armor_kind = "Body"
+def = 6
+mdf = 3

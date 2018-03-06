@@ -1,0 +1,10 @@
+object_type = "tile"
+id = "!rm.barren"
+
+[image]
+path = "rm.barren.png"
+w = 48
+h = 48
+
+[tile]
+kind = "Ground"

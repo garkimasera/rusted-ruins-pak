@@ -1,0 +1,15 @@
+object_type = "item"
+id = "!steel-sword"
+ 
+[image]
+path = "steel-sword.png"
+
+[item]
+gen_weight = 5
+gen_level = 10
+basic_price = 1400
+
+item_kind = "Weapon"
+weapon_kind = "Sword"
+dice_n = 2
+dice_x = 12

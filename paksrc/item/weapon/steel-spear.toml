@@ -1,0 +1,15 @@
+object_type = "item"
+id = "!steel-spear"
+ 
+[image]
+path = "steel-spear.png"
+
+[item]
+gen_weight = 5
+gen_level = 9
+basic_price = 350
+
+item_kind = "Weapon"
+weapon_kind = "Spear"
+dice_n = 2
+dice_x = 20

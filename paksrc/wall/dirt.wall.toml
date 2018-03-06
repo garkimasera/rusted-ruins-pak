@@ -1,0 +1,10 @@
+object_type = "wall"
+id = "!dirt.wall"
+
+[image]
+path = "dirt.wall.png"
+w = 48
+h = 80
+
+
+ 

@@ -1,0 +1,20 @@
+object_type = "chara_template"
+id = "!rogue.m"
+ 
+[image]
+path = "rogue.m.png"
+w = 24
+h = 48
+
+[chara_template]
+race = "Human"
+gen_weight = 0
+gen_level = 1
+max_hp = 20
+str = 17
+vit = 17
+dex = 25
+int = 18
+wil = 15
+cha = 14
+spd = 100

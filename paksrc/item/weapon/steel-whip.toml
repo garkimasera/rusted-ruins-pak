@@ -1,0 +1,15 @@
+object_type = "item"
+id = "!steel-whip"
+ 
+[image]
+path = "steel-whip.png"
+
+[item]
+gen_weight = 2
+gen_level = 7
+basic_price = 220
+
+item_kind = "Weapon"
+weapon_kind = "Whip"
+dice_n = 1
+dice_x = 15

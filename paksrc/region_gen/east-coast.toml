@@ -1,0 +1,9 @@
+object_type = "region_gen"
+id = "!east-coast"
+
+[region_gen]
+map_template_id = "!east-coast"
+
+[[region_gen.towns]]
+id = "!town.freedom"
+pos = [4, 3]

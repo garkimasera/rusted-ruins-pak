@@ -1,0 +1,10 @@
+object_type = "tile"
+id = "!concrete-rust"
+
+[image]
+path = "concrete-rust.png"
+w = 48
+h = 48
+
+[tile]
+kind = "Ground"

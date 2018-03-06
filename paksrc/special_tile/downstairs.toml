@@ -1,0 +1,13 @@
+object_type = "special_tile"
+id = "!downstairs"
+
+[special_tile]
+always_background = true
+
+[image]
+path = "downstairs.png"
+w = 48
+h = 48
+
+
+ 

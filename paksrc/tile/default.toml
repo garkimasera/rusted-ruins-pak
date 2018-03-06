@@ -1,0 +1,10 @@
+object_type = "tile"
+id = "!"
+
+[image]
+path = "default.png"
+w = 48
+h = 48
+
+[tile]
+kind = "Ground"
