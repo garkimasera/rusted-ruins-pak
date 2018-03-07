@@ -1,0 +1,10 @@
+% !healing-potion
+healing potion
+% !steel-dagger
+steel dagger
+% !steel-platearmor
+steel platearmor
+% !steel-scalearmor
+steel scalearmor
+% !plank
+plank

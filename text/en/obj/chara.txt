@@ -1,4 +1,14 @@
-% test
-Start abc=$(abc)
 % !jelly
-Jelly
+jelly
+% !bat
+bat
+% !cockatrice
+cockatrice
+% !fox
+fox
+% !mouse
+mouse
+% !raven
+raven
+% !stray-dog
+stray dog
