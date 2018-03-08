@@ -1,0 +1,7 @@
+object_type = "ui_img"
+id = "!icon-shield"
+
+[image]
+path = "icon-shield.png"
+w = 24
+h = 24
