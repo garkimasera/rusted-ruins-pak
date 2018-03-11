@@ -1,0 +1,10 @@
+object_type = "tile"
+id = "!stonefloor.1"
+
+[image]
+path = "stonefloor.1.png"
+w = 48
+h = 48
+
+[tile]
+kind = "Ground"
