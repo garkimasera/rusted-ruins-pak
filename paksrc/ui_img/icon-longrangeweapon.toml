@@ -1,0 +1,7 @@
+object_type = "ui_img"
+id = "!icon-longrangeweapon"
+
+[image]
+path = "icon-longrangeweapon.png"
+w = 24
+h = 24
