@@ -1,0 +1,5 @@
+object_type = "talk_script"
+id = "!guild.informant"
+  
+[talk_script.sections."start"]
+reaction = "End"

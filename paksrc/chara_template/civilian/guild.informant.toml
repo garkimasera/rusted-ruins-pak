@@ -1,0 +1,20 @@
+object_type = "chara_template"
+id = "!guild.informant"
+ 
+[image]
+path = "guild.informant.png"
+w = 24
+h = 48
+
+[chara_template]
+race = "Human"
+gen_weight = 0
+gen_level = 0
+max_hp = 250
+str = 20
+vit = 22
+dex = 24
+int = 24
+wil = 17
+cha = 19
+spd = 100

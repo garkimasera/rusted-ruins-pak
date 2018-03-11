@@ -6,6 +6,12 @@ kind = "Town"
 map_template_id = ["!town.freedom.0"]
 
 [[site_gen.unique_citizens]]
+pos = [5, 5]
+floor = 0
+chara_template_id = "!guild.informant"
+talk_script_id = "!guild.informant"
+
+[[site_gen.unique_citizens]]
 pos = [3, 3]
 floor = 0
 chara_template_id = "!towngirl.1"
@@ -15,4 +21,3 @@ talk_script_id = "!hello"
 pos = [2, 2]
 floor = 0
 kind = "Equipment"
-
