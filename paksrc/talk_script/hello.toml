@@ -2,4 +2,11 @@ object_type = "talk_script"
 id = "!hello"
   
 [talk_script.sections."start"]
-reaction = "End"
+kind = "normal"
+default_dest_section = "next"
+
+[talk_script.sections."next"]
+kind = "normal"
+default_dest_section = ""
+answers = ["!ans.yes", "!ans.no"]
+dest_sections = ["start", ""]

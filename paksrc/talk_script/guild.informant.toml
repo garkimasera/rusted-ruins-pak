@@ -2,4 +2,16 @@ object_type = "talk_script"
 id = "!guild.informant"
   
 [talk_script.sections."start"]
-reaction = "End"
+kind = "normal"
+answers = ["!guild.informant.ans.add_dungeons", "!guild.informant.ans.exit"]
+dest_sections = ["add_dungeons", ""]
+default_dest_section = ""
+
+[talk_script.sections."add_dungeons"]
+kind = "special"
+dest_sections = ["after_add_dungeons"]
+special = "informant_dungeons"
+
+[talk_script.sections."after_add_dungeons"]
+kind = "normal"
+default_dest_section = "start"

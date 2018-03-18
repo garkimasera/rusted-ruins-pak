@@ -1,0 +1,9 @@
+% !guild.informant.start
+I'm a member of this guild.
+My role is to teach information in this region.
+% !guild.informant.after_add_dungeons
+I added dungeons to your map
+% !guild.informant.ans.add_dungeons
+Add new dungeons to my map
+% !guild.informant.ans.exit
+Bye
