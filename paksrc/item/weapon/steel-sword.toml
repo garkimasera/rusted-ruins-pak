@@ -5,11 +5,11 @@ id = "!steel-sword"
 path = "steel-sword.png"
 
 [item]
+item_kind = "weapon"
 gen_weight = 5
 gen_level = 10
 basic_price = 1400
 
-item_kind = "Weapon"
-weapon_kind = "Sword"
+weapon_kind = "sword"
 dice_n = 2
 dice_x = 12

@@ -2,7 +2,7 @@ object_type = "site_gen"
 id = "!town.freedom"
 
 [site_gen]
-kind = "Town"
+kind = "town"
 map_template_id = ["!town.freedom.0"]
 
 [[site_gen.unique_citizens]]
@@ -20,4 +20,4 @@ talk_script_id = "!hello"
 [[site_gen.shops]]
 pos = [2, 2]
 floor = 0
-kind = "Equipment"
+kind = "equipment"

@@ -6,14 +6,12 @@ path = "weed2.png"
 w = 24
 h = 24
 
-[icon]
-
 [item]
+item_kind = "food"
 gen_weight = 10
 gen_level = 1
 basic_price = 20
 
-item_kind = "Food"
-medical_effect= "Heal"
+medical_effect= "heal"
 eff = 10
 nutrition = 10

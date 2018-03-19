@@ -5,11 +5,11 @@ id = "!steel-dagger"
 path = "steel-dagger.png"
 
 [item]
+item_kind = "weapon"
 gen_weight = 7
 gen_level = 8
 basic_price = 220
 
-item_kind = "Weapon"
-weapon_kind = "Sword"
+weapon_kind = "sword"
 dice_n = 4
 dice_x = 4

@@ -6,14 +6,12 @@ path = "steel-scalearmor.png"
 w = 24
 h = 24
 
-[icon]
-
 [item]
+item_kind = "armor"
 gen_weight = 3
 gen_level = 11
 basic_price = 650
 
-item_kind = "Armor"
-armor_kind = "Body"
+armor_kind = "body"
 def = 13
 mdf = 3

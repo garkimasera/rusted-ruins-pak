@@ -7,7 +7,7 @@ w = 24
 h = 28
 
 [chara_template]
-race = "Animal"
+race = "animal"
 gen_weight = 30
 gen_level = 4
 max_hp = 24
