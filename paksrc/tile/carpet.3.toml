@@ -1,0 +1,10 @@
+object_type = "tile"
+id = "!carpet.3"
+
+[image]
+path = "carpet.3.png"
+w = 48
+h = 48
+
+[tile]
+kind = "Ground"
