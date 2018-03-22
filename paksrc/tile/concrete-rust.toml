@@ -7,4 +7,4 @@ w = 48
 h = 48
 
 [tile]
-kind = "Ground"
+kind = "ground"
