@@ -1,0 +1,15 @@
+object_type = "item"
+id = "!mochi"
+ 
+[image]
+path = "mochi.png"
+w = 24
+h = 24
+
+[item]
+item_kind = "food"
+gen_weight = 2
+gen_level = 20
+basic_price = 2000
+
+nutrition = 1500

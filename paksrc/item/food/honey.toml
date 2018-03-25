@@ -1,0 +1,15 @@
+object_type = "item"
+id = "!honey"
+ 
+[image]
+path = "honey.png"
+w = 24
+h = 24
+
+[item]
+item_kind = "food"
+gen_weight = 2
+gen_level = 10
+basic_price = 800
+
+nutrition = 1500

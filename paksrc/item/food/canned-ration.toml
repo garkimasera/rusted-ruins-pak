@@ -1,0 +1,15 @@
+object_type = "item"
+id = "!canned-ration"
+ 
+[image]
+path = "canned-ration.png"
+w = 24
+h = 24
+
+[item]
+item_kind = "food"
+gen_weight = 10
+gen_level = 0
+basic_price = 500
+
+nutrition = 1000
