@@ -1,0 +1,10 @@
+object_type = "anim_img"
+id = "!arrow"
+ 
+[image]
+path = "arrow.png"
+w = 24
+h = 24
+grid_w = 4
+grid_h = 2
+n_frame = 8
