@@ -6,8 +6,6 @@ path = "item-null.png"
 w = 24
 h = 24
 
-[icon]
-
 [item]
 item_kind = "object"
 gen_weight = 0
