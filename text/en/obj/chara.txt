@@ -1,5 +1,4 @@
-% !jelly
-jelly
+# Animal
 % !bat
 bat
 % !cockatrice
@@ -12,3 +11,13 @@ mouse
 raven
 % !stray-dog
 stray dog
+
+# Bug
+% !giant-ant
+giant ant
+% !fire-ant
+fire ant
+
+# Slime
+% !jelly
+jelly

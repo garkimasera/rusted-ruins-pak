@@ -1,0 +1,20 @@
+object_type = "chara_template"
+id = "!fire-ant"
+ 
+[image]
+path = "fire-ant.png"
+w = 24
+h = 24
+
+[chara_template]
+race = "bug"
+gen_weight = 10
+gen_level = 15
+max_hp = 40
+str = 17
+vit = 16
+dex = 13
+int = 11
+wil = 8
+cha = 10
+spd = 100

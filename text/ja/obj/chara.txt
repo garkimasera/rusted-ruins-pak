@@ -1,12 +1,23 @@
+# Animal
 % !bat
 コウモリ
+% !cockatrice
+コカトリス
 % !fox
-狐
-% !jelly
-ゼリー
+キツネ
 % !mouse
 ネズミ
 % !raven
 オオガラス
 % !stray-dog
 野犬
+
+# Bug
+% !giant-ant
+巨大アリ
+% !fire-ant
+ヒアリ
+
+# Slime
+% !jelly
+ゼリー

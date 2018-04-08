@@ -1,0 +1,20 @@
+object_type = "chara_template"
+id = "!giant-ant"
+ 
+[image]
+path = "giant-ant.png"
+w = 24
+h = 24
+
+[chara_template]
+race = "bug"
+gen_weight = 15
+gen_level = 1
+max_hp = 22
+str = 12
+vit = 13
+dex = 10
+int = 9
+wil = 6
+cha = 10
+spd = 100
