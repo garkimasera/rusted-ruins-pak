@@ -1,0 +1,10 @@
+object_type = "ui_img"
+id = "!tile-cursor"
+
+[image]
+path = "tile-cursor.png"
+w = 48
+h = 48
+
+
+ 
