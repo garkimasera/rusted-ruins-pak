@@ -1,0 +1,20 @@
+object_type = "chara_template"
+id = "!killer-scorpion"
+ 
+[image]
+path = "killer-scorpion.png"
+w = 32
+h = 32
+
+[chara_template]
+race = "bug"
+gen_weight = 10
+gen_level = 32
+max_hp = 140
+str = 22
+vit = 20
+dex = 16
+int = 8
+wil = 9
+cha = 15
+spd = 100
