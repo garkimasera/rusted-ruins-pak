@@ -1,0 +1,20 @@
+object_type = "chara_template"
+id = "!warrior.m"
+ 
+[image]
+path = "warrior.m.png"
+w = 24
+h = 48
+
+[chara_template]
+race = "human"
+gen_weight = 0
+gen_level = 1
+max_hp = 20
+str = 26
+vit = 22
+dex = 17
+int = 15
+wil = 19
+cha = 17
+spd = 100
