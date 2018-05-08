@@ -1,8 +1,8 @@
 object_type = "region_gen"
-id = "!east-coast"
+id = "!south-coast"
 
 [region_gen]
-map_template_id = "!east-coast"
+map_template_id = "!south-coast"
 
 [[region_gen.towns]]
 id = "!town.freedom"
