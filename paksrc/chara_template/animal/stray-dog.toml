@@ -1,5 +1,5 @@
 object_type = "chara_template"
-id = "!stray-dog"
+id = "stray-dog"
  
 [image]
 path = "stray-dog.png"

@@ -1,21 +1,21 @@
 object_type = "site_gen"
-id = "!town.freedom"
+id = "town-freedom"
 
 [site_gen]
 kind = "town"
-map_template_id = ["!town.freedom.0"]
+map_template_id = ["town-freedom-0"]
 
 [[site_gen.unique_citizens]]
 pos = [3, 3]
 floor = 0
-chara_template_id = "!guild.informant"
-talk_script_id = "!guild.informant"
+chara_template_id = "guild-informant"
+talk_script_id = "guild-informant"
 
 [[site_gen.unique_citizens]]
 pos = [3, 12]
 floor = 0
-chara_template_id = "!towngirl.1"
-talk_script_id = "!hello"
+chara_template_id = "towngirl-1"
+talk_script_id = "hello"
 
 [[site_gen.shops]]
 pos = [2, 2]

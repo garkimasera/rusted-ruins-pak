@@ -1,0 +1,7 @@
+object_type = "wall"
+id = "brick-wall-1"
+
+[image]
+path = "brick-wall-1.png"
+w = 48
+h = 80

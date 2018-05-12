@@ -1,8 +1,8 @@
 object_type = "wall"
-id = "!concrete-rust.wall"
+id = "concrete-rust-wall"
 
 [image]
-path = "concrete-rust.wall.png"
+path = "concrete-rust-wall.png"
 w = 48
 h = 80
 grid_nx = 3

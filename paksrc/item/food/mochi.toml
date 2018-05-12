@@ -1,5 +1,5 @@
 object_type = "item"
-id = "!mochi"
+id = "mochi"
  
 [image]
 path = "mochi.png"

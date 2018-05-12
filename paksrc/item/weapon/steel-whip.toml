@@ -1,5 +1,5 @@
 object_type = "item"
-id = "!steel-whip"
+id = "steel-whip"
  
 [image]
 path = "steel-whip.png"

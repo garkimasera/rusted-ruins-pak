@@ -1,8 +1,8 @@
 object_type = "wall"
-id = "!dirt.wall"
+id = "dirt-wall"
 
 [image]
-path = "dirt.wall.png"
+path = "dirt-wall.png"
 w = 48
 h = 80
 grid_nx = 3

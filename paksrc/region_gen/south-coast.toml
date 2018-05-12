@@ -1,9 +1,9 @@
 object_type = "region_gen"
-id = "!south-coast"
+id = "south-coast"
 
 [region_gen]
-map_template_id = "!south-coast"
+map_template_id = "south-coast"
 
 [[region_gen.towns]]
-id = "!town.freedom"
+id = "town-freedom"
 pos = [4, 3]

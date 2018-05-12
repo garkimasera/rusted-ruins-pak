@@ -1,9 +1,9 @@
 object_type = "talk_script"
-id = "!guild.informant"
+id = "guild-informant"
   
 [talk_script.sections."start"]
 kind = "normal"
-answers = ["!guild.informant.ans.add_dungeons", "!guild.informant.ans.exit"]
+answers = ["guild-informant-ans-add_dungeons", "guild-informant-ans-exit"]
 dest_sections = ["add_dungeons", ""]
 default_dest_section = ""
 

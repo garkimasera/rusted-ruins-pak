@@ -1,8 +1,8 @@
 object_type = "tile"
-id = "!wood.1"
+id = "carpet-1"
 
 [image]
-path = "wood.1.png"
+path = "carpet-1.png"
 w = 48
 h = 48
 

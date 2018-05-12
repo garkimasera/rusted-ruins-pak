@@ -1,5 +1,5 @@
 object_type = "item"
-id = "!wood-longbow"
+id = "wood-longbow"
  
 [image]
 path = "wood-longbow.png"

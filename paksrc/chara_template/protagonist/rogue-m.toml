@@ -1,8 +1,8 @@
 object_type = "chara_template"
-id = "!archeologist.m"
+id = "rogue-m"
  
 [image]
-path = "archeologist.m.png"
+path = "rogue-m.png"
 w = 24
 h = 48
 
@@ -11,10 +11,10 @@ race = "human"
 gen_weight = 0
 gen_level = 1
 max_hp = 20
-str = 15
-vit = 18
-dex = 26
-int = 24
-wil = 18
-cha = 18
+str = 17
+vit = 17
+dex = 25
+int = 18
+wil = 15
+cha = 14
 spd = 100

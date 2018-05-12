@@ -1,5 +1,5 @@
 object_type = "chara_template"
-id = "!magma-slime"
+id = "magma-slime"
  
 [image]
 path = "magma-slime.png"

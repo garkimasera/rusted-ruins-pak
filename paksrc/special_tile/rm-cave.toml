@@ -1,11 +1,11 @@
 object_type = "special_tile"
-id = "!rm.town"
+id = "!rm-cave"
 
 [special_tile]
 always_background = true
 
 [image]
-path = "rm.town.png"
+path = "rm-cave.png"
 w = 48
 h = 48
 

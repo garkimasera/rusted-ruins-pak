@@ -1,8 +1,8 @@
 object_type = "wall"
-id = "!rm.mountain"
+id = "rm-mountain"
 
 [image]
-path = "rm.mountain.png"
+path = "rm-mountain.png"
 w = 48
 h = 48
 

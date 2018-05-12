@@ -1,7 +1,7 @@
 object_type = "effect"
-id = "!fog.00"
+id = "fog"
 
 [image]
-path = "fog.00.png"
+path = "fog.png"
 w = 48
 h = 48

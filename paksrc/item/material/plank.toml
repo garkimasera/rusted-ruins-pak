@@ -1,5 +1,5 @@
 object_type = "item"
-id = "!plank"
+id = "plank"
  
 [image]
 path = "plank.png"

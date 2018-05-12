@@ -1,5 +1,5 @@
 object_type = "item"
-id = "!sleep-rose"
+id = "sleep-rose"
  
 [image]
 path = "sleep-rose.png"

@@ -1,8 +1,8 @@
 object_type = "chara_template"
-id = "!shopkeeper.m.1"
+id = "guild-informant"
  
 [image]
-path = "shopkeeper.m.1.png"
+path = "guild-informant.png"
 w = 24
 h = 48
 
@@ -10,11 +10,11 @@ h = 48
 race = "human"
 gen_weight = 0
 gen_level = 0
-max_hp = 120
-str = 14
-vit = 20
-dex = 22
-int = 20
-wil = 11
-cha = 17
+max_hp = 250
+str = 20
+vit = 22
+dex = 24
+int = 24
+wil = 17
+cha = 19
 spd = 100

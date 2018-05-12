@@ -1,5 +1,5 @@
 object_type = "item"
-id = "!steel-platearmor"
+id = "steel-platearmor"
  
 [image]
 path = "steel-platearmor.png"

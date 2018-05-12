@@ -1,5 +1,5 @@
 object_type = "item"
-id = "!healing-potion"
+id = "healing-potion"
  
 [image]
 path = "healing-potion.png"

@@ -1,5 +1,5 @@
 object_type = "chara_template"
-id = "!bat"
+id = "bat"
  
 [image]
 path = "bat.png"

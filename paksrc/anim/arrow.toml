@@ -1,5 +1,5 @@
 object_type = "anim_img"
-id = "!arrow"
+id = "arrow"
  
 [image]
 path = "arrow.png"

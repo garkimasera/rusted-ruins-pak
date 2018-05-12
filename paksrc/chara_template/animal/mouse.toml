@@ -1,5 +1,5 @@
 object_type = "chara_template"
-id = "!mouse"
+id = "mouse"
  
 [image]
 path = "mouse.png"

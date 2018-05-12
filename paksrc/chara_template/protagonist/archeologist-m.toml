@@ -1,20 +1,20 @@
 object_type = "chara_template"
-id = "!towngirl.1"
+id = "archeologist-m"
  
 [image]
-path = "towngirl.1.png"
+path = "archeologist-m.png"
 w = 24
 h = 48
 
 [chara_template]
 race = "human"
 gen_weight = 0
-gen_level = 0
-max_hp = 100
-str = 12
-vit = 16
-dex = 15
-int = 15
-wil = 12
+gen_level = 1
+max_hp = 20
+str = 15
+vit = 18
+dex = 26
+int = 24
+wil = 18
 cha = 18
 spd = 100

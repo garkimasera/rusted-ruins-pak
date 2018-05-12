@@ -1,5 +1,5 @@
 object_type = "chara_template"
-id = "!cockatrice"
+id = "cockatrice"
  
 [image]
 path = "cockatrice.png"

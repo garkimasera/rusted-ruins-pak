@@ -1,5 +1,5 @@
 object_type = "tile"
-id = "!soil"
+id = "soil"
 
 [image]
 path = "soil.png"

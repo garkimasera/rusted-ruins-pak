@@ -1,5 +1,5 @@
 object_type = "item"
-id = "!canned-ration"
+id = "canned-ration"
  
 [image]
 path = "canned-ration.png"

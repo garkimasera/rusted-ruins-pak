@@ -1,5 +1,5 @@
 object_type = "tile"
-id = "!sand"
+id = "sand"
 
 [image]
 path = "sand.png"

@@ -1,8 +1,8 @@
 object_type = "chara_template"
-id = "!guild.informant"
+id = "!towngirl-1"
  
 [image]
-path = "guild.informant.png"
+path = "towngirl-1.png"
 w = 24
 h = 48
 
@@ -10,11 +10,11 @@ h = 48
 race = "human"
 gen_weight = 0
 gen_level = 0
-max_hp = 250
-str = 20
-vit = 22
-dex = 24
-int = 24
-wil = 17
-cha = 19
+max_hp = 100
+str = 12
+vit = 16
+dex = 15
+int = 15
+wil = 12
+cha = 18
 spd = 100

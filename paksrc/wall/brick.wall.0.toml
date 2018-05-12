@@ -1,7 +1,0 @@
-object_type = "wall"
-id = "!brick.wall.0"
-
-[image]
-path = "brick.wall.0.png"
-w = 48
-h = 80

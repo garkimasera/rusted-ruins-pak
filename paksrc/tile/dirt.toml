@@ -1,5 +1,5 @@
 object_type = "tile"
-id = "!dirt"
+id = "dirt"
 
 [image]
 path = "dirt.png"
