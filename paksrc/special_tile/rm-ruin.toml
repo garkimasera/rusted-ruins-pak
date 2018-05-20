@@ -1,0 +1,11 @@
+object_type = "special_tile"
+id = "!rm-ruin"
+
+[special_tile]
+always_background = true
+
+[image]
+path = "rm-ruin.png"
+w = 48
+h = 48
+
