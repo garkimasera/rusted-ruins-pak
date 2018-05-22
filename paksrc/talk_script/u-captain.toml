@@ -1,0 +1,20 @@
+object_type = "talk_script"
+id = "u-captain"
+  
+[talk_script.sections.start]
+kind = "normal"
+default_dest_section = "1"
+
+[talk_script.sections.1]
+kind = "normal"
+default_dest_section = "3"
+answers = ["ans-yes", "ans-no"]
+dest_sections = ["2", "3"]
+
+[talk_script.sections.2]
+kind = "normal"
+default_dest_section = ""
+
+[talk_script.sections.3]
+kind = "normal"
+default_dest_section = ""

@@ -17,6 +17,12 @@ floor = 0
 chara_template_id = "towngirl-1"
 talk_script_id = "hello"
 
+[[site_gen.unique_citizens]]
+pos = [10, 10]
+floor = 0
+chara_template_id = "u-captain"
+talk_script_id = "u-captain"
+
 [[site_gen.shops]]
 pos = [2, 2]
 floor = 0
