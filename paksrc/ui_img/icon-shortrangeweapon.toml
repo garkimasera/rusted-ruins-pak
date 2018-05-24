@@ -1,7 +1,0 @@
-object_type = "ui_img"
-id = "!icon-shortrangeweapon"
-
-[image]
-path = "icon-shortrangeweapon.png"
-w = 24
-h = 24
