@@ -10,6 +10,7 @@ h = 23
 race = "animal"
 gen_weight = 15
 gen_level = 8
+default_ai_kind = "melee"
 max_hp = 32
 str = 22
 vit = 16

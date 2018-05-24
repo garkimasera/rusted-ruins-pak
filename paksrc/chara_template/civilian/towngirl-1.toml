@@ -10,6 +10,7 @@ h = 48
 race = "human"
 gen_weight = 0
 gen_level = 0
+default_ai_kind = "no_move"
 max_hp = 100
 str = 12
 vit = 16

@@ -3,15 +3,15 @@ id = "guild-informant"
   
 [talk_script.sections."start"]
 kind = "normal"
-answers = ["guild-informant-ans-add_dungeons", "guild-informant-ans-exit"]
-dest_sections = ["add_dungeons", ""]
+answers = ["guild-informant-ans-add-dungeons", "guild-informant-ans-exit"]
+dest_sections = ["add-dungeons", ""]
 default_dest_section = ""
 
-[talk_script.sections."add_dungeons"]
+[talk_script.sections."add-dungeons"]
 kind = "special"
-dest_sections = ["after_add_dungeons"]
+dest_sections = ["after-add-dungeons"]
 special = "informant_dungeons"
 
-[talk_script.sections."after_add_dungeons"]
+[talk_script.sections."after-add-dungeons"]
 kind = "normal"
 default_dest_section = "start"

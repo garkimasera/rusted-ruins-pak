@@ -10,6 +10,7 @@ h = 32
 race = "bug"
 gen_weight = 10
 gen_level = 32
+default_ai_kind = "melee"
 max_hp = 140
 str = 22
 vit = 20
