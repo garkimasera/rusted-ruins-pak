@@ -5,3 +5,6 @@ id = "brick-wall-1"
 path = "brick-wall-1.png"
 w = 48
 h = 80
+grid_nx = 3
+grid_ny = 2
+n_pattern = 5
