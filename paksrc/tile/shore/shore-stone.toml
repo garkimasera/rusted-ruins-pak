@@ -1,0 +1,10 @@
+object_type = "tile"
+id = "shore-stone"
+
+[image]
+path = "shore-stone.png"
+w = 48
+h = 48
+
+[tile]
+kind = "water"
