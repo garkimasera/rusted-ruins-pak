@@ -1,23 +1,31 @@
 # Animal
-% !bat
+% bat
 コウモリ
-% !cockatrice
+% cockatrice
 コカトリス
-% !fox
+% fox
 キツネ
-% !mouse
+% mouse
 ネズミ
-% !raven
+% raven
 オオガラス
-% !stray-dog
+% stray-dog
 野犬
 
 # Bug
-% !giant-ant
-巨大アリ
-% !fire-ant
+% fire-ant
 ヒアリ
+% giant-ant
+巨大アリ
+% killer-scorpion
+キラースコーピオン
+% scorpion
+さそり
 
 # Slime
-% !jelly
+% green-slime
+グリーンスライム
+% jelly
 ゼリー
+% magma-slime
+マグマスライム

@@ -1,23 +1,31 @@
 # Animal
-% !bat
+% bat
 bat
-% !cockatrice
+% cockatrice
 cockatrice
-% !fox
+% fox
 fox
-% !mouse
+% mouse
 mouse
-% !raven
+% raven
 raven
-% !stray-dog
+% stray-dog
 stray dog
 
 # Bug
-% !giant-ant
-giant ant
-% !fire-ant
+% fire-ant
 fire ant
+% giant-ant
+giant ant
+% killer-scorpion
+killer scorpion
+% scorpion
+scorpion
 
 # Slime
-% !jelly
+% green-slime
+green slime
+% jelly
 jelly
+% magma-slime
+magma slime
