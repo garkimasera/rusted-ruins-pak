@@ -1,0 +1,24 @@
+object_type = "talk_script"
+id = "shop"
+  
+[talk_script.sections."start"]
+kind = "normal"
+answers = ["shop-buy", "shop-sell", "shop-ans-exit"]
+dest_sections = ["shop-buy", "shop-sell", ""]
+default_dest_section = ""
+
+[talk_script.sections."shop-buy"]
+kind = "special"
+dest_sections = ["loop"]
+special = "shop_buy"
+
+[talk_script.sections."shop-sell"]
+kind = "special"
+dest_sections = ["loop"]
+special = "shop_sell"
+
+[talk_script.sections."loop"]
+kind = "normal"
+answers = ["shop-buy", "shop-sell", "shop-ans-exit"]
+dest_sections = ["shop-buy", "shop-sell", ""]
+default_dest_section = ""

@@ -23,7 +23,12 @@ floor = 0
 chara_template_id = "u-captain"
 talk_script_id = "u-captain"
 
+[[site_gen.unique_citizens]]
+pos = [7, 4]
+floor = 0
+chara_template_id = "shopkeeper-m-1"
+talk_script_id = "shop"
+
 [[site_gen.shops]]
-pos = [2, 2]
 floor = 0
 kind = "equipment"
