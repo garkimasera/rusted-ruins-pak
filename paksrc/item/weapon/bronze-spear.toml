@@ -9,6 +9,7 @@ item_kind = "weapon"
 gen_weight = 5
 gen_level = 2
 basic_price = 180
+w = 7000
 
 weapon_kind = "spear"
 dice_n = 2

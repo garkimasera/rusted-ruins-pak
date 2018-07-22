@@ -9,6 +9,7 @@ item_kind = "armor"
 gen_weight = 3
 gen_level = 14
 basic_price = 1280
+w = 20000
 
 armor_kind = "body"
 def = 12

@@ -11,5 +11,6 @@ item_kind = "food"
 gen_weight = 2
 gen_level = 10
 basic_price = 800
+w = 120
 
 nutrition = 1500

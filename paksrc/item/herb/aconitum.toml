@@ -11,6 +11,7 @@ item_kind = "food"
 gen_weight = 10
 gen_level = 0
 basic_price = 20
+w = 20
 
 medical_effect= "poison"
 eff = 10

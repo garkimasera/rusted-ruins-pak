@@ -11,3 +11,4 @@ item_kind = "object"
 gen_weight = 10
 gen_level = 1
 basic_price = 10
+w = 1500
