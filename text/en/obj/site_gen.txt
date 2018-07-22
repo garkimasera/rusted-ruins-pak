@@ -1,2 +1,2 @@
-% !town.freedom
+% town-freedom
 Freedom Town
