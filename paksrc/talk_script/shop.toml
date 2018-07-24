@@ -3,7 +3,7 @@ id = "shop"
   
 [talk_script.sections."start"]
 kind = "normal"
-answers = ["shop-buy", "shop-sell", "shop-ans-exit"]
+answers = ["shop-ans-buy", "shop-ans-sell", "shop-ans-exit"]
 dest_sections = ["shop-buy", "shop-sell", ""]
 default_dest_section = ""
 
@@ -19,6 +19,6 @@ special = "shop_sell"
 
 [talk_script.sections."loop"]
 kind = "normal"
-answers = ["shop-buy", "shop-sell", "shop-ans-exit"]
+answers = ["shop-ans-buy", "shop-ans-sell", "shop-ans-exit"]
 dest_sections = ["shop-buy", "shop-sell", ""]
 default_dest_section = ""

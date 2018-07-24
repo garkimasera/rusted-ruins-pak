@@ -1,3 +1,13 @@
+% shop-start
+Welcome.
+% shop-loop
+What do you need?
+% shop-ans-buy
+Buy
+% shop-ans-sell
+Sell
+% shop-ans-exit
+Exit
 % guild-informant-start
 I'm a member of this guild.
 My role is to teach information in this region.
