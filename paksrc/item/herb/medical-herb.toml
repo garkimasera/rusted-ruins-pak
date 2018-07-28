@@ -1,8 +1,8 @@
 object_type = "item"
-id = "weed4"
+id = "medical-herb"
  
 [image]
-path = "weed4.png"
+path = "medical-herb.png"
 w = 24
 h = 24
 
@@ -10,9 +10,9 @@ h = 24
 item_kind = "food"
 gen_weight = 10
 gen_level = 1
-basic_price = 20
+basic_price = 30
 w = 15
 
 medical_effect= "heal"
-eff = 10
+eff = 30
 nutrition = 10
