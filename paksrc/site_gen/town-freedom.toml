@@ -6,29 +6,33 @@ kind = "town"
 map_template_id = ["town-freedom-0"]
 
 [[site_gen.unique_citizens]]
+n = 0
 pos = [3, 3]
 floor = 0
 chara_template_id = "guild-informant"
 talk_script_id = "guild-informant"
 
 [[site_gen.unique_citizens]]
+n = 1
 pos = [3, 12]
 floor = 0
 chara_template_id = "towngirl-1"
 talk_script_id = "hello"
 
 [[site_gen.unique_citizens]]
+n = 2
 pos = [10, 10]
 floor = 0
 chara_template_id = "u-captain"
 talk_script_id = "u-captain"
 
 [[site_gen.unique_citizens]]
+n = 3
 pos = [7, 4]
 floor = 0
 chara_template_id = "shopkeeper-m-1"
 talk_script_id = "shop"
 
 [[site_gen.shops]]
-floor = 0
+chara_n = 3
 kind = "equipment"
