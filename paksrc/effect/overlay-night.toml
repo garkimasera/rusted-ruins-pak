@@ -1,0 +1,7 @@
+object_type = "effect"
+id = "overlay-night"
+
+[image]
+path = "overlay-night.png"
+w = 48
+h = 48
