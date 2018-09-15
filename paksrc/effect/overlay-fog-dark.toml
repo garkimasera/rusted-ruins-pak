@@ -1,0 +1,10 @@
+object_type = "effect"
+id = "overlay-fog-dark"
+
+[image]
+path = "overlay-fog-dark.png"
+w = 48
+h = 48
+grid_nx = 2
+grid_ny = 3
+n_pattern = 5
