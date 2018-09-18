@@ -1,0 +1,16 @@
+object_type = "item"
+id = "apple"
+ 
+[image]
+path = "apple.png"
+w = 24
+h = 24
+
+[item]
+item_kind = "food"
+gen_weight = 8
+gen_level = 3
+basic_price = 100
+w = 250
+
+nutrition = 200
