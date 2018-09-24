@@ -1,8 +1,8 @@
 object_type = "chara_template"
-id = "archeologist-m"
+id = "adventurer-m"
  
 [image]
-path = "archeologist-m.png"
+path = "adventurer-m.png"
 w = 24
 h = 48
 
