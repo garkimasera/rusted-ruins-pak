@@ -1,0 +1,22 @@
+object_type = "script"
+id = "shop"
+
+[script]
+script = """
+--- start
+talk(shop.start,
+     [(shop.ans.buy, buy),
+      (shop.ans.sell, sell),
+      (shop.ans.exit, quit)])
+--- loop
+talk(shop.loop,
+     [(shop.ans.buy, buy),
+      (shop.ans.sell, sell),
+      (shop.ans.exit, quit)])
+--- buy
+shop_buy()
+jump(loop)
+--- sell
+shop_sell()
+jump(loop)
+"""

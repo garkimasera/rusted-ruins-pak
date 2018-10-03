@@ -1,0 +1,14 @@
+object_type = "script"
+id = "guild-informant"
+
+[script]
+script = """
+--- start
+talk(guild-informant.start ,
+     [(guild-informant.ans.add-dungeons, get-dungeon-locate),
+      (guild-informant.ans.exit, quit)])
+--- get-dungeon-locate
+get_dungeon_location()
+talk(guild-informant.after-add-dungeons)
+jump(start)
+"""

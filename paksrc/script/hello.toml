@@ -1,0 +1,10 @@
+object_type = "script"
+id = "hello"
+
+[script]
+script = """
+--- start
+talk(hello.start)
+talk(hello.next, [(ans.yes, start), (ans.no, quit)])
+"""
+
