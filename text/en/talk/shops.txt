@@ -1,19 +1,19 @@
-% shop-start
+% shop.start
 Welcome.
-% shop-loop
+% shop.loop
 What do you need?
-% shop-ans-buy
+% shop.ans.buy
 Buy
-% shop-ans-sell
+% shop.ans.sell
 Sell
-% shop-ans-exit
+% shop.ans.exit
 Exit
-% guild-informant-start
+% guild-informant.start
 I'm a member of this guild.
 My role is to teach information in this region.
-% guild-informant-after-add-dungeons
+% guild-informant.after-add-dungeons
 I added dungeons to your map
-% guild-informant-ans-add-dungeons
+% guild-informant.ans.add-dungeons
 Add new dungeons to my map
-% guild-informant-ans-exit
+% guild-informant.ans.exit
 Bye

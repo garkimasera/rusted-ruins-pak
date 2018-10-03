@@ -1,4 +1,4 @@
-% ans-yes
+% ans.yes
 はい
-% ans-no
+% ans.no
 いいえ

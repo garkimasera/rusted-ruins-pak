@@ -1,4 +1,4 @@
-% ans-yes
+% ans.yes
 Yes
-% ans-no
+% ans.no
 No
