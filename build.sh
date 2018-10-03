@@ -15,5 +15,6 @@ $makepak $srcdir/tile/**/*.toml           -o $destdir/tile.pak
 $makepak $srcdir/ui_img/**/*.toml         -o $destdir/ui_img.pak
 $makepak $srcdir/wall/**/*.toml           -o $destdir/wall.pak
 $makepak $srcdir/region_gen/**/*.toml     -o $destdir/region_gen.pak
+$makepak $srcdir/script/**/*.toml         -o $destdir/script.pak
 $makepak $srcdir/site_gen/**/*.toml       -o $destdir/site_gen.pak
-$makepak $srcdir/talk_script/**/*.toml    -o $destdir/talk_script.pak
+
