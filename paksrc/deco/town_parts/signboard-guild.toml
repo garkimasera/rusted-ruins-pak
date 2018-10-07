@@ -1,0 +1,7 @@
+object_type = "deco"
+id = "signboard-guild"
+
+[image]
+path = "signboard-guild.png"
+w = 48
+h = 48
