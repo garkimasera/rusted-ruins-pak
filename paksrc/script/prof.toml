@@ -1,0 +1,12 @@
+object_type = "script"
+id = "prof"
+
+[script]
+script = """
+--- start
+jump_if(has-box, has_item(ancient-box))
+--- has-box
+recieve_money(1000)
+remove_item(ancient-box)
+"""
+

@@ -7,7 +7,7 @@ map_template_id = ["town-freedom-0"]
 
 [[site_gen.unique_citizens]]
 n = 0
-pos = [3, 3]
+pos = [7, 4]
 floor = 0
 chara_template_id = "guild-informant"
 talk_script_id = "guild-informant"
@@ -28,7 +28,7 @@ talk_script_id = "u-captain"
 
 [[site_gen.unique_citizens]]
 n = 3
-pos = [7, 4]
+pos = [4, 3]
 floor = 0
 chara_template_id = "shopkeeper-m-1"
 talk_script_id = "shop"
@@ -36,10 +36,10 @@ talk_script_id = "shop"
 
 [[site_gen.unique_citizens]]
 n = 4
-pos = [10, 4]
+pos = [13, 4]
 floor = 0
 chara_template_id = "prof"
-talk_script_id = "archaeologist"
+talk_script_id = "prof"
 
 [[site_gen.shops]]
 chara_n = 3
