@@ -12,5 +12,4 @@ basic_price = 500
 w = 5000
 
 armor_kind = "body"
-def = 6
-mdf = 3
+def = [6, 4, 4, 2, 2, 0]

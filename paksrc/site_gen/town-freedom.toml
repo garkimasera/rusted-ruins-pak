@@ -33,6 +33,14 @@ floor = 0
 chara_template_id = "shopkeeper-m-1"
 talk_script_id = "shop"
 
+
+[[site_gen.unique_citizens]]
+n = 4
+pos = [10, 4]
+floor = 0
+chara_template_id = "prof"
+talk_script_id = "archaeologist"
+
 [[site_gen.shops]]
 chara_n = 3
 kind = "equipment"
