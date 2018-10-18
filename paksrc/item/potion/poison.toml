@@ -1,0 +1,17 @@
+object_type = "item"
+id = "poison"
+ 
+[image]
+path = "poison.png"
+w = 24
+h = 24
+
+[item]
+item_kind = "potion"
+gen_weight = 10
+gen_level = 0
+basic_price = 20
+w = 200
+
+medical_effect = "poison"
+eff = 10
