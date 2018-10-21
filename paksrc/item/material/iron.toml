@@ -1,14 +1,14 @@
 object_type = "item"
-id = "plank"
+id = "iron"
  
 [image]
-path = "plank.png"
+path = "iron.png"
 w = 24
 h = 24
 
 [item]
 item_kind = "material"
 gen_weight = 10
-gen_level = 1
-basic_price = 10
-w = 1500
+gen_level = 4
+basic_price = 1500
+w = 2000

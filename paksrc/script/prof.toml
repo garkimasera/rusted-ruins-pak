@@ -4,13 +4,14 @@ id = "prof"
 [script]
 script = """
 --- start
-jump_if(has-box, has_item(ancient-box))
+jump_if(has-box, has_item(bronze-dagger))
 talk(prof.0)
 --- has-box
 talk(prof.1,
      [(ans.yes, continue), (ans.no, after-no)])
 recieve_money(1000)
-remove_item(ancient-box)
+gset(given-ancient-box, $(given-ancient-box) + 1)
+remove_item(bronze-dagger)
 talk(prof.2)
 --- after-no
 talk(prof.3)
