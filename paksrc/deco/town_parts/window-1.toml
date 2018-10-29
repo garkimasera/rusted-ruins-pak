@@ -1,0 +1,7 @@
+object_type = "deco"
+id = "window-1"
+
+[image]
+path = "window-1.png"
+w = 48
+h = 48
