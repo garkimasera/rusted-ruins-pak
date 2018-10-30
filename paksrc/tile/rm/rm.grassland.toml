@@ -1,5 +1,5 @@
 object_type = "tile"
-id = "!rm.grassland"
+id = "rm.grassland"
 
 [image]
 path = "rm.grassland.png"

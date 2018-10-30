@@ -1,5 +1,5 @@
 object_type = "tile"
-id = "!rm.barren"
+id = "rm.barren"
 
 [image]
 path = "rm.barren.png"
