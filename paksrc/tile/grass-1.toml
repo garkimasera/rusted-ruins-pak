@@ -1,0 +1,11 @@
+object_type = "tile"
+id = "grass-1"
+
+[image]
+path = "grass-1.png"
+w = 48
+h = 48
+
+[tile]
+kind = "ground"
+ 
