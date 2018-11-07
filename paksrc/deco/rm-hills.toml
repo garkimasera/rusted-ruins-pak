@@ -1,7 +1,0 @@
-object_type = "deco"
-id = "rm-hills"
-
-[image]
-path = "rm-hills.png"
-w = 48
-h = 48
