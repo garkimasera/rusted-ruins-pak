@@ -1,8 +1,8 @@
 object_type = "tile"
-id = "soil"
+id = "soil-1"
 
 [image]
-path = "soil.png"
+path = "soil-1.png"
 w = 48
 h = 48
 

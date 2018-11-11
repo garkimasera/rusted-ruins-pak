@@ -1,11 +1,10 @@
 object_type = "tile"
-id = "dirt"
+id = "soil-2"
 
 [image]
-path = "dirt.png"
+path = "soil-2.png"
 w = 48
 h = 48
 
 [tile]
 kind = "ground"
- 
