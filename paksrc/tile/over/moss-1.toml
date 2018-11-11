@@ -1,0 +1,10 @@
+object_type = "tile"
+id = "moss-1"
+
+[image]
+path = "moss-1.png"
+w = 48
+h = 48
+
+[tile]
+kind = "ground"
