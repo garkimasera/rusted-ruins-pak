@@ -1,7 +1,10 @@
-object_type = "deco"
+object_type = "tile"
 id = "flowers-1"
 
 [image]
 path = "flowers-1.png"
 w = 48
 h = 48
+
+[tile]
+kind = "ground"
