@@ -1,0 +1,10 @@
+object_type = "ui_img"
+id = "!make-dark"
+
+[image]
+path = "make-dark.png"
+w = 24
+h = 24
+
+
+ 
