@@ -1,8 +1,4 @@
-object_type = "script"
-id = "prof"
-
-[script]
-script = """
+prof
 --- start
 jump_if(collected-3, $(given-ancient-box) == 3)
 jump_if(has-box, has_item(ancient-box))
@@ -10,7 +6,7 @@ talk(prof.0)
 --- has-box
 talk(prof.1,
      [(ans.yes, continue), (ans.no, after-no)])
-recieve_money(1000)
+receive_money(1000)
 gset(given-ancient-box, $(given-ancient-box) + 1)
 remove_item(ancient-box)
 talk(prof.2)
@@ -18,4 +14,3 @@ talk(prof.2)
 talk(prof.3)
 --- collected-3
 talk(prof.4)
-"""

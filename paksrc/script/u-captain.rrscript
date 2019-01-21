@@ -1,8 +1,4 @@
-object_type = "script"
-id = "u-captain"
-
-[script]
-script = """
+u-captain
 --- start
 talk(u-captain.start)
 talk(u-captain.1, [(ans.yes, s1), (ans.no, s2)])
@@ -10,4 +6,3 @@ talk(u-captain.1, [(ans.yes, s1), (ans.no, s2)])
 talk(u-captain.2)
 --- s2
 talk(u-captain.3)
-"""

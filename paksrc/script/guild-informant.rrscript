@@ -1,0 +1,24 @@
+guild-informant
+--- start
+talk(guild-informant.start ,
+     [(guild-informant.ans.quest, quest),
+      (guild-informant.ans.reward, reward),
+      (guild-informant.ans.add-dungeons, get-dungeon-locate),
+      (guild-informant.ans.exit, quit)])
+--- quest
+special(quest_window)
+jump(start)
+--- reward
+special(receive_quest_rewards)
+jump_if(reward-received, $?)
+jump(reward-not-received)
+--- reward-received
+talk(guild-informant.reward-recieved)
+jump(start)
+--- reward-not-received
+talk(guild-informant.reward-not-recieved)
+jump(start)
+--- get-dungeon-locate
+special(get_dungeon_location)
+talk(guild-informant.after-add-dungeons)
+jump(start)

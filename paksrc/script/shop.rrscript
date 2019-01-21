@@ -1,8 +1,4 @@
-object_type = "script"
-id = "shop"
-
-[script]
-script = """
+shop
 --- start
 talk(shop.start,
      [(shop.ans.buy, buy),
@@ -14,9 +10,8 @@ talk(shop.loop,
       (shop.ans.sell, sell),
       (shop.ans.exit, quit)])
 --- buy
-shop_buy()
+special(shop_buy)
 jump(loop)
 --- sell
-shop_sell()
+special(shop_sell)
 jump(loop)
-"""
