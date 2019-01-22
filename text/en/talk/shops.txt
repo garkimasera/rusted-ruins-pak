@@ -13,6 +13,14 @@ I'm a member of this guild.
 My role is to teach information in this region.
 % guild-informant.after-add-dungeons
 I added dungeons to your map
+% guild-informant.reward-recieved
+Well done. This is reward.
+% guild-informant.reward-not-recieved
+You have not completed any quests.
+% guild-informant.ans.quest
+Available quests
+% guild-informant.ans.reward
+Recieve rewards of completed quests
 % guild-informant.ans.add-dungeons
 Add new dungeons to my map
 % guild-informant.ans.exit
