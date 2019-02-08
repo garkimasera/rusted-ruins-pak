@@ -17,6 +17,8 @@ I added dungeons to your map
 Well done. This is reward.
 % guild-informant.reward-not-recieved
 You have not completed any quests.
+% guild-informant.add-dungeons-fail
+Any dungeons have not been discovered yet. Please wait.
 % guild-informant.ans.quest
 Available quests
 % guild-informant.ans.reward
