@@ -1,0 +1,17 @@
+object_type = "item"
+id = "custard-pudding"
+ 
+[image]
+path = "custard-pudding.png"
+w = 24
+h = 24
+
+[item]
+item_kind = "food"
+gen_weight = 0
+shop_weight = 2
+gen_level = 1
+basic_price = 2400
+w = 200
+
+nutrition = 800

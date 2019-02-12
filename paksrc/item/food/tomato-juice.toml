@@ -1,0 +1,17 @@
+object_type = "item"
+id = "tomato-juice"
+ 
+[image]
+path = "tomato-juice.png"
+w = 14
+h = 22
+
+[item]
+item_kind = "food"
+gen_weight = 0
+shop_weight = 1
+gen_level = 1
+basic_price = 1200
+w = 150
+
+nutrition = 400

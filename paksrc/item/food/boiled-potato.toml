@@ -1,17 +1,17 @@
 object_type = "item"
-id = "grape"
+id = "boiled-potato"
  
 [image]
-path = "grape.png"
+path = "boiled-potato.png"
 w = 24
 h = 24
 
 [item]
 item_kind = "food"
-gen_weight = 8
+gen_weight = 0
 shop_weight = 10
-gen_level = 0
-basic_price = 100
-w = 250
+gen_level = 1
+basic_price = 200
+w = 300
 
 nutrition = 200

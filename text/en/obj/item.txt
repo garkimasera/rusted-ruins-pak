@@ -19,23 +19,6 @@ healing potion
 % poison
 poison
 #
-# Food
-#
-% apple
-apple
-% canned-ration
-canned ration
-% grape
-grape
-% hard-biscuit
-biscuit
-% honey
-honey
-% mochi
-mochi
-% orange
-orange
-#
 # Weapon
 #
 % steel-dagger

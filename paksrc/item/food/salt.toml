@@ -1,8 +1,8 @@
 object_type = "item"
-id = "honey"
+id = "salt"
  
 [image]
-path = "honey.png"
+path = "salt.png"
 w = 24
 h = 24
 
@@ -11,7 +11,7 @@ item_kind = "food"
 gen_weight = 2
 shop_weight = 5
 gen_level = 0
-basic_price = 800
-w = 120
+basic_price = 2000
+w = 50
 
-nutrition = 1500
+nutrition = 10

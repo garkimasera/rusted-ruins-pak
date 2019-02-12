@@ -1,0 +1,17 @@
+object_type = "item"
+id = "fried-egg"
+ 
+[image]
+path = "fried-egg.png"
+w = 24
+h = 24
+
+[item]
+item_kind = "food"
+gen_weight = 0
+shop_weight = 2
+gen_level = 1
+basic_price = 800
+w = 180
+
+nutrition = 250

@@ -1,17 +1,17 @@
 object_type = "item"
-id = "grape"
+id = "egg"
  
 [image]
-path = "grape.png"
+path = "egg.png"
 w = 24
 h = 24
 
 [item]
 item_kind = "food"
-gen_weight = 8
+gen_weight = 2
 shop_weight = 10
 gen_level = 0
 basic_price = 100
-w = 250
+w = 200
 
 nutrition = 200
