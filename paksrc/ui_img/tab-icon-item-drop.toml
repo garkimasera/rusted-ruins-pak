@@ -1,0 +1,10 @@
+object_type = "ui_img"
+id = "!tab-icon-item-drop"
+
+[image]
+path = "tab-icon-item-drop.png"
+w = 48
+h = 32
+
+
+ 

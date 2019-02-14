@@ -1,0 +1,7 @@
+object_type = "ui_img"
+id = "!tab-icon-item-eat"
+
+[image]
+path = "tab-icon-item-eat.png"
+w = 48
+h = 32
