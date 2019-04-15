@@ -10,9 +10,10 @@ h = 24
 [item]
 item_kind = "magic_device"
 gen_weight = 2
-gen_level = 1
+gen_level = 0
 basic_price = 2000
 w = 600
 magical_effect = "arrow"
+charge = [8, 16]
 dice_n = 5
 dice_x = 10
