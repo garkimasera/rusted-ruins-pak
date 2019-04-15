@@ -2,6 +2,7 @@ object_type = "chara_template"
 id = "towngirl-1"
  
 [image]
+copyright="T.Okubo"
 path = "towngirl-1.png"
 w = 24
 h = 48

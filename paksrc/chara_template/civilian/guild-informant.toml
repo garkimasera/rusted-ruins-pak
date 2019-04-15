@@ -2,6 +2,7 @@ object_type = "chara_template"
 id = "guild-informant"
  
 [image]
+copyright="T.Okubo"
 path = "guild-informant.png"
 w = 24
 h = 48

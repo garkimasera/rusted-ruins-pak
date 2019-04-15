@@ -2,6 +2,7 @@ object_type = "tile"
 id = "shore-stone"
 
 [image]
+copyright="T.Okubo"
 path = "shore-stone.png"
 w = 48
 h = 48

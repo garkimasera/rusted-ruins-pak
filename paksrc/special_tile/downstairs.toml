@@ -5,6 +5,7 @@ id = "!downstairs"
 always_background = true
 
 [image]
+copyright="T.Okubo"
 path = "downstairs.png"
 w = 48
 h = 48

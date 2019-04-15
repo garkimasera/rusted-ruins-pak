@@ -2,6 +2,7 @@ object_type = "item"
 id = "steel-breastplate"
  
 [image]
+copyright="T.Okubo"
 path = "steel-breastplate.png"
 
 [item]

@@ -2,6 +2,7 @@ object_type = "item"
 id = "orange"
  
 [image]
+copyright="T.Okubo"
 path = "orange.png"
 w = 24
 h = 24

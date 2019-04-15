@@ -5,6 +5,7 @@ id = "!rm-cave"
 always_background = true
 
 [image]
+copyright="T.Okubo"
 path = "rm-cave.png"
 w = 48
 h = 48

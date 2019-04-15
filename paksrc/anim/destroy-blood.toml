@@ -2,6 +2,7 @@ object_type = "anim_img"
 id = "!destroy-blood"
  
 [image]
+copyright="T.Okubo"
 path = "destroy-blood.png"
 w = 48
 h = 48

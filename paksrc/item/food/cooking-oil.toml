@@ -2,6 +2,7 @@ object_type = "item"
 id = "cooking-oil"
  
 [image]
+copyright="T.Okubo"
 path = "cooking-oil.png"
 w = 24
 h = 24

@@ -2,6 +2,7 @@ object_type = "effect"
 id = "overlay-fog"
 
 [image]
+copyright="T.Okubo"
 path = "overlay-fog.png"
 w = 48
 h = 48

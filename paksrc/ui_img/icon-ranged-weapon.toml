@@ -2,6 +2,7 @@ object_type = "ui_img"
 id = "!icon-ranged-weapon"
 
 [image]
+copyright="T.Okubo"
 path = "icon-ranged-weapon.png"
 w = 24
 h = 24

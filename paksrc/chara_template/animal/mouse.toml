@@ -2,6 +2,7 @@ object_type = "chara_template"
 id = "mouse"
  
 [image]
+copyright="T.Okubo"
 path = "mouse.png"
 w = 24
 h = 12

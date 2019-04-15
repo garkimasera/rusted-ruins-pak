@@ -2,6 +2,7 @@ object_type = "wall"
 id = "soil-wall-1"
 
 [image]
+copyright="T.Okubo"
 path = "soil-wall-1.png"
 w = 48
 h = 80

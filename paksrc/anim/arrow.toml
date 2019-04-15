@@ -2,6 +2,7 @@ object_type = "anim_img"
 id = "arrow"
  
 [image]
+copyright="T.Okubo"
 path = "arrow.png"
 w = 24
 h = 24

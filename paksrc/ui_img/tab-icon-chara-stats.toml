@@ -2,6 +2,7 @@ object_type = "ui_img"
 id = "!tab-icon-chara-stats"
 
 [image]
+copyright="T.Okubo"
 path = "tab-icon-chara-stats.png"
 w = 48
 h = 32

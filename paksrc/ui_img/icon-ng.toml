@@ -2,4 +2,5 @@ object_type = "ui_img"
 id = "!icon-ng"
 
 [image]
+copyright="T.Okubo"
 path = "icon-ng.png"

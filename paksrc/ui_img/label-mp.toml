@@ -2,6 +2,7 @@ object_type = "ui_img"
 id = "!label-mp"
 
 [image]
+copyright="T.Okubo"
 path = "label-mp.png"
 w = 15
 h = 9

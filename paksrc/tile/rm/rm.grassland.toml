@@ -2,6 +2,7 @@ object_type = "tile"
 id = "rm.grassland"
 
 [image]
+copyright="T.Okubo"
 path = "rm.grassland.png"
 w = 48
 h = 48

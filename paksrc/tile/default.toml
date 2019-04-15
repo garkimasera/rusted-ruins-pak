@@ -2,6 +2,7 @@ object_type = "tile"
 id = "!"
 
 [image]
+copyright="T.Okubo"
 path = "default.png"
 w = 48
 h = 48

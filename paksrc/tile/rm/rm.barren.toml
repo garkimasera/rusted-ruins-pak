@@ -2,6 +2,7 @@ object_type = "tile"
 id = "rm.barren"
 
 [image]
+copyright="T.Okubo"
 path = "rm.barren.png"
 w = 48
 h = 48

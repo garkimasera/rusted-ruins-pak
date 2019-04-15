@@ -2,6 +2,7 @@ object_type = "anim_img"
 id = "!damage-blunt"
  
 [image]
+copyright="T.Okubo"
 path = "damage-blunt.png"
 w = 24
 h = 24

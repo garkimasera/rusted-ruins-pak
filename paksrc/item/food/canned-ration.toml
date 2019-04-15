@@ -2,6 +2,7 @@ object_type = "item"
 id = "canned-ration"
  
 [image]
+copyright="T.Okubo"
 path = "canned-ration.png"
 w = 24
 h = 24

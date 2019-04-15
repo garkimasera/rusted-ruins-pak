@@ -2,6 +2,7 @@ object_type = "chara_template"
 id = "cockatrice"
  
 [image]
+copyright="T.Okubo"
 path = "cockatrice.png"
 w = 32
 h = 48

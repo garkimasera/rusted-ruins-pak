@@ -2,6 +2,7 @@ object_type = "tile"
 id = "carpet-1"
 
 [image]
+copyright="T.Okubo"
 path = "carpet-1.png"
 w = 48
 h = 48

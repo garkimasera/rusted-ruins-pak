@@ -2,6 +2,7 @@ object_type = "tile"
 id = "moss-1"
 
 [image]
+copyright="T.Okubo"
 path = "moss-1.png"
 w = 48
 h = 48

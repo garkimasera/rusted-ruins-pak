@@ -2,6 +2,7 @@ object_type = "tile"
 id = "soil-1"
 
 [image]
+copyright="T.Okubo"
 path = "soil-1.png"
 w = 48
 h = 48

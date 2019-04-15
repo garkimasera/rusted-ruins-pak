@@ -2,6 +2,7 @@ object_type = "chara_template"
 id = "onibi"
  
 [image]
+copyright="T.Okubo"
 path = "onibi.png"
 w = 24
 h = 24

@@ -2,6 +2,7 @@ object_type = "item"
 id = "bench-1"
  
 [image]
+copyright="T.Okubo"
 path = "bench-1.png"
 w = 48
 h = 48

@@ -2,6 +2,7 @@ object_type = "item"
 id = "bronze-sword"
  
 [image]
+copyright="T.Okubo"
 path = "bronze-sword.png"
 
 [item]

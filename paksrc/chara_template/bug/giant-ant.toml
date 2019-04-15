@@ -2,6 +2,7 @@ object_type = "chara_template"
 id = "giant-ant"
  
 [image]
+copyright="T.Okubo"
 path = "giant-ant.png"
 w = 24
 h = 24

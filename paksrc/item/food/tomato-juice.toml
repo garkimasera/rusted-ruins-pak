@@ -2,6 +2,7 @@ object_type = "item"
 id = "tomato-juice"
  
 [image]
+copyright="T.Okubo"
 path = "tomato-juice.png"
 w = 14
 h = 22

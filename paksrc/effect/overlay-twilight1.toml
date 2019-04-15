@@ -2,6 +2,7 @@ object_type = "effect"
 id = "overlay-twilight1"
 
 [image]
+copyright="T.Okubo"
 path = "overlay-twilight1.png"
 w = 48
 h = 48

@@ -1,0 +1,18 @@
+object_type = "item"
+id = "torch.arrow"
+ 
+[image]
+copyright="T.Okubo"
+path = "torch.arrow.png"
+w = 24
+h = 24
+
+[item]
+item_kind = "magic_device"
+gen_weight = 2
+gen_level = 1
+basic_price = 2000
+w = 600
+magical_effect = "arrow"
+dice_n = 5
+dice_x = 10

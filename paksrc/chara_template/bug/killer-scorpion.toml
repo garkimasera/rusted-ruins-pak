@@ -2,6 +2,7 @@ object_type = "chara_template"
 id = "killer-scorpion"
  
 [image]
+copyright="T.Okubo"
 path = "killer-scorpion.png"
 w = 32
 h = 32

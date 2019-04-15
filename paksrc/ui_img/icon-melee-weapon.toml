@@ -2,6 +2,7 @@ object_type = "ui_img"
 id = "!icon-melee-weapon"
 
 [image]
+copyright="T.Okubo"
 path = "icon-melee-weapon.png"
 w = 24
 h = 24

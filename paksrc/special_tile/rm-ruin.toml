@@ -5,6 +5,7 @@ id = "!rm-ruin"
 always_background = true
 
 [image]
+copyright="T.Okubo"
 path = "rm-ruin.png"
 w = 48
 h = 48

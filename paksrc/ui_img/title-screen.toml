@@ -2,6 +2,7 @@ object_type = "ui_img"
 id = "!title-screen"
 
 [image]
+copyright="T.Okubo"
 path = "title-screen.png"
 w = 800
 h = 600

@@ -2,6 +2,7 @@ object_type = "item"
 id = "steel-platearmor"
  
 [image]
+copyright="T.Okubo"
 path = "steel-platearmor.png"
 w = 24
 h = 24

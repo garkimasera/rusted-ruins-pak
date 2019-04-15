@@ -2,6 +2,7 @@ object_type = "tile"
 id = "concrete-rust"
 
 [image]
+copyright="T.Okubo"
 path = "concrete-rust.png"
 w = 48
 h = 48

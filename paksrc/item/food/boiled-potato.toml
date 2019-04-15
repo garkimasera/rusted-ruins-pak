@@ -2,6 +2,7 @@ object_type = "item"
 id = "boiled-potato"
  
 [image]
+copyright="T.Okubo"
 path = "boiled-potato.png"
 w = 24
 h = 24

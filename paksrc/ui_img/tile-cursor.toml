@@ -2,6 +2,7 @@ object_type = "ui_img"
 id = "!tile-cursor"
 
 [image]
+copyright="T.Okubo"
 path = "tile-cursor.png"
 w = 48
 h = 48
