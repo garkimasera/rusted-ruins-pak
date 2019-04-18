@@ -1,0 +1,14 @@
+object_type = "tile"
+id = "rm.barren-01"
+
+[image]
+copyright="T.Okubo"
+path = "rm.barren-01.png"
+w = 48
+h = 48
+grid_nx = 2
+grid_ny = 3
+n_pattern = 5
+
+[tile]
+kind = "ground"

@@ -1,0 +1,8 @@
+object_type = "deco"
+id = "window-01"
+
+[image]
+copyright="T.Okubo"
+path = "window-01.png"
+w = 48
+h = 48

@@ -1,8 +1,0 @@
-object_type = "deco"
-id = "signboard-guild"
-
-[image]
-copyright="T.Okubo"
-path = "signboard-guild.png"
-w = 48
-h = 48

@@ -1,0 +1,11 @@
+object_type = "wall"
+id = "soil-wall-01"
+
+[image]
+copyright="T.Okubo"
+path = "soil-wall-01.png"
+w = 48
+h = 80
+grid_nx = 3
+grid_ny = 2
+n_pattern = 5

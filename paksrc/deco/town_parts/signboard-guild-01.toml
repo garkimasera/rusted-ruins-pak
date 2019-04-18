@@ -1,0 +1,8 @@
+object_type = "deco"
+id = "signboard-guild-01"
+
+[image]
+copyright="T.Okubo"
+path = "signboard-guild-01.png"
+w = 48
+h = 48

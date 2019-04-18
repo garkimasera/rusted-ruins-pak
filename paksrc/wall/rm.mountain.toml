@@ -1,8 +1,0 @@
-object_type = "wall"
-id = "rm-mountain"
-
-[image]
-copyright="T.Okubo"
-path = "rm-mountain.png"
-w = 48
-h = 48

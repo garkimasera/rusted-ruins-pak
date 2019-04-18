@@ -1,0 +1,11 @@
+object_type = "tile"
+id = "wood-01"
+
+[image]
+copyright="T.Okubo"
+path = "wood-01.png"
+w = 48
+h = 48
+
+[tile]
+kind = "ground"
