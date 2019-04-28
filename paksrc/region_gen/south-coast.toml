@@ -6,4 +6,4 @@ map_template_id = "south-coast"
 
 [[region_gen.towns]]
 id = "town-freedom"
-pos = [6, 10]
+pos = [44, 48]
