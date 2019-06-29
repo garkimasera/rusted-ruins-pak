@@ -1,5 +1,5 @@
 object_type = "item"
-id = "herb.weed1"
+id = "herb-weed1"
  
 [image]
 copyright="T.Okubo"

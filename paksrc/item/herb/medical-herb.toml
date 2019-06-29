@@ -1,9 +1,9 @@
 object_type = "item"
-id = "herb.medical-herb"
+id = "herb-medical_herb"
  
 [image]
 copyright="T.Okubo"
-path = "medical-herb.png"
+path = "medical_herb.png"
 w = 24
 h = 24
 

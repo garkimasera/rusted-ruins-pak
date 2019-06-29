@@ -1,10 +1,10 @@
 guild-informant
 --- start
-talk(guild-informant.start ,
-     [(guild-informant.ans.quest, quest),
-      (guild-informant.ans.reward, reward),
-      (guild-informant.ans.add-dungeons, get-dungeon-locate),
-      (guild-informant.ans.exit, quit)])
+talk(guild_informant-start,
+     [(guild_informant-ans-quest, quest),
+      (guild_informant-ans-reward, reward),
+      (guild_informant-ans-add_dungeons, get-dungeon-locate),
+      (guild_informant-ans-exit, quit)])
 --- quest
 special(quest_window)
 jump(start)
@@ -13,10 +13,10 @@ special(receive_quest_rewards)
 jump_if(reward-received, $?)
 jump(reward-not-received)
 --- reward-received
-talk(guild-informant.reward-recieved)
+talk(guild_informant-reward_recieved)
 jump(start)
 --- reward-not-received
-talk(guild-informant.reward-not-recieved)
+talk(guild_informant-reward_not_recieved)
 jump(start)
 --- get-dungeon-locate
 jump_if(get-dungeon-locate-success, is_gvar_empty(last-dungeon-location-update-time) == false)
@@ -25,8 +25,8 @@ jump(get-dungeon-locate-fail)
 --- get-dungeon-locate-success
 special(get_dungeon_location)
 gset(last-dungeon-location-update-time, current_time())
-talk(guild-informant.after-add-dungeons)
+talk(guild_informant-after_add_dungeons)
 jump(start)
 --- get-dungeon-locate-fail
-talk(guild-informant.add-dungeons-fail)
+talk(guild_informant-add_dungeons_fail)
 jump(start)

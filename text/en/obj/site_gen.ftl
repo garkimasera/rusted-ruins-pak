@@ -1,0 +1,1 @@
+town-freedom = Freedom Town

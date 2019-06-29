@@ -1,9 +1,9 @@
 object_type = "item"
-id = "herb.sleep-rose"
+id = "herb-sleep_rose"
  
 [image]
 copyright="T.Okubo"
-path = "sleep-rose.png"
+path = "sleep_rose.png"
 w = 24
 h = 24
 

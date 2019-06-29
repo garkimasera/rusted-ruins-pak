@@ -1,14 +1,14 @@
 shop
 --- start
-talk(shop.start,
-     [(shop.ans.buy, buy),
-      (shop.ans.sell, sell),
-      (shop.ans.exit, quit)])
+talk(shop-start,
+     [(shop-ans-buy, buy),
+      (shop-ans-sell, sell),
+      (shop-ans-exit, quit)])
 --- loop
-talk(shop.loop,
-     [(shop.ans.buy, buy),
-      (shop.ans.sell, sell),
-      (shop.ans.exit, quit)])
+talk(shop-loop,
+     [(shop-ans-buy, buy),
+      (shop-ans-sell, sell),
+      (shop-ans-exit, quit)])
 --- buy
 special(shop_buy)
 jump(loop)
