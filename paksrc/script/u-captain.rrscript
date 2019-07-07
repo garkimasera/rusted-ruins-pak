@@ -1,8 +1,8 @@
 u-captain
 --- start
-talk(u-captain.start)
-talk(u-captain.1, [(ans.yes, s1), (ans.no, s2)])
+talk(u-captain-0)
+talk(u-captain-1, [(ans-yes, s1), (ans-no, s2)])
 --- s1
-talk(u-captain.2)
+talk(u-captain-2)
 --- s2
-talk(u-captain.3)
+talk(u-captain-3)
