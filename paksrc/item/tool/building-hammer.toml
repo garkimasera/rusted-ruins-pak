@@ -1,0 +1,15 @@
+object_type = "item"
+id = "building-hammer"
+ 
+[image]
+copyright="T.Okubo"
+path = "building-hammer.png"
+w = 24
+h = 24
+
+[item]
+item_kind = "tool"
+gen_weight = 0
+gen_level = 0
+basic_price = 100
+w = 500
