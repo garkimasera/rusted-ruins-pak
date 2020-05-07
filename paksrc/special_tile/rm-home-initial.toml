@@ -1,0 +1,12 @@
+object_type = "special_tile"
+id = "!rm-home-initial"
+
+[special_tile]
+always_background = true
+
+[image]
+copyright="T.Okubo"
+path = "rm-home-initial.png"
+w = 48
+h = 48
+

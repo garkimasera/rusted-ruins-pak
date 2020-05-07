@@ -1,0 +1,11 @@
+object_type = "ui_img"
+id = "!tile-hover"
+
+[image]
+copyright="T.Okubo"
+path = "tile-hover.png"
+w = 48
+h = 48
+
+
+ 

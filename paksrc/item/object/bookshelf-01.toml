@@ -1,9 +1,9 @@
 object_type = "item"
-id = "bench-1"
+id = "bookshelf-01"
  
 [image]
 copyright="T.Okubo"
-path = "bench-1.png"
+path = "bookshelf-01.png"
 w = 48
 h = 48
 
@@ -11,5 +11,5 @@ h = 48
 item_kind = "object"
 gen_weight = 0
 gen_level = 0
-basic_price = 1200
-w = 15500
+basic_price = 3400
+w = 28000

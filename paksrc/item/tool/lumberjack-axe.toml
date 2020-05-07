@@ -1,0 +1,14 @@
+object_type = "item"
+id = "lumberjack-axe"
+ 
+[image]
+copyright="T.Okubo"
+path = "lumberjack-axe.png"
+
+[item]
+item_kind = "tool"
+gen_weight = 0
+gen_level = 0
+basic_price = 100
+w = 500
+tool_effect = "chop"

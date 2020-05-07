@@ -1,11 +1,9 @@
 object_type = "item"
-id = "chest-of-drawers-1"
+id = "dresser-01"
  
 [image]
 copyright="T.Okubo"
-path = "chest-of-drawers-1.png"
-w = 48
-h = 48
+path = "dresser-01.png"
 
 [item]
 item_kind = "object"

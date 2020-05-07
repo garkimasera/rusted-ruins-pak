@@ -1,0 +1,19 @@
+object_type = "item"
+id = "broad-leaf-tree-01"
+
+[image]
+copyright="T.Okubo"
+path = "broad-leaf-tree-01.png"
+
+[item]
+item_kind = "object"
+gen_weight = 0
+gen_level = 0
+basic_price = 100
+w = 100000
+
+[item.harvest]
+harvest_type = "chop"
+target_item = "plank"
+difficulty = 0
+n_yield = 40
