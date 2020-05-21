@@ -7,6 +7,7 @@ path = "bronze-dagger.png"
 
 [item]
 item_kind = "weapon"
+group = "dagger"
 gen_weight = 7
 gen_level = 1
 basic_price = 100

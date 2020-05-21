@@ -1,14 +1,14 @@
 object_type = "item"
-id = "dresser-01"
+id = "resurrect-reactor-01"
  
 [image]
 copyright="T.Okubo"
-path = "dresser-01.png"
+path = "resurrect-reactor-01.png"
 
 [item]
 item_kind = "object"
 group = "furniture"
 gen_weight = 0
 gen_level = 0
-basic_price = 5200
-w = 15000
+basic_price = 1000000
+w = 300000

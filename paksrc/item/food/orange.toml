@@ -4,11 +4,10 @@ id = "orange"
 [image]
 copyright="T.Okubo"
 path = "orange.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "fruit"
 gen_weight = 8
 shop_weight = 10
 gen_level = 0

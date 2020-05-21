@@ -4,11 +4,10 @@ id = "suger"
 [image]
 copyright="T.Okubo"
 path = "suger.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "seasoning"
 gen_weight = 2
 shop_weight = 5
 gen_level = 0

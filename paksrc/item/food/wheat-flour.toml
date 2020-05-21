@@ -4,11 +4,10 @@ id = "wheat-flour"
 [image]
 copyright="T.Okubo"
 path = "wheat-flour.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "vegetable"
 gen_weight = 1
 shop_weight = 50
 gen_level = 0

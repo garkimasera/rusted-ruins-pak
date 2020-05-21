@@ -1,14 +1,13 @@
 object_type = "item"
-id = "corpse"
+id = "meat"
  
 [image]
 copyright="T.Okubo"
-path = "corpse.png"
-w = 24
-h = 24
+path = "meat.png"
 
 [item]
 item_kind = "food"
+group = "meat"
 gen_weight = 0
 shop_weight = 10
 gen_level = 0

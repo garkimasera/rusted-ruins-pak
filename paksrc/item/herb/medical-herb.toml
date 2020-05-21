@@ -4,11 +4,10 @@ id = "herb-medical_herb"
 [image]
 copyright="T.Okubo"
 path = "medical_herb.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "herb"
 gen_weight = 10
 gen_level = 1
 basic_price = 30

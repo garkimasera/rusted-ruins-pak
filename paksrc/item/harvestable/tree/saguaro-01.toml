@@ -7,6 +7,7 @@ path = "saguaro-01.png"
 
 [item]
 item_kind = "object"
+group = "tree"
 gen_weight = 0
 gen_level = 0
 basic_price = 100

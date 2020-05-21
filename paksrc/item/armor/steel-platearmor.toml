@@ -4,11 +4,10 @@ id = "steel-platearmor"
 [image]
 copyright="T.Okubo"
 path = "steel-platearmor.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "armor"
+group = "platearmor"
 gen_weight = 3
 gen_level = 14
 basic_price = 2280

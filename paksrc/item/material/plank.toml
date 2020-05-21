@@ -4,11 +4,10 @@ id = "plank"
 [image]
 copyright="T.Okubo"
 path = "plank.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "material"
+group = "plank"
 gen_weight = 10
 gen_level = 1
 basic_price = 10

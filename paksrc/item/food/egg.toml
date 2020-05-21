@@ -4,11 +4,10 @@ id = "egg"
 [image]
 copyright="T.Okubo"
 path = "egg.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "egg"
 gen_weight = 2
 shop_weight = 10
 gen_level = 0

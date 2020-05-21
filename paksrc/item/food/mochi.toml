@@ -4,11 +4,10 @@ id = "mochi"
 [image]
 copyright="T.Okubo"
 path = "mochi.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "dish"
 gen_weight = 2
 shop_weight = 1
 gen_level = 1

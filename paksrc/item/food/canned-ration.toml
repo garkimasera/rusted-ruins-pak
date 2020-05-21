@@ -4,11 +4,10 @@ id = "canned-ration"
 [image]
 copyright="T.Okubo"
 path = "canned-ration.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "preserved-food"
 gen_weight = 10
 shop_weight = 10
 gen_level = 1

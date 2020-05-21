@@ -1,14 +1,15 @@
 object_type = "item"
-id = "dresser-01"
+id = "campfire"
  
 [image]
 copyright="T.Okubo"
-path = "dresser-01.png"
+path = "campfire.png"
 
 [item]
 item_kind = "object"
-group = "furniture"
+group = "facility"
 gen_weight = 0
 gen_level = 0
-basic_price = 5200
-w = 15000
+basic_price = 1480
+w = 5500
+facility = "stove"

@@ -4,11 +4,10 @@ id = "failed-dish"
 [image]
 copyright="T.Okubo"
 path = "failed-dish.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "dish"
 gen_weight = 0
 shop_weight = 0
 gen_level = 0

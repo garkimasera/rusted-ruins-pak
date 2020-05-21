@@ -4,11 +4,10 @@ id = "herb-aconitum"
 [image]
 copyright="T.Okubo"
 path = "aconitum.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "herb"
 gen_weight = 10
 gen_level = 0
 basic_price = 20

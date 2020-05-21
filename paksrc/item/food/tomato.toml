@@ -4,11 +4,10 @@ id = "tomato"
 [image]
 copyright="T.Okubo"
 path = "tomato.png"
-w = 24
-h = 24
 
 [item]
 item_kind = "food"
+group = "vegetable"
 gen_weight = 0
 shop_weight = 5
 gen_level = 0

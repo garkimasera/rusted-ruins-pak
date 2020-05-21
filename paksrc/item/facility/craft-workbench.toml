@@ -1,16 +1,15 @@
 object_type = "item"
-id = "table-01"
+id = "craft-workbench"
  
 [image]
 copyright="T.Okubo"
-path = "table-01.png"
-w = 48
-h = 48
+path = "craft-workbench.png"
 
 [item]
 item_kind = "object"
-group = "furniture"
+group = "facility"
 gen_weight = 0
 gen_level = 0
 basic_price = 1480
 w = 5500
+facility = "craft"
