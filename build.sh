@@ -6,7 +6,7 @@ destdir=paks
 
 if [ -n "$1" ]; then
     makepak=$1
-elif
+else
     makepak=rusted-ruins-makepak
 fi
 
