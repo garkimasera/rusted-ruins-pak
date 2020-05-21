@@ -1,8 +1,14 @@
 #!/bin/bash
 shopt -s globstar
-makepak=rusted-ruins-makepak
+
 srcdir=paksrc
 destdir=paks
+
+if [ -n "$1" ]; then
+    makepak=$1
+elif
+    makepak=rusted-ruins-makepak
+fi
 
 mkdir -p $destdir
 $makepak $srcdir/anim/**/*.toml           -o $destdir/anim.pak
