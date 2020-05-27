@@ -4,6 +4,7 @@ id = "town-freedom"
 [site_gen]
 kind = "town"
 map_template_id = ["town-freedom-0"]
+default_faction_id = "citizen"
 
 [[site_gen.unique_citizens]]
 n = 0
