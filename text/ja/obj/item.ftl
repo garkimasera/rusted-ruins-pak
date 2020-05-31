@@ -15,6 +15,7 @@ poison = 毒薬
 # Weapon
 #
 steel-dagger = 鋼の短剣
+wood-longbow = 木の長弓
 #
 # Armor
 #

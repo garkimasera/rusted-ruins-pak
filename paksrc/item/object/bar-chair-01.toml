@@ -1,0 +1,14 @@
+object_type = "item"
+id = "bar-chair-01"
+ 
+[image]
+copyright="T.Okubo"
+path = "bar-chair-01.png"
+
+[item]
+item_kind = "object"
+group = "furniture"
+gen_weight = 0
+gen_level = 0
+basic_price = 100
+w = 1500

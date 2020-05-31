@@ -1,0 +1,8 @@
+object_type = "deco"
+id = "signboard-hospital-01"
+
+[image]
+copyright="T.Okubo"
+path = "signboard-hospital-01.png"
+w = 48
+h = 48
