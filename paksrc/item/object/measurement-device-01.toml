@@ -1,0 +1,14 @@
+object_type = "item"
+id = "measurement-device-01"
+ 
+[image]
+copyright="T.Okubo"
+path = "measurement-device-01.png"
+
+[item]
+item_kind = "object"
+group = "furniture"
+gen_weight = 0
+gen_level = 0
+basic_price = 3000
+w = 85000

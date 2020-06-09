@@ -3,6 +3,7 @@ id = "town-freedom"
 
 [site_gen]
 kind = "town"
+site_symbol = "!rm-town"
 map_template_id = ["town-freedom-0"]
 default_faction_id = "citizen"
 
