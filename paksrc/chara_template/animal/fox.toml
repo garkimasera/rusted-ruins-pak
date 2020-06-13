@@ -9,10 +9,10 @@ h = 23
 
 [chara_template]
 race = "animal"
-gen_weight = 15
+gen_weight = 100
 gen_level = 8
 default_ai_kind = "melee"
-base_hp = 32
+base_hp = 100
 str = 22
 vit = 16
 dex = 18

@@ -9,14 +9,14 @@ h = 48
 
 [chara_template]
 race = "slime"
-gen_weight = 100
-gen_level = 18
+gen_weight = 10
+gen_level = 25
 default_ai_kind = "melee"
-base_hp = 80
-str = 18
+base_hp = 230
+str = 16
 vit = 18
-dex = 12
-int = 8
-wil = 5
-cha = 10
+dex = 15
+int = 20
+wil = 20
+cha = 24
 spd = 75

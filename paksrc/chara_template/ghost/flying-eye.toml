@@ -9,10 +9,10 @@ h = 48
 
 [chara_template]
 race = "ghost"
-gen_weight = 12
+gen_weight = 80
 gen_level = 10
 default_ai_kind = "melee"
-base_hp = 10
+base_hp = 32
 str = 12
 vit = 11
 dex = 11

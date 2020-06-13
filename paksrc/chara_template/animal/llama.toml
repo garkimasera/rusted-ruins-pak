@@ -1,22 +1,20 @@
 object_type = "chara_template"
-id = "stray-dog"
+id = "llama"
  
 [image]
 copyright="T.Okubo"
-path = "stray-dog.png"
-w = 24
-h = 28
+path = "llama.png"
 
 [chara_template]
 race = "animal"
-gen_weight = 150
-gen_level = 4
+gen_weight = 50
+gen_level = 1
 default_ai_kind = "melee"
-base_hp = 80
-str = 16
-vit = 14
-dex = 10
+base_hp = 150
+str = 18
+vit = 22
+dex = 11
 int = 10
 wil = 12
-cha = 10
+cha = 14
 spd = 100
