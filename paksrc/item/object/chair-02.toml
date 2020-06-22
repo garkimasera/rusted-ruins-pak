@@ -1,9 +1,9 @@
 object_type = "item"
-id = "chair-01"
+id = "chair-02"
  
 [image]
 copyright="T.Okubo"
-path = "chair-01.png"
+path = "chair-02.png"
 
 [item]
 item_kind = "object"

@@ -1,11 +1,11 @@
 #
 # Object
 #
-bench-1 = bench
-bookshelf-1 = bookshelf
-chair-1 = chair
+bench = bench
+bookshelf = bookshelf
+chair = chair
 chest-of-drawers = chest of drawers
-table-1 = table
+table = table
 #
 # Potion
 #

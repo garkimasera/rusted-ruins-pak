@@ -20,3 +20,6 @@ int = 8
 wil = 11
 cha = 9
 spd = 110
+
+[chara_template.skill_bonus]
+endurance = "very_low"

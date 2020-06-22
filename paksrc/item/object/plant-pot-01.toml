@@ -1,14 +1,14 @@
 object_type = "item"
-id = "chair-01"
+id = "plant-pot-01"
  
 [image]
 copyright="T.Okubo"
-path = "chair-01.png"
+path = "plant-pot-01.png"
 
 [item]
 item_kind = "object"
 group = "furniture"
 gen_weight = 0
 gen_level = 0
-basic_price = 400
-w = 1500
+basic_price = 240
+w = 1400

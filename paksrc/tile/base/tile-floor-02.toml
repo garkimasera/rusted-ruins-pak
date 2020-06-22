@@ -1,0 +1,9 @@
+object_type = "tile"
+id = "tile-floor-02"
+
+[image]
+copyright="T.Okubo"
+path = "tile-floor-02.png"
+
+[tile]
+kind = "ground"
