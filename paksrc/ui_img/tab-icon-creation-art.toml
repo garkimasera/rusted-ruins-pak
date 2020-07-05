@@ -1,0 +1,6 @@
+object_type = "ui_img"
+id = "!tab-icon-creation-art"
+
+[image]
+copyright="T.Okubo"
+path = "tab-icon-creation-art.png"

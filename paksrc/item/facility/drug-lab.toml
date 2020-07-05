@@ -1,15 +1,15 @@
 object_type = "item"
-id = "stove"
+id = "drug-lab"
  
 [image]
 copyright="T.Okubo"
-path = "stove.png"
+path = "drug-lab.png"
 
 [item]
 item_kind = "object"
 group = "facility"
 gen_weight = 0
 gen_level = 0
-basic_price = 540
-w = 80000
-facility = ["stove", 0]
+basic_price = 4300
+w = 6000
+facility = ["pharmacy", 0]

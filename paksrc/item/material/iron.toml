@@ -10,5 +10,5 @@ item_kind = "material"
 group = "ore"
 gen_weight = 10
 gen_level = 4
-basic_price = 1500
+basic_price = 200
 w = 2000

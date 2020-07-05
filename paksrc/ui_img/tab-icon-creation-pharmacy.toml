@@ -1,0 +1,6 @@
+object_type = "ui_img"
+id = "!tab-icon-creation-pharmacy"
+
+[image]
+copyright="T.Okubo"
+path = "tab-icon-creation-pharmacy.png"

@@ -12,4 +12,4 @@ gen_weight = 0
 gen_level = 0
 basic_price = 1480
 w = 5500
-facility = "craft"
+facility = ["craft", 0]

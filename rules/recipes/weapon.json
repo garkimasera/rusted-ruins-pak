@@ -1,0 +1,10 @@
+{
+    "craft_recipes": [
+        {
+            "product": "bokken",
+            "ingredients": [["plank", 1]],
+            "difficulty": 1,
+            "required_time": "short"
+        }
+    ] 
+}
