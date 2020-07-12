@@ -25,7 +25,7 @@ steel-scalearmor = 鋼のスケールアーマー
 # Material
 #
 iron = 鉄
-plank = 木の板
+wood = 木材
 silver = 銀
 #
 # Special

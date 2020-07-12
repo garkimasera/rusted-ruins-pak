@@ -24,7 +24,7 @@ steel-scalearmor = steel scalearmor
 # Material
 #
 iron = iron
-plank = plank
+wood = wood
 silver = silver
 #
 # Special

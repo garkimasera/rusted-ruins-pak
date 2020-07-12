@@ -1,0 +1,15 @@
+object_type = "item"
+id = "guide-book"
+ 
+[image]
+copyright="T.Okubo"
+path = "guide-book.png"
+
+[item]
+item_kind = "readable"
+group = "manual"
+gen_weight = 100
+gen_level = 0
+basic_price = 200
+w = 400
+titles = ["howto"]

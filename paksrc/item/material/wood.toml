@@ -1,13 +1,13 @@
 object_type = "item"
-id = "plank"
+id = "wood"
  
 [image]
 copyright="T.Okubo"
-path = "plank.png"
+path = "wood.png"
 
 [item]
 item_kind = "material"
-group = "plank"
+group = "wood"
 gen_weight = 10
 gen_level = 1
 basic_price = 10

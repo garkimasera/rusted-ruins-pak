@@ -12,4 +12,4 @@ n_pattern = 5
 
 [wall]
 build_skill = 1
-materials = [["plank", 10]]
+materials = [["wood", 10]]

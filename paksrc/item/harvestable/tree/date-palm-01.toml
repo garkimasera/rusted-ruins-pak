@@ -15,6 +15,6 @@ w = 100000
 
 [item.harvest]
 harvest_type = "chop"
-target_item = "plank"
+target_item = "wood"
 difficulty = 0
 n_yield = 20
