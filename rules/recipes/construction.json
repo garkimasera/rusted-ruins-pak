@@ -3,7 +3,7 @@
         {
             "product": "campfire",
             "ingredients": [["wood", 5]],
-            "difficulty": 1,
+            "difficulty": 0,
             "required_time": "short",
             "put_on_ground": true
         }

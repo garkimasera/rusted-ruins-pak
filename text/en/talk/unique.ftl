@@ -6,8 +6,7 @@ prof-1 = Oh, you have Ancient Box! Please give it to me.
 prof-2 = Thank you! My research will advance.
 prof-3 = I'm sad...
 prof-4 = Thank you for collecting many ancient boxes!
-    By collecting ancient box, the story will advance in
-    future versions.
+    I'll give you this deed of land in return.
 
 u-captain-0 = Welcome, this is Freedom Town.
 u-captain-1 = Do you need some advice?

@@ -1,0 +1,15 @@
+object_type = "item"
+id = "skill-cartridge"
+ 
+[image]
+copyright="T.Okubo"
+path = "skill-cartridge.png"
+
+[item]
+item_kind = "special"
+group = "skill-cartridge"
+gen_weight = 0.5
+gen_level = 0
+basic_price = 100000
+w = 80
+use_effect = "skill_learning"

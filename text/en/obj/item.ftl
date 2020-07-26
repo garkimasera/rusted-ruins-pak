@@ -1,10 +1,20 @@
 #
 # Object
 #
+bar-chair = bar chair
 bench = bench
 bookshelf = bookshelf
+bunk-bed = bunk bed
 chair = chair
-chest-of-drawers = chest of drawers
+dresser = dresser
+drying-clothes = drying clothes
+gas-cylinders = gas cylinders
+juke-box = juke box
+measurement-device = measurement device
+oscilloscope = oscilloscope
+plant-pot = plant pot
+research-table = research table
+resurrect-reactor = resurrect reactor
 table = table
 #
 # Potion
@@ -30,3 +40,4 @@ silver = silver
 # Special
 #
 ancient-box = ancient box
+skill-cartridge = skill cartridge

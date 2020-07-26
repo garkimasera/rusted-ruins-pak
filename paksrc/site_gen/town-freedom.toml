@@ -49,6 +49,13 @@ floor = 0
 chara_template_id = "prof"
 talk_script_id = "prof"
 
+[[site_gen.unique_citizens]]
+n = 6
+pos = [25, 12]
+floor = 0
+chara_template_id = "shopkeeper-m-1"
+talk_script_id = "shop"
+
 [[site_gen.shops]]
 chara_n = 3
 kind = "equipment"
@@ -56,3 +63,8 @@ kind = "equipment"
 [[site_gen.shops]]
 chara_n = 4
 kind = "food"
+
+[[site_gen.shops]]
+chara_n = 6
+kind = "specified"
+id = ["skill-cartridge"]
