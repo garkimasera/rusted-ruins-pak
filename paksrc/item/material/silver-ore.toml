@@ -1,9 +1,9 @@
 object_type = "item"
-id = "silver"
+id = "silver-ore"
  
 [image]
 copyright="T.Okubo"
-path = "silver.png"
+path = "silver-ore.png"
 
 [item]
 item_kind = "material"

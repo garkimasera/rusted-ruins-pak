@@ -7,7 +7,7 @@ path = "iron.png"
 
 [item]
 item_kind = "material"
-group = "ore"
+group = "metal"
 gen_weight = 10
 gen_level = 4
 basic_price = 200

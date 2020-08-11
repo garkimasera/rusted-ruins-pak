@@ -1,0 +1,14 @@
+object_type = "item"
+id = "iron-ore"
+ 
+[image]
+copyright="T.Okubo"
+path = "iron-ore.png"
+
+[item]
+item_kind = "material"
+group = "ore"
+gen_weight = 50
+gen_level = 1
+basic_price = 100
+w = 5000
