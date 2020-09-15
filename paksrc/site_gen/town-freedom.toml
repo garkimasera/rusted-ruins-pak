@@ -9,35 +9,35 @@ default_faction_id = "citizen"
 
 [[site_gen.unique_citizens]]
 n = 0
-pos = [19, 3]
+pos = [22, 10]
 floor = 0
 chara_template_id = "guild-informant"
 talk_script_id = "guild-informant"
 
 [[site_gen.unique_citizens]]
 n = 1
-pos = [13, 2]
+pos = [17, 3]
 floor = 0
 chara_template_id = "towngirl-1"
 talk_script_id = "hello"
 
 [[site_gen.unique_citizens]]
 n = 2
-pos = [15, 15]
+pos = [7, 23]
 floor = 0
 chara_template_id = "u-captain"
 talk_script_id = "u-captain"
 
 [[site_gen.unique_citizens]]
 n = 3
-pos = [28, 10]
+pos = [30, 18]
 floor = 0
 chara_template_id = "shopkeeper-m-1"
 talk_script_id = "shop"
 
 [[site_gen.unique_citizens]]
 n = 4
-pos = [10, 3]
+pos = [12, 11]
 floor = 0
 chara_template_id = "shopkeeper-m-1"
 talk_script_id = "shop"
