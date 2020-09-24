@@ -1,4 +1,4 @@
-object_type = "effect"
+object_type = "effect_img"
 id = "overlay-twilight0"
 
 [image]
