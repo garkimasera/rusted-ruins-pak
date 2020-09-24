@@ -12,7 +12,10 @@ gen_weight = 20
 gen_level = 0
 basic_price = 2000
 w = 600
-magical_effect = "magic-arrow"
 charge = [8, 16]
 dice_n = 5
 dice_x = 10
+
+[[item.magical_effect.kind]]
+kind = "ranged"
+element = "physical"
