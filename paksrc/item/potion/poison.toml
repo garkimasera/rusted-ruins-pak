@@ -13,5 +13,6 @@ gen_level = 0
 basic_price = 20
 w = 200
 
-medical_effect = "poison"
-eff = 10
+[[item.medical_effect.kind]]
+kind = "status"
+status = "poison"

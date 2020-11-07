@@ -12,7 +12,8 @@ gen_weight = 10
 gen_level = 1
 basic_price = 30
 w = 15
-
-medical_effect= "heal"
 eff = 30
 nutrition = 10
+
+[[item.medical_effect.kind]]
+kind = "recover_hp"

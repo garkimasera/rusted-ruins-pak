@@ -14,7 +14,7 @@ mkdir -p $destdir
 $makepak $srcdir/anim/**/*.toml           -o $destdir/anim.pak
 $makepak $srcdir/chara_template/**/*.toml -o $destdir/chara_template.pak
 $makepak $srcdir/deco/**/*.toml           -o $destdir/deco.pak
-$makepak $srcdir/effect/**/*.toml         -o $destdir/effect.pak
+$makepak $srcdir/effect_img/**/*.toml     -o $destdir/effect_img.pak
 $makepak $srcdir/item/**/*.toml           -o $destdir/item.pak
 $makepak $srcdir/special_tile/**/*.toml   -o $destdir/special_tile.pak
 $makepak $srcdir/tile/**/*.toml           -o $destdir/tile.pak
