@@ -9,3 +9,6 @@ h = 48
 grid_nx = 3
 grid_ny = 2
 n_pattern = 5
+
+[wall]
+hp = 1000

@@ -19,7 +19,7 @@ jump(start)
 talk(guild_informant-reward_not_recieved)
 jump(start)
 --- get-dungeon-locate
-jump_if(get-dungeon-locate-success, is_gvar_empty(last-dungeon-location-update-time) == false)
+jump_if(get-dungeon-locate-success, is_gvar_empty(last-dungeon-location-update-time))
 jump_if(get-dungeon-locate-success, duration_hours(current_time(), $(last-dungeon-location-update-time)) > 24 * 30)
 jump(get-dungeon-locate-fail)
 --- get-dungeon-locate-success

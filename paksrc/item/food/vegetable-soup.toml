@@ -1,0 +1,17 @@
+object_type = "item"
+id = "vegetable-soup"
+ 
+[image]
+copyright="T.Okubo"
+path = "vegetable-soup.png"
+
+[item]
+item_kind = "food"
+group = "dish"
+gen_weight = 0
+shop_weight = 0
+gen_level = 0
+basic_price = 200
+w = 500
+
+nutrition = 60

@@ -1,0 +1,12 @@
+object_type = "ui_img"
+id = "!toolbar-icon-frame"
+
+[image]
+copyright="T.Okubo"
+path = "toolbar-icon-frame.png"
+w = 34
+h = 34
+grid_nx = 2
+grid_ny = 1
+
+ 

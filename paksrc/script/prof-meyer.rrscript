@@ -1,0 +1,43 @@
+prof-mayer
+--- start
+jump_if(before-first-quest, is_gvar_empty(prof-mayer.first-quest-received))
+jump_if(first-quest-received, is_gvar_empty(prof-mayer.first-quest-cleared))
+jump_if(with-box, has_item(ancient-box))
+talk(prof-mayer_without-box)
+--- before-first-quest
+talk(prof-mayer_before-first-quest,
+     [(ans-yes, receive-first-quest), (ans-no, reject-first-quest)])
+--- receive-first-quest
+talk(prof-mayer_first-quest-received)
+gset(prof-mayer.first-quest-received, true)
+--- reject-first-quest
+talk(prof-mayer_first-quest-rejected)
+--- first-quest-received
+jump_if(first-quiest-received-with-box, has_item(ancient-box))
+talk(prof-mayer_first-quest-received-without-box)
+--- first-quiest-received-with-box
+talk(prof-mayer_first-quest-received-with-box)
+gset(prof-mayer.first-quest-cleared, true)
+gset(prof-mayer.given-box, 0)
+remove_item(ancient-box)
+receive_money(1000)
+receive_item(deed-of-land, 1)
+receive_item(building-hammer, 1)
+receive_item(lumberjack-axe, 1)
+--- with-box
+gset(prof-mayer.given-box, $(prof-mayer.given-box) + 1)
+jump_if(reward-01, $(prof-mayer.given-box) == 1)
+jump_if(reward-02, $(prof-mayer.given-box) == 2)
+talk(prof-mayer_with-box)
+receive_money(2000)
+remove_item(ancient-box)
+--- reward-01
+talk(prof-mayer_reward-01)
+remove_item(ancient-box)
+receive_item(tricorder, 1)
+receive_money(1000)
+--- reward-02
+talk(prof-mayer_reward-02)
+remove_item(ancient-box)
+receive_item(skill-cartridge, 1)
+receive_money(1000)

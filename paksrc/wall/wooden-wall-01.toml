@@ -11,5 +11,6 @@ grid_ny = 2
 n_pattern = 5
 
 [wall]
+hp = 300
 build_skill = 1
 materials = [["wood", 10]]

@@ -16,6 +16,10 @@ charge = [8, 16]
 dice_n = 5
 dice_x = 10
 
+[item.magical_effect]
+range = 7
+anim_img_shot = "magic-arrow-physical"
+
 [[item.magical_effect.kind]]
 kind = "ranged"
 element = "physical"

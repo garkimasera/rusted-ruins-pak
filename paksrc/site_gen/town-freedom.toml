@@ -47,7 +47,7 @@ n = 5
 pos = [36, 3]
 floor = 0
 chara_template_id = "prof"
-talk_script_id = "prof"
+talk_script_id = "prof-mayer"
 
 [[site_gen.unique_citizens]]
 n = 6

@@ -1,4 +1,37 @@
 #
+# Potion
+#
+healing-potion = healing potion
+poison = poison
+#
+# Weapon
+#
+steel-dagger = steel dagger
+wood-longbow = wood longbow
+#
+# Armor
+#
+steel-platearmor = steel platearmor
+steel-scalearmor = steel scalearmor
+#
+# Tool
+#
+building-hammer = building hammer
+lumberjack-axe = lumberjack-axe
+#
+# Special
+#
+ancient-box = ancient box
+deed-of-land = deed of land
+skill-cartridge = skill cartridge
+#
+# Material
+#
+iron = iron
+wood = wood
+silver = silver
+steel-plate = steel plate
+#
 # Object
 #
 bar-chair = bar chair
@@ -16,28 +49,3 @@ plant-pot = plant pot
 research-table = research table
 resurrect-reactor = resurrect reactor
 table = table
-#
-# Potion
-#
-healing-potion = healing potion
-poison = poison
-#
-# Weapon
-#
-steel-dagger = steel dagger
-#
-# Armor
-#
-steel-platearmor = steel platearmor
-steel-scalearmor = steel scalearmor
-#
-# Material
-#
-iron = iron
-wood = wood
-silver = silver
-#
-# Special
-#
-ancient-box = ancient box
-skill-cartridge = skill cartridge
