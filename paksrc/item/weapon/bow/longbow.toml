@@ -1,9 +1,9 @@
 object_type = "item"
-id = "wood-longbow"
+id = "longbow"
  
 [image]
 copyright="T.Okubo"
-path = "wood-longbow.png"
+path = "longbow.png"
 
 [item]
 item_kind = "weapon"
@@ -12,7 +12,9 @@ gen_weight = 3
 gen_level = 1
 basic_price = 300
 w = 1000
+quality_kind = "mutable"
 
 weapon_kind = "bow"
 dice_n = 2
-dice_x = 2
+dice_x = 4
+material_group = "wood"

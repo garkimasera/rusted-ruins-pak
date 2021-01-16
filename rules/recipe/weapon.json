@@ -6,5 +6,14 @@
             "difficulty": 1,
             "required_time": "short"
         }
+    ],
+    "smith_recipes": [
+        {
+            "product": "dagger",
+            "ingredients": [["group/metal", 1]],
+            "facility": "furnance",
+            "difficulty": 1,
+            "required_time": "medium"
+        }
     ] 
 }

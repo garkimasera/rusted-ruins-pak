@@ -12,3 +12,4 @@ gen_weight = 10
 gen_level = 1
 basic_price = 1000
 w = 1000
+material = "steel"

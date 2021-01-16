@@ -1,0 +1,6 @@
+object_type = "ui_img"
+id = "!icon-question"
+
+[image]
+copyright="T.Okubo"
+path = "icon-question.png"

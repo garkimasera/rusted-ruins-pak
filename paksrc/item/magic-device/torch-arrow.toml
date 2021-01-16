@@ -18,6 +18,7 @@ dice_x = 10
 
 [item.magical_effect]
 range = 7
+anim_kind = "shot"
 anim_img_shot = "magic-arrow-physical"
 
 [[item.magical_effect.kind]]

@@ -1,20 +1,20 @@
 object_type = "item"
-id = "bokken"
+id = "shortbow"
  
 [image]
 copyright="T.Okubo"
-path = "bokken.png"
+path = "shortbow.png"
 
 [item]
 item_kind = "weapon"
-group = "sword"
-gen_weight = 5
+group = "bow"
+gen_weight = 3
 gen_level = 1
-basic_price = 100
-w = 1200
+basic_price = 40
+w = 600
 quality_kind = "mutable"
 
-weapon_kind = "sword"
-dice_n = 4
-dice_x = 1
+weapon_kind = "bow"
+dice_n = 2
+dice_x = 2
 material_group = "wood"

@@ -1,0 +1,25 @@
+object_type = "item"
+id = "hand-grenade"
+
+ [image]
+copyright="T.Okubo"
+path = "hand-grenade.png"
+
+[item]
+item_kind = "throwing"
+group = "bomb"
+gen_weight = 1
+gen_level = 10
+basic_price = 1000
+w = 400
+
+[item.throw_effect]
+shape = "circle"
+size = 1
+anim_kind = "tile"
+anim_img = "explosion-01"
+sound = "explosion-01"
+
+[[item.throw_effect.kind]]
+kind = "explosion"
+element = "physical"

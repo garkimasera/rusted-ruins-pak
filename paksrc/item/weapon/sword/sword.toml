@@ -1,9 +1,9 @@
 object_type = "item"
-id = "steel-sword"
+id = "sword"
  
 [image]
 copyright="T.Okubo"
-path = "steel-sword.png"
+path = "sword.png"
 
 [item]
 item_kind = "weapon"
@@ -12,7 +12,9 @@ gen_weight = 5
 gen_level = 10
 basic_price = 1400
 w = 4000
+quality_kind = "mutable"
 
 weapon_kind = "sword"
 dice_n = 2
 dice_x = 12
+material_group = "metal"
