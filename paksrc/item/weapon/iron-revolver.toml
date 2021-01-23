@@ -14,5 +14,4 @@ basic_price = 3000
 w = 400
 
 weapon_kind = "firearm"
-dice_n = 2
-dice_x = 10
+eff = 20

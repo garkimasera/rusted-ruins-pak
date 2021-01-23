@@ -14,5 +14,4 @@ basic_price = 1500
 w = 2500
 
 weapon_kind = "bow"
-dice_n = 2
-dice_x = 5
+eff = 10

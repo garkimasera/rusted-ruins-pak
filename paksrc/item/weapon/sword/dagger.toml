@@ -15,6 +15,6 @@ w = 7000
 quality_kind = "mutable"
 
 weapon_kind = "sword"
-dice_n = 4
-dice_x = 2
+eff = 8
+eff_var = 2
 material_group = "metal"

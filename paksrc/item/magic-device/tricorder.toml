@@ -13,8 +13,7 @@ gen_level = 3
 basic_price = 4000
 w = 600
 charge = [15, 20]
-dice_n = 10
-dice_x = 10
+eff = 100
 
 [item.magical_effect]
 range = 4

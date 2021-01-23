@@ -14,5 +14,4 @@ basic_price = 180
 w = 7000
 
 weapon_kind = "spear"
-dice_n = 2
-dice_x = 10
+eff = 20

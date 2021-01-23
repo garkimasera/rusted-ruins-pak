@@ -15,6 +15,6 @@ w = 1200
 quality_kind = "mutable"
 
 weapon_kind = "sword"
-dice_n = 4
-dice_x = 1
+eff = 4
+eff_var = 1
 material_group = "wood"

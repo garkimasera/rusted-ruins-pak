@@ -14,5 +14,4 @@ basic_price = 220
 w = 5000
 
 weapon_kind = "whip"
-dice_n = 1
-dice_x = 15
+eff = 15
