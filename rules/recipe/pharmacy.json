@@ -1,0 +1,11 @@
+{
+    "pharmacy_recipes": [
+        {
+            "product": "healing-potion",
+            "ingredients": [["medical-herb", 3]],
+            "facility": "pharmacy",
+            "difficulty": 0,
+            "required_time": "short"
+        }
+    ] 
+}

@@ -1,0 +1,15 @@
+object_type = "item"
+id = "recipe-book-pharmacy"
+ 
+[image]
+copyright="T.Okubo"
+path = "recipe-book-pharmacy.png"
+
+[item]
+item_kind = "readable"
+group = "recipe-book"
+gen_weight = 15
+gen_level = 0
+basic_price = 2000
+w = 400
+titles = ["recipe_kind:pharmacy"]
