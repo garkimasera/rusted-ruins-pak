@@ -3,6 +3,7 @@
 #
 material-group-metal = 金属
 material-group-wood = 木
+material_group-stone-material = 石材
 #
 # Metal
 #
@@ -13,3 +14,7 @@ material-steel = 鋼
 # Wood
 #
 material-wood = 木
+#
+# Stone
+#
+material-granite = 花崗岩

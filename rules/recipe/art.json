@@ -1,0 +1,11 @@
+{
+    "art_recipes": [
+        {
+            "product": "small-sculpture",
+            "ingredients": [["group/stone-material", 4]],
+            "difficulty": 0,
+            "required_time": "long",
+            "put_on_ground": true
+        }
+    ] 
+}
