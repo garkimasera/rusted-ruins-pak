@@ -7,4 +7,4 @@ path = "numbers-damage.png"
 w = 7
 h = 11
 grid_nx = 10
-grid_ny = 1
+grid_ny = 2
