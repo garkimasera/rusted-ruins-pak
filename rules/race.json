@@ -1,0 +1,9 @@
+ 
+{
+    "human": {
+        "equip_slots": [
+            "body_armor"
+        ],
+        "element_protection": [0, 0, 0, 0, 0, 0]
+    }
+}
