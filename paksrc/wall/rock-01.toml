@@ -1,0 +1,14 @@
+object_type = "wall"
+id = "rock-01"
+
+[image]
+copyright="T.Okubo"
+path = "rock-01.png"
+w = 48
+h = 48
+grid_nx = 3
+grid_ny = 2
+n_pattern = 5
+
+[wall]
+hp = 2000
