@@ -7,6 +7,6 @@ path = "toolbar-icon-frame.png"
 w = 34
 h = 34
 grid_nx = 2
-grid_ny = 1
+grid_ny = 2
 
  
