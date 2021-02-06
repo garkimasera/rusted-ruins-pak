@@ -3,6 +3,6 @@ id = "institute-of-life-sciences"
 
 [site_gen]
 kind = "other"
-site_symbol = "!rm-institute"
+site_symbol = "rm-institute"
 map_template_id = ["institute-of-life-sciences"]
 default_faction_id = "citizen"

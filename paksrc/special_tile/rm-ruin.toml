@@ -1,5 +1,5 @@
 object_type = "special_tile"
-id = "!rm-ruin"
+id = "rm-ruin"
 
 [special_tile]
 always_background = true

@@ -1,5 +1,5 @@
 object_type = "special_tile"
-id = "!rm-institute"
+id = "rm-institute"
 
 [special_tile]
 always_background = true
