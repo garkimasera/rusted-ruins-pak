@@ -1,0 +1,50 @@
+(
+    cooking_recipes: [
+        (
+            product: "boiled-potato",
+            ingredients: [
+                ("potato", 1),
+            ],
+            facility: Some("stove"),
+            difficulty: 1,
+            required_time: Short,
+        ),
+        (
+            product: "fried-egg",
+            ingredients: [
+                ("egg", 1),
+            ],
+            facility: Some("stove"),
+            difficulty: 2,
+            required_time: Short,
+        ),
+        (
+            product: "hard-biscuit",
+            ingredients: [
+                ("wheat-flour", 1),
+            ],
+            facility: Some("stove"),
+            difficulty: 4,
+            required_time: Short,
+        ),
+        (
+            product: "bread",
+            ingredients: [
+                ("wheat-flour", 1),
+            ],
+            facility: Some("stove"),
+            difficulty: 10,
+            required_time: Medium,
+        ),
+        (
+            product: "french-fries",
+            ingredients: [
+                ("potato", 1),
+                ("cooking-oil", 1),
+            ],
+            facility: Some("stove"),
+            difficulty: 10,
+            required_time: Short,
+        ),
+    ],
+)

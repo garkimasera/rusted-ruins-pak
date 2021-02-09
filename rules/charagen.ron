@@ -1,0 +1,15 @@
+(
+    common_skills: [
+        BareHands,
+        Carrying,
+        Defence,
+        Endurance,
+        Evasion,
+        Healing,
+    ],
+    equip_slots: [
+        MeleeWeapon,
+        RangedWeapon,
+        Tool,
+    ],
+)

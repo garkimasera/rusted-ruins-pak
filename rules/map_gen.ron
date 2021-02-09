@@ -1,0 +1,41 @@
+(
+    map_gen_params: {
+        "wilderness": Fractal(
+            w: 32,
+            h: 32,
+            stairs: false,
+            edge: false,
+            wall_weight: 0.1,
+        ),
+        "fractal": Fractal(
+            w: 32,
+            h: 32,
+            stairs: true,
+            edge: true,
+            wall_weight: 0.6,
+        ),
+        "rooms": Rooms(
+            w: 35,
+            h: 35,
+            max_room_size: 8,
+            min_room_size: 5,
+            n_room: 7,
+        ),
+        "lattice": Lattice(
+            w: 32,
+            h: 32,
+            nx: 5,
+            ny: 4,
+            step_min: 3,
+            step_max: 7,
+            door_weight: 0.5,
+        ),
+        "fractal-cave": Fractal(
+            w: 32,
+            h: 32,
+            stairs: true,
+            edge: true,
+            wall_weight: 0.5,
+        ),
+    },
+)

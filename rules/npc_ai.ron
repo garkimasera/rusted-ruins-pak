@@ -1,0 +1,16 @@
+{
+    "default": (
+        move_kind: NoMove,
+    ),
+    "melee": (
+        move_kind: Melee,
+    ),
+    "wander": (
+        move_kind: Wander,
+        walk_prob: 0.4,
+    ),
+    "shopkeeper": (
+        move_kind: Return,
+        walk_prob: 0.1,
+    ),
+}
