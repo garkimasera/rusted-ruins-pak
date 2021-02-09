@@ -1,0 +1,27 @@
+(
+    object_type: "chara_template",
+    id: "gast",
+    
+    image: (
+        path: "gast.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 40,
+    ),
+    
+    chara_template: (
+        race: "ghost",
+        gen_weight: 100,
+        gen_level: 5,
+        default_ai_kind: Some(("melee")),
+        skill_bonus: {},
+        base_hp: 30,
+        str: 16,
+        vit: 15,
+        dex: 10,
+        int: 14,
+        wil: 13,
+        cha: 11,
+        spd: 100,
+    ),
+)

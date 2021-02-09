@@ -1,8 +1,0 @@
-object_type = "ui_img"
-id = "!icon-tool"
-
-[image]
-copyright="T.Okubo"
-path = "icon-tool.png"
-w = 24
-h = 24

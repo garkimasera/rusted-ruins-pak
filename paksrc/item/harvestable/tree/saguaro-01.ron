@@ -1,0 +1,24 @@
+(
+    object_type: "item",
+    id: "saguaro-01",
+    
+    image: (
+        path: "saguaro-01.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "tree",
+        basic_price: 100,
+        w: 100000,
+        gen_weight: 0,
+        gen_level: 0,
+        harvest: (
+            harvest_type: chop,
+            target_item: "wood",
+            difficulty: 0,
+            n_yield: 15,
+        ),
+    ),
+)

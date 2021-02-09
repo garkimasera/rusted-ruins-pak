@@ -1,0 +1,27 @@
+(
+    object_type: "chara_template",
+    id: "flying-eye",
+    
+    image: (
+        path: "flying-eye.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 48,
+    ),
+    
+    chara_template: (
+        race: "ghost",
+        gen_weight: 80,
+        gen_level: 10,
+        default_ai_kind: Some(("melee")),
+        skill_bonus: {},
+        base_hp: 32,
+        str: 12,
+        vit: 11,
+        dex: 11,
+        int: 17,
+        wil: 16,
+        cha: 12,
+        spd: 100,
+    ),
+)

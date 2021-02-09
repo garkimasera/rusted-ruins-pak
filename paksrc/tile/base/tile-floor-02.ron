@@ -1,0 +1,13 @@
+(
+    object_type: "tile",
+    id: "tile-floor-02",
+    
+    image: (
+        path: "tile-floor-02.png",
+        copyright: "T.Okubo",
+    ),
+    
+    tile: (
+        kind: ground,
+    ),
+)

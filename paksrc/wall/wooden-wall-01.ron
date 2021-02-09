@@ -1,0 +1,22 @@
+(
+    object_type: "wall",
+    id: "wooden-wall-01",
+    
+    image: (
+        path: "wooden-wall-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+        grid_nx: 3,
+        grid_ny: 2,
+        n_pattern: 5,
+    ),
+    
+    wall: (
+        hp: Some(300),
+        build_skill: Some(1),
+        materials: Some([
+            ("wood", 10),
+        ]),
+    ),
+)

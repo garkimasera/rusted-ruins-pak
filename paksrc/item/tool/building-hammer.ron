@@ -1,0 +1,19 @@
+(
+    object_type: "item",
+    id: "building-hammer",
+    
+    image: (
+        path: "building-hammer.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "tool",
+        group: "tool",
+        basic_price: 100,
+        w: 500,
+        gen_weight: 0,
+        gen_level: 0,
+        tool_effect: build,
+    ),
+)

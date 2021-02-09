@@ -1,0 +1,18 @@
+(
+    object_type: "item",
+    id: "dresser-01",
+    
+    image: (
+        path: "dresser-01.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "furniture",
+        basic_price: 5200,
+        w: 15000,
+        gen_weight: 0,
+        gen_level: 0,
+    ),
+)

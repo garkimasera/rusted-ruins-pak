@@ -1,0 +1,35 @@
+(
+    object_type: "item",
+    id: "tricorder",
+    
+    image: (
+        path: "tricorder.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "magic_device",
+        group: "scan",
+        basic_price: 4000,
+        w: 600,
+        quality_kind: none,
+        gen_weight: 10,
+        gen_level: 3,
+        eff: 100,
+        magical_effect: (
+            kind: [
+                Status(status: scanned),
+            ],
+            target_mode: enemy,
+            range: 4,
+            shape: one_tile,
+            size: 0,
+            anim_kind: chara,
+            anim_img: "scan-chara",
+            sound: "scan-chara",
+        ),
+        attrs: [
+            Charge(min: 15, max: 20),
+        ]
+    ),
+)

@@ -1,0 +1,18 @@
+(
+    object_type: "item",
+    id: "!gold",
+    
+    image: (
+        path: "gold.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "~gold",
+        basic_price: 1,
+        w: 0,
+        gen_weight: 10,
+        gen_level: 1,
+    ),
+)

@@ -1,0 +1,19 @@
+(
+    object_type: "item",
+    id: "craft-workbench",
+    
+    image: (
+        path: "craft-workbench.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "facility",
+        basic_price: 1480,
+        w: 5500,
+        gen_weight: 0,
+        gen_level: 0,
+        facility: ("craft", 0),
+    ),
+)

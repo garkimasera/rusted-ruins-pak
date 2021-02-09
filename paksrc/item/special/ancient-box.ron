@@ -1,0 +1,18 @@
+(
+    object_type: "item",
+    id: "ancient-box",
+    
+    image: (
+        path: "ancient-box.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "special",
+        group: "ancient-box",
+        basic_price: 100,
+        w: 10000,
+        gen_weight: 0,
+        gen_level: 0,
+    ),
+)

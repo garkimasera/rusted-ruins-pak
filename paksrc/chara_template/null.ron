@@ -1,0 +1,27 @@
+(
+    object_type: "chara_template",
+    id: "!",
+    
+    image: (
+        path: "null.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 48,
+    ),
+    
+    chara_template: (
+        race: "human",
+        gen_weight: 0,
+        gen_level: 0,
+        default_ai_kind: None,
+        skill_bonus: {},
+        base_hp: 100,
+        str: 42,
+        vit: 42,
+        dex: 42,
+        int: 42,
+        wil: 42,
+        cha: 42,
+        spd: 100,
+    ),
+)

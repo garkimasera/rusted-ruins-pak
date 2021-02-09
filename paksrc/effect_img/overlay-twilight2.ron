@@ -1,0 +1,11 @@
+(
+    object_type: "effect_img",
+    id: "overlay-twilight2",
+    
+    image: (
+        path: "overlay-twilight2.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+)

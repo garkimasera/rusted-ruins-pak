@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!icon-melee-weapon",
+    
+    image: (
+        path: "icon-melee-weapon.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 24,
+    ),
+)

@@ -1,0 +1,19 @@
+(
+    object_type: "item",
+    id: "campfire",
+    
+    image: (
+        path: "campfire.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "facility",
+        basic_price: 1480,
+        w: 5500,
+        gen_weight: 0,
+        gen_level: 0,
+        facility: ("stove", -2),
+    ),
+)

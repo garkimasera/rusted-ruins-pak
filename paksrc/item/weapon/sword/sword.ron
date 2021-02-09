@@ -1,0 +1,23 @@
+(
+    object_type: "item",
+    id: "sword",
+    
+    image: (
+        path: "sword.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "weapon",
+        group: "sword",
+        basic_price: 1400,
+        w: 4000,
+        quality_kind: mutable,
+        gen_weight: 5,
+        gen_level: 10,
+        eff: 24,
+        eff_var: 4,
+        weapon_kind: sword,
+        material_group: "metal",
+    ),
+)

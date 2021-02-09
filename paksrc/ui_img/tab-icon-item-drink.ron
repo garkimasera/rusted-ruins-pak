@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!tab-icon-item-drink",
+    
+    image: (
+        path: "tab-icon-item-drink.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 32,
+    ),
+)

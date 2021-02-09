@@ -1,0 +1,19 @@
+(
+    object_type: "item",
+    id: "pickaxe",
+    
+    image: (
+        path: "pickaxe.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "tool",
+        group: "tool",
+        basic_price: 800,
+        w: 1000,
+        gen_weight: 0,
+        gen_level: 0,
+        tool_effect: mine,
+    ),
+)

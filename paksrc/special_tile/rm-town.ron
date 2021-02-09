@@ -1,0 +1,15 @@
+(
+    object_type: "special_tile",
+    id: "!rm-town",
+    
+    image: (
+        path: "rm-town.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+    
+    special_tile: (
+        always_background: Some(true),
+    ),
+)

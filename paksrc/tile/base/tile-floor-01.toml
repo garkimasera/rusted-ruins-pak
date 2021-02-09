@@ -1,9 +1,0 @@
-object_type = "tile"
-id = "tile-floor-01"
-
-[image]
-copyright="T.Okubo"
-path = "tile-floor-01.png"
-
-[tile]
-kind = "ground"

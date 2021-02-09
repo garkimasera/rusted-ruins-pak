@@ -1,0 +1,15 @@
+(
+    object_type: "anim_img",
+    id: "cold-01",
+    
+    image: (
+        path: "cold-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+        grid_nx: 3,
+        grid_ny: 2,
+        n_anim_frame: 6,
+        duration: 100,
+    ),
+)

@@ -1,0 +1,19 @@
+(
+    object_type: "item",
+    id: "wood",
+    
+    image: (
+        path: "wood.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "material",
+        group: "wood",
+        basic_price: 10,
+        w: 1500,
+        gen_weight: 10,
+        gen_level: 1,
+        material: "wood",
+    ),
+)

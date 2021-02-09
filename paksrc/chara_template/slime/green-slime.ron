@@ -1,0 +1,27 @@
+(
+    object_type: "chara_template",
+    id: "green-slime",
+    
+    image: (
+        path: "green-slime.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 48,
+    ),
+    
+    chara_template: (
+        race: "slime",
+        gen_weight: 100,
+        gen_level: 8,
+        default_ai_kind: Some(("melee")),
+        skill_bonus: {},
+        base_hp: 65,
+        str: 14,
+        vit: 12,
+        dex: 10,
+        int: 8,
+        wil: 5,
+        cha: 10,
+        spd: 75,
+    ),
+)

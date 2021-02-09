@@ -1,0 +1,19 @@
+(
+    object_type: "item",
+    id: "stove",
+    
+    image: (
+        path: "stove.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "facility",
+        basic_price: 540,
+        w: 80000,
+        gen_weight: 0,
+        gen_level: 0,
+        facility: ("stove", 0),
+    ),
+)

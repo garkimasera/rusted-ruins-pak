@@ -1,0 +1,27 @@
+(
+    object_type: "chara_template",
+    id: "stray-dog",
+    
+    image: (
+        path: "stray-dog.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 28,
+    ),
+    
+    chara_template: (
+        race: "animal",
+        gen_weight: 150,
+        gen_level: 4,
+        default_ai_kind: Some(("melee")),
+        skill_bonus: {},
+        base_hp: 80,
+        str: 16,
+        vit: 14,
+        dex: 10,
+        int: 10,
+        wil: 12,
+        cha: 10,
+        spd: 100,
+    ),
+)

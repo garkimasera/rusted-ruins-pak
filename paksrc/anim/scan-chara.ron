@@ -1,0 +1,15 @@
+(
+    object_type: "anim_img",
+    id: "scan-chara",
+    
+    image: (
+        path: "scan-chara.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+        grid_nx: 4,
+        grid_ny: 2,
+        n_anim_frame: 8,
+        duration: 16,
+    ),
+)

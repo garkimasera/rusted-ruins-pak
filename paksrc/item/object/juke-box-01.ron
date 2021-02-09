@@ -1,0 +1,18 @@
+(
+    object_type: "item",
+    id: "juke-box-01",
+    
+    image: (
+        path: "juke-box-01.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "furniture",
+        basic_price: 120000,
+        w: 55000,
+        gen_weight: 2,
+        gen_level: 2,
+    ),
+)

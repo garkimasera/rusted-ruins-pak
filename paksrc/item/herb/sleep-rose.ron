@@ -1,0 +1,30 @@
+(
+    object_type: "item",
+    id: "herb-sleep_rose",
+    
+    image: (
+        path: "sleep_rose.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "food",
+        group: "herb",
+        basic_price: 30,
+        w: 20,
+        quality_kind: none,
+        gen_weight: 20,
+        gen_level: 0,
+        eff: 10,
+        medical_effect: (
+            kind: [
+                Status(status:asleep),
+            ],
+            target_mode: enemy,
+            power_adjust: [],
+            range: 0,
+            shape: one_tile,
+            size: 0,
+        ),
+    ),
+)

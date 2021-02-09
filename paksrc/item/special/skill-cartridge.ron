@@ -1,0 +1,32 @@
+(
+    object_type: "item",
+    id: "skill-cartridge",
+    
+    image: (
+        path: "skill-cartridge.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "special",
+        group: "skill-cartridge",
+        basic_price: 100000,
+        w: 80,
+        quality_kind: none,
+        gen_weight: 0.5,
+        gen_level: 0,
+        use_effect: Effect((
+            kind: [
+                SkillLearning(skills:[]),
+            ],
+            target_mode: ally,
+            power_adjust: [],
+            range: 0,
+            shape: one_tile,
+            size: 0,
+            anim_kind: none,
+            anim_img: "",
+            sound: "",
+        )),
+    ),
+)

@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "scalearmor",
+    
+    image: (
+        path: "scalearmor.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "armor",
+        group: "scalearmor",
+        basic_price: 15000,
+        w: 10000,
+        quality_kind: mutable,
+        gen_weight: 2,
+        gen_level: 10,
+        def: ((12, 5, 5, 5, 5, 0)),
+        armor_kind: body,
+        material_group: "metal",
+    ),
+)

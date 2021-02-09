@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "boiled-potato",
+    
+    image: (
+        copyright: "T.Okubo",
+        path: "boiled-potato.png",
+    ),
+    
+    item: (
+        item_kind: "food",
+        group: "dish",
+        gen_weight: 0,
+        shop_weight: 10,
+        gen_level: 1,
+        basic_price: 200,
+        w: 300,
+        attrs: [
+            Nutrition(200),
+        ],
+    ),
+)

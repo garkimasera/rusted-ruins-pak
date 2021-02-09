@@ -1,8 +1,0 @@
-object_type = "ui_img"
-id = "!tile-range-highlight"
-
-[image]
-copyright="T.Okubo"
-path = "tile-range-highlight.png"
-w = 48
-h = 48

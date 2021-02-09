@@ -1,8 +1,0 @@
-object_type = "deco"
-id = "signboard-weapon-01"
-
-[image]
-copyright="T.Okubo"
-path = "signboard-weapon-01.png"
-w = 48
-h = 48

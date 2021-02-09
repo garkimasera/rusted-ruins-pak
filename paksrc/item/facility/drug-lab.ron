@@ -1,0 +1,19 @@
+(
+    object_type: "item",
+    id: "drug-lab",
+    
+    image: (
+        path: "drug-lab.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "facility",
+        basic_price: 4300,
+        w: 6000,
+        gen_weight: 0,
+        gen_level: 0,
+        facility: ("pharmacy", 0),
+    ),
+)

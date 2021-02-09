@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "turnip",
+    
+    image: (
+        copyright: "T.Okubo",
+        path: "turnip.png",
+    ),
+    
+    item: (
+        item_kind: "food",
+        group: "vegetable",
+        gen_weight: 0,
+        shop_weight: 5,
+        gen_level: 0,
+        basic_price: 300,
+        w: 500,
+        attrs: [
+            Nutrition(80),
+        ],
+    ),
+)

@@ -1,0 +1,14 @@
+(
+    object_type: "anim_img",
+    id: "magic-arrow-physical",
+    
+    image: (
+        path: "magic-arrow-physical.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 24,
+        grid_nx: 4,
+        grid_ny: 2,
+        n_anim_frame: 8,
+    ),
+)

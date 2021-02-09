@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "egg",
+    
+    image: (
+        copyright: "T.Okubo",
+        path: "egg.png",
+    ),
+    
+    item: (
+        item_kind: "food",
+        group: "egg",
+        gen_weight: 2,
+        shop_weight: 10,
+        gen_level: 0,
+        basic_price: 100,
+        w: 200,
+        attrs: [
+            Nutrition(200),
+        ],
+    ),
+)

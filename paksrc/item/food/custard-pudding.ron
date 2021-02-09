@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "custard-pudding",
+    
+    image: (
+        copyright: "T.Okubo",
+        path: "custard-pudding.png",
+    ),
+    
+    item: (
+        item_kind: "food",
+        group: "sweets",
+        gen_weight: 0,
+        shop_weight: 2,
+        gen_level: 1,
+        basic_price: 2400,
+        w: 200,
+        attrs: [
+            Nutrition(800),
+        ],
+    ),
+)

@@ -1,0 +1,13 @@
+(
+    object_type: "ui_img",
+    id: "!numbers-damage",
+    
+    image: (
+        path: "numbers-damage.png",
+        copyright: "T.Okubo",
+        w: 7,
+        h: 11,
+        grid_nx: 10,
+        grid_ny: 2,
+    ),
+)

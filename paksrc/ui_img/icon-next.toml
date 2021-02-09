@@ -1,6 +1,0 @@
-object_type = "ui_img"
-id = "!icon-next"
-
-[image]
-copyright="T.Okubo"
-path = "icon-next.png"

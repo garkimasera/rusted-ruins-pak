@@ -1,6 +1,0 @@
-object_type = "ui_img"
-id = "!"
-
-[image]
-copyright="T.Okubo"
-path = "empty.png"

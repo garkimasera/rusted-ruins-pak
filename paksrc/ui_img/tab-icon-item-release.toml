@@ -1,8 +1,0 @@
-object_type = "ui_img"
-id = "!tab-icon-item-release"
-
-[image]
-copyright="T.Okubo"
-path = "tab-icon-item-release.png"
-w = 48
-h = 32

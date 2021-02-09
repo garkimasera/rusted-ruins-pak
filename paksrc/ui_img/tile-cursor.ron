@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!tile-cursor",
+    
+    image: (
+        path: "tile-cursor.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+)

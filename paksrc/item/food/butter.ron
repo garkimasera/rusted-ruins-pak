@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "butter",
+    
+    image: (
+        path: "butter.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "food",
+        group: "dairy-product",
+        basic_price: 450,
+        w: 150,
+        gen_weight: 1,
+        shop_weight: 5,
+        gen_level: 1,
+        attrs: [
+            Nutrition(250),
+        ],
+    ),
+)

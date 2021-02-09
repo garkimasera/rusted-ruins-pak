@@ -1,8 +1,0 @@
-object_type = "effect_img"
-id = "overlay-night"
-
-[image]
-copyright="T.Okubo"
-path = "overlay-night.png"
-w = 48
-h = 48

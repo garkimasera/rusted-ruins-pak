@@ -1,0 +1,27 @@
+(
+    object_type: "chara_template",
+    id: "onibi",
+    
+    image: (
+        path: "onibi.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 24,
+    ),
+    
+    chara_template: (
+        race: "ghost",
+        gen_weight: 100,
+        gen_level: 1,
+        default_ai_kind: Some(("melee")),
+        skill_bonus: {},
+        base_hp: 30,
+        str: 14,
+        vit: 12,
+        dex: 10,
+        int: 11,
+        wil: 12,
+        cha: 12,
+        spd: 100,
+    ),
+)

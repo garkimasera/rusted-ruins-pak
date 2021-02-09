@@ -1,0 +1,20 @@
+(
+    object_type: "item",
+    id: "lumberjack-axe",
+    
+    image: (
+        path: "lumberjack-axe.png",
+        copyright: "T.Okubo",
+        variation_rule: none,
+    ),
+    
+    item: (
+        item_kind: "tool",
+        group: "tool",
+        basic_price: 100,
+        w: 500,
+        gen_weight: 0,
+        gen_level: 0,
+        tool_effect: chop,
+    ),
+)

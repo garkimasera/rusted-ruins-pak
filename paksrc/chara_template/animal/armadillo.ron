@@ -1,0 +1,25 @@
+(
+    object_type: "chara_template",
+    id: "armadillo",
+    
+    image: (
+        path: "armadillo.png",
+        copyright: "T.Okubo",
+    ),
+    
+    chara_template: (
+        race: "animal",
+        gen_weight: 100,
+        gen_level: 1,
+        default_ai_kind: Some(("melee")),
+        skill_bonus: {},
+        base_hp: 110,
+        str: 15,
+        vit: 18,
+        dex: 12,
+        int: 12,
+        wil: 12,
+        cha: 17,
+        spd: 100,
+    ),
+)

@@ -1,8 +1,0 @@
-object_type = "ui_img"
-id = "!tab-icon-item-throw"
-
-[image]
-copyright="T.Okubo"
-path = "tab-icon-item-throw.png"
-w = 48
-h = 32

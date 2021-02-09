@@ -1,0 +1,15 @@
+(
+    object_type: "tile",
+    id: "carpet-03",
+    
+    image: (
+        path: "carpet-03.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+    
+    tile: (
+        kind: ground,
+    ),
+)

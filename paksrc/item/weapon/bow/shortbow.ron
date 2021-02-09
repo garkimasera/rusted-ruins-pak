@@ -1,0 +1,23 @@
+(
+    object_type: "item",
+    id: "shortbow",
+    
+    image: (
+        path: "shortbow.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "weapon",
+        group: "bow",
+        basic_price: 40,
+        w: 600,
+        quality_kind: mutable,
+        gen_weight: 3,
+        gen_level: 1,
+        eff: 4,
+        eff_var: 2,
+        weapon_kind: bow,
+        material_group: "wood",
+    ),
+)

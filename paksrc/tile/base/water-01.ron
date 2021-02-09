@@ -1,0 +1,18 @@
+(
+    object_type: "tile",
+    id: "water-01",
+    
+    image: (
+        path: "water-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+        grid_nx: 2,
+        grid_ny: 3,
+        n_pattern: 5,
+    ),
+    
+    tile: (
+        kind: water,
+    ),
+)

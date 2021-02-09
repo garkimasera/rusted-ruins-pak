@@ -1,0 +1,11 @@
+(
+    object_type: "special_tile",
+    id: "!upstairs",
+    
+    image: (
+        path: "upstairs.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 63,
+    ),
+)

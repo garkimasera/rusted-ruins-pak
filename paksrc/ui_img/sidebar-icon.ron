@@ -1,0 +1,13 @@
+(
+    object_type: "ui_img",
+    id: "sidebar-icon",
+    
+    image: (
+        path: "sidebar-icon.png",
+        copyright: "T.Okubo",
+        w: 32,
+        h: 32,
+        grid_nx: 2,
+        grid_ny: 6,
+    ),
+)

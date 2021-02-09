@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!label-sp",
+    
+    image: (
+        path: "label-sp.png",
+        copyright: "T.Okubo",
+        w: 15,
+        h: 9,
+    ),
+)

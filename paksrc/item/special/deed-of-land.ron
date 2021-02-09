@@ -1,0 +1,19 @@
+(
+    object_type: "item",
+    id: "deed-of-land",
+    
+    image: (
+        path: "deed-of-land.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "special",
+        group: "deed",
+        basic_price: 1000,
+        w: 5,
+        gen_weight: 0,
+        gen_level: 0,
+        use_effect: Deed,
+    ),
+)

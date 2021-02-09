@@ -1,0 +1,37 @@
+(
+    object_type: "item",
+    id: "torch-arrow",
+    
+    image: (
+        path: "torch-arrow.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "magic_device",
+        group: "torch",
+        basic_price: 2000,
+        w: 600,
+        quality_kind: none,
+        gen_weight: 20,
+        gen_level: 0,
+        eff: 50,
+        eff_var: 10,
+        magical_effect: (
+            kind: [
+                Ranged(element:physical),
+            ],
+            target_mode: enemy,
+            range: 7,
+            shape: one_tile,
+            size: 0,
+            anim_img: "",
+            anim_kind: shot,
+            anim_img_shot: "magic-arrow-physical",
+            sound: "",
+        ),
+        attrs: [
+            Charge(min: 8, max: 16),
+        ]
+    ),
+)

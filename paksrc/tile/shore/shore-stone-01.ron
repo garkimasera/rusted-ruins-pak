@@ -1,0 +1,15 @@
+(
+    object_type: "tile",
+    id: "shore-stone-01",
+    
+    image: (
+        path: "shore-stone-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+    
+    tile: (
+        kind: water,
+    ),
+)

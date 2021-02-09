@@ -1,8 +1,0 @@
-object_type = "ui_img"
-id = "!label-sp"
-
-[image]
-copyright="T.Okubo"
-path = "label-sp.png"
-w = 15
-h = 9

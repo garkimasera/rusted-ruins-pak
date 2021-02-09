@@ -1,0 +1,16 @@
+(
+    object_type: "special_tile",
+    id: "rm-cave",
+    
+    image: (
+        path: "rm-cave.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+    
+    
+    special_tile: (
+        always_background: Some(true),
+    ),
+)

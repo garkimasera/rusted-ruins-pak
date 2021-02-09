@@ -1,0 +1,13 @@
+(
+    object_type: "ui_img",
+    id: "!vscroll-button",
+    
+    image: (
+        path: "vscroll-button.png",
+        copyright: "T.Okubo",
+        w: 23,
+        h: 26,
+        grid_nx: 2,
+        grid_ny: 2,
+    ),
+)

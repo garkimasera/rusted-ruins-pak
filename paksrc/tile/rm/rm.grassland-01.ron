@@ -1,0 +1,15 @@
+(
+    object_type: "tile",
+    id: "rm.grassland-01",
+    
+    image: (
+        path: "rm.grassland-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+    
+    tile: (
+        kind: ground,
+    ),
+)

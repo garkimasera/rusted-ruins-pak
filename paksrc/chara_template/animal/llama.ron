@@ -1,0 +1,25 @@
+(
+    object_type: "chara_template",
+    id: "llama",
+    
+    image: (
+        path: "llama.png",
+        copyright: "T.Okubo",
+    ),
+    
+    chara_template: (
+        race: "animal",
+        gen_weight: 50,
+        gen_level: 1,
+        default_ai_kind: Some(("melee")),
+        skill_bonus: {},
+        base_hp: 150,
+        str: 18,
+        vit: 22,
+        dex: 11,
+        int: 10,
+        wil: 12,
+        cha: 14,
+        spd: 100,
+    ),
+)

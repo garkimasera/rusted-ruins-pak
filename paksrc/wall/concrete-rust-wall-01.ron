@@ -1,0 +1,18 @@
+(
+    object_type: "wall",
+    id: "concrete-rust-wall-01",
+    
+    image: (
+        path: "concrete-rust-wall-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+        grid_nx: 3,
+        grid_ny: 2,
+        n_pattern: 5,
+    ),
+    
+    wall: (
+        hp: Some(2500),
+    ),
+)

@@ -1,0 +1,29 @@
+(
+    object_type: "item",
+    id: "herb-aconitum",
+    
+    image: (
+        path: "aconitum.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "food",
+        group: "herb",
+        basic_price: 20,
+        w: 20,
+        quality_kind: none,
+        gen_weight: 10,
+        gen_level: 0,
+        eff: 10,
+        medical_effect: (
+            kind: [
+                Status(status:poison),
+            ],
+            target_mode: enemy,
+            range: 0,
+            shape: one_tile,
+            size: 0,
+        ),
+    ),
+)

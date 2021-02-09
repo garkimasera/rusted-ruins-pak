@@ -1,0 +1,9 @@
+(
+    object_type: "ui_img",
+    id: "!tab-icon-creation-smith",
+    
+    image: (
+        path: "tab-icon-creation-smith.png",
+        copyright: "T.Okubo",
+    ),
+)

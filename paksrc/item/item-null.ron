@@ -1,0 +1,18 @@
+(
+    object_type: "item",
+    id: "!",
+    
+    image: (
+        path: "item-null.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "!",
+        basic_price: 0,
+        w: 0,
+        gen_weight: 0,
+        gen_level: 0,
+    ),
+)

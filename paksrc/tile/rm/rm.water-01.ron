@@ -1,0 +1,20 @@
+(
+    object_type: "tile",
+    id: "rm.water-01",
+    
+    image: (
+        path: "rm.water-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+        grid_nx: 4,
+        grid_ny: 3,
+        n_pattern: 5,
+        n_anim_frame: 2,
+        duration: 12,
+    ),
+    
+    tile: (
+        kind: water,
+    ),
+)

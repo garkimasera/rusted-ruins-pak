@@ -1,0 +1,14 @@
+(
+    object_type: "effect_img",
+    id: "overlay-fog",
+    
+    image: (
+        path: "overlay-fog.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+        grid_nx: 2,
+        grid_ny: 3,
+        n_pattern: 5,
+    ),
+)

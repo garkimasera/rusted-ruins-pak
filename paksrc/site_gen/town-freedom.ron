@@ -1,0 +1,88 @@
+(
+    object_type: "site_gen",
+    id: "town-freedom",
+    
+    site_gen: (
+        kind: town,
+        site_symbol: ("!rm-town"),
+        map_template_id: [
+            "town-freedom-0",
+        ],
+        default_faction_id: ("citizen"),
+        unique_citizens: Some([
+            (
+                pos: (22, 10),
+                floor: 0,
+                name: None,
+                n: 0,
+                chara_template_id: "guild-informant",
+                talk_script_id: Some("guild-informant"),
+            ),
+            (
+                pos: (17, 3),
+                floor: 0,
+                name: None,
+                n: 1,
+                chara_template_id: "towngirl-1",
+                talk_script_id: Some("hello"),
+            ),
+            (
+                pos: (7, 23),
+                floor: 0,
+                name: None,
+                n: 2,
+                chara_template_id: "u-captain",
+                talk_script_id: Some("u-captain"),
+            ),
+            (
+                pos: (30, 18),
+                floor: 0,
+                name: None,
+                n: 3,
+                chara_template_id: "shopkeeper-m-1",
+                talk_script_id: Some("shop"),
+            ),
+            (
+                pos: (12, 11),
+                floor: 0,
+                name: None,
+                n: 4,
+                chara_template_id: "shopkeeper-m-1",
+                talk_script_id: Some("shop"),
+            ),
+            (
+                pos: (36, 3),
+                floor: 0,
+                name: None,
+                n: 5,
+                chara_template_id: "prof",
+                talk_script_id: Some("prof-mayer"),
+            ),
+            (
+                pos: (25, 12),
+                floor: 0,
+                name: None,
+                n: 6,
+                chara_template_id: "shopkeeper-m-1",
+                talk_script_id: Some("shop"),
+            ),
+        ]),
+        shops: Some([
+            (
+                chara_n: 3,
+                kind: equipment,
+                id: [],
+            ),
+            (
+                chara_n: 4,
+                kind: food,
+                id: [],
+            ),
+            (
+                chara_n: 6,
+                kind: specified,
+                id: ["skill-cartridge"],
+            ),
+        ]),
+    ),
+)

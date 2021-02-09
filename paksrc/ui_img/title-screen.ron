@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!title-screen",
+    
+    image: (
+        path: "title-screen.png",
+        copyright: "T.Okubo",
+        w: 800,
+        h: 600,
+    ),
+)

@@ -1,0 +1,11 @@
+(
+    object_type: "deco",
+    id: "signboard-guild-01",
+    
+    image: (
+        path: "signboard-guild-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+)

@@ -1,0 +1,18 @@
+(
+    object_type: "item",
+    id: "measurement-device-01",
+    
+    image: (
+        path: "measurement-device-01.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "furniture",
+        basic_price: 3000,
+        w: 85000,
+        gen_weight: 0,
+        gen_level: 0,
+    ),
+)

@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!tab-icon-item-use",
+    
+    image: (
+        path: "tab-icon-item-use.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 32,
+    ),
+)

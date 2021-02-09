@@ -1,6 +1,0 @@
-object_type = "ui_img"
-id = "!icon-prev"
-
-[image]
-copyright="T.Okubo"
-path = "icon-prev.png"

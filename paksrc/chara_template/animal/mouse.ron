@@ -1,0 +1,29 @@
+(
+    object_type: "chara_template",
+    id: "mouse",
+    
+    image: (
+        path: "mouse.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 12,
+    ),
+    
+    chara_template: (
+        race: "animal",
+        gen_weight: 200,
+        gen_level: 1,
+        default_ai_kind: Some(("melee")),
+        skill_bonus: {
+            "endurance": very_low,
+        },
+        base_hp: 20,
+        str: 14,
+        vit: 14,
+        dex: 13,
+        int: 8,
+        wil: 11,
+        cha: 9,
+        spd: 110,
+    ),
+)

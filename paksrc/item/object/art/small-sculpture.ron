@@ -1,0 +1,26 @@
+(
+    object_type: "item",
+    id: "small-sculpture",
+    
+    image: (
+        path: "small-sculpture.png",
+        copyright: "T.Okubo",
+        w: 32,
+        h: 32,
+        grid_nx: 3,
+        grid_ny: 1,
+        n_pattern: 3,
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "art",
+        basic_price: 5000,
+        w: 15000,
+        quality_kind: none,
+        gen_weight: 0,
+        gen_level: 0,
+        material_group: "stone-material",
+        material: "",
+    ),
+)

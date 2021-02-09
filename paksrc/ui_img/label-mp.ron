@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!label-mp",
+    
+    image: (
+        path: "label-mp.png",
+        copyright: "T.Okubo",
+        w: 15,
+        h: 9,
+    ),
+)

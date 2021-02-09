@@ -1,0 +1,25 @@
+(
+    object_type: "chara_template",
+    id: "emu",
+    
+    image: (
+        path: "emu.png",
+        copyright: "T.Okubo",
+    ),
+    
+    chara_template: (
+        race: "animal",
+        gen_weight: 100,
+        gen_level: 14,
+        default_ai_kind: Some(("melee")),
+        skill_bonus: {},
+        base_hp: 90,
+        str: 20,
+        vit: 14,
+        dex: 13,
+        int: 16,
+        wil: 15,
+        cha: 18,
+        spd: 100,
+    ),
+)

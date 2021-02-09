@@ -1,0 +1,9 @@
+(
+    object_type: "ui_img",
+    id: "!tab-icon-creation-cooking",
+    
+    image: (
+        path: "tab-icon-creation-cooking.png",
+        copyright: "T.Okubo",
+    ),
+)

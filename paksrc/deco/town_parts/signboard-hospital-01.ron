@@ -1,0 +1,11 @@
+(
+    object_type: "deco",
+    id: "signboard-hospital-01",
+    
+    image: (
+        path: "signboard-hospital-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+)

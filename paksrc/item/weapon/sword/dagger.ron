@@ -1,0 +1,23 @@
+(
+    object_type: "item",
+    id: "dagger",
+    
+    image: (
+        path: "dagger.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "weapon",
+        group: "dagger",
+        basic_price: 100,
+        w: 7000,
+        quality_kind: mutable,
+        gen_weight: 7,
+        gen_level: 1,
+        eff: 8,
+        eff_var: 2,
+        weapon_kind: sword,
+        material_group: "metal",
+    ),
+)

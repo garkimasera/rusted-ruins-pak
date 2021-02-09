@@ -1,0 +1,18 @@
+(
+    object_type: "item",
+    id: "bunk-bed-01",
+    
+    image: (
+        path: "bunk-bed-01.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "furniture",
+        basic_price: 1500,
+        w: 90000,
+        gen_weight: 0,
+        gen_level: 0,
+    ),
+)

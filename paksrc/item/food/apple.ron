@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "apple",
+    
+    image: (
+        copyright: "T.Okubo",
+        path: "apple.png",
+    ),
+
+    item: (
+        item_kind: "food",
+        group: "fruit",
+        gen_weight: 8,
+        shop_weight: 10,
+        gen_level: 0,
+        basic_price: 100,
+        w: 250,
+        attrs: [
+            Nutrition(200),
+        ],
+    ),
+)

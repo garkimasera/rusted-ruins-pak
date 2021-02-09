@@ -1,0 +1,10 @@
+(
+    object_type: "wall",
+    id: "rm-mountain-01",
+    image: (
+        path: "rm-mountain-01.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 48,
+    ),
+)
