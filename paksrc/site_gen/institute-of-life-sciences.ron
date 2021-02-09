@@ -3,7 +3,7 @@
     id: "institute-of-life-sciences",
     
     site_gen: (
-        kind: other,
+        kind: Other,
         site_symbol: ("rm-institute"),
         map_template_id: [
             "institute-of-life-sciences",

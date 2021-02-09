@@ -3,7 +3,7 @@
     id: "town-freedom",
     
     site_gen: (
-        kind: town,
+        kind: Town,
         site_symbol: ("!rm-town"),
         map_template_id: [
             "town-freedom-0",
@@ -70,17 +70,17 @@
         shops: Some([
             (
                 chara_n: 3,
-                kind: equipment,
+                kind: Equipment,
                 id: [],
             ),
             (
                 chara_n: 4,
-                kind: food,
+                kind: Food,
                 id: [],
             ),
             (
                 chara_n: 6,
-                kind: specified,
+                kind: Specified,
                 id: ["skill-cartridge"],
             ),
         ]),

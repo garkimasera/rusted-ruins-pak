@@ -12,11 +12,11 @@
         group: "platearmor",
         basic_price: 5000,
         w: 20000,
-        quality_kind: mutable,
+        quality_kind: Mutable,
         gen_weight: 2,
         gen_level: 15,
         def: ((15, 7, 7, 4, 5, 0)),
-        armor_kind: body,
+        armor_kind: Body,
         material_group: "metal",
     ),
 )

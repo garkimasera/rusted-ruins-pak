@@ -13,6 +13,6 @@
     ),
     
     tile: (
-        kind: water,
+        kind: Water,
     ),
 )

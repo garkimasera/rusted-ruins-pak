@@ -12,7 +12,6 @@
         group: "recipe-book",
         basic_price: 2000,
         w: 400,
-        quality_kind: none,
         gen_weight: 15,
         gen_level: 0,
         titles: [

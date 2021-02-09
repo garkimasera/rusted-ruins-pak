@@ -8,6 +8,6 @@
     ),
     
     tile: (
-        kind: ground,
+        kind: Ground,
     ),
 )

@@ -17,13 +17,13 @@
         eff: 30,
         medical_effect: (
             kind: [
-                Status(status:poison),
+                Status(status:Poison),
             ],
-            target_mode: enemy,
+            target_mode: Enemy,
             range: 0,
-            shape: one_tile,
+            shape: OneTile,
             size: 0,
-            anim_kind: none,
+            anim_kind: Chara,
             anim_img: "",
             sound: "",
         ),
