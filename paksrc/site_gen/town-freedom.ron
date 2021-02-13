@@ -4,11 +4,11 @@
     
     site_gen: (
         kind: Town,
-        site_symbol: ("!rm-town"),
+        site_symbol: "!rm-town",
         map_template_id: [
             "town-freedom-0",
         ],
-        default_faction_id: ("citizen"),
+        default_faction_id: "citizen",
         unique_citizens: Some([
             (
                 pos: (22, 10),

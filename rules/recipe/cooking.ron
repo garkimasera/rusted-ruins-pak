@@ -6,7 +6,7 @@
                 ("potato", 1),
             ],
             facility: Some("stove"),
-            difficulty: 1,
+            difficulty: 0,
             required_time: Short,
         ),
         (

@@ -1,28 +1,34 @@
 (
     object_type: "item",
-    id: "live-oak-01",
+    id: "berry-bush-01",
     
     image: (
-        path: "live-oak-01.png",
+        path: "berry-bush-01.png",
         copyright: "T.Okubo",
+        w: 36,
+        h: 36,
+        grid_nx: 2,
+        grid_ny: 1,
+        n_pattern: 2,
+        variation_rule: Growing,
     ),
     
     item: (
         item_kind: "object",
         group: "tree",
         basic_price: 100,
-        w: 2000000,
+        w: 15000,
         gen_weight: 0,
         gen_level: 0,
         harvest: (
-            kind: Chop,
-            item: "wood",
+            kind: Plant,
+            item: "wild-berry",
             difficulty: 0,
-            n_yield: 80,
+            n_yield: 2,
         ),
         attrs: [
             Plant(
-                growing_time_hours: 0,
+                growing_time_hours: 72,
             )
         ]
     ),

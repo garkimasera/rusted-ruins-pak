@@ -15,7 +15,7 @@
         quality_kind: Mutable,
         gen_weight: 3,
         gen_level: 11,
-        def: ((6, 4, 4, 2, 2, 0)),
+        def: (6, 4, 4, 2, 2, 0),
         armor_kind: Body,
         material_group: "metal",
     ),

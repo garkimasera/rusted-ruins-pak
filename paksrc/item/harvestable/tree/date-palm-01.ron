@@ -15,10 +15,15 @@
         gen_weight: 0,
         gen_level: 0,
         harvest: (
-            harvest_type: Chop,
-            target_item: "wood",
+            kind: Chop,
+            item: "wood",
             difficulty: 0,
             n_yield: 20,
         ),
+        attrs: [
+            Plant(
+                growing_time_hours: 0,
+            )
+        ]
     ),
 )

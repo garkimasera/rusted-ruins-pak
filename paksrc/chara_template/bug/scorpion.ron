@@ -13,7 +13,7 @@
         race: "bug",
         gen_weight: 50,
         gen_level: 20,
-        default_ai_kind: Some(("melee")),
+        default_ai_kind: "melee",
         skill_bonus: {},
         base_hp: 45,
         str: 16,

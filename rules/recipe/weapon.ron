@@ -6,7 +6,7 @@
                 ("wood", 1),
             ],
             facility: None,
-            difficulty: 1,
+            difficulty: 0,
             required_time: Short,
         ),
     ],

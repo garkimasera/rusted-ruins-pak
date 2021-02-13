@@ -13,7 +13,7 @@
         race: "ghost",
         gen_weight: 80,
         gen_level: 10,
-        default_ai_kind: Some(("melee")),
+        default_ai_kind: "melee",
         skill_bonus: {},
         base_hp: 32,
         str: 12,
