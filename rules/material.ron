@@ -1,10 +1,18 @@
 {
     "copper": (
         group: "metal",
-        gen_weight: 0.2,
+        gen_weight: 0.1,
         level: 0,
         w: 1.1,
-        eff: 0.5,
+        eff: 0.4,
+        price: 0.6,
+    ),
+    "bronze": (
+        group: "metal",
+        gen_weight: 0.2,
+        level: 0,
+        w: 1.2,
+        eff: 0.6,
         price: 0.6,
     ),
     "iron": (

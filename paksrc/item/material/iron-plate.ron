@@ -1,0 +1,19 @@
+(
+    object_type: "item",
+    id: "iron-plate",
+    
+    image: (
+        path: "iron-plate.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "material",
+        group: "metal",
+        basic_price: 300,
+        w: 1000,
+        gen_weight: 10,
+        gen_level: 1,
+        material: "iron",
+    ),
+)

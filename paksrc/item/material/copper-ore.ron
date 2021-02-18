@@ -1,19 +1,18 @@
 (
     object_type: "item",
-    id: "iron",
+    id: "copper-ore",
     
     image: (
-        path: "iron.png",
+        path: "copper-ore.png",
         copyright: "T.Okubo",
     ),
     
     item: (
         item_kind: "material",
-        group: "metal",
+        group: "ore",
         basic_price: 200,
-        w: 2000,
+        w: 7000,
         gen_weight: 10,
-        gen_level: 4,
-        material: "iron",
+        gen_level: 1,
     ),
 )
