@@ -22,9 +22,8 @@
         gen_level: 0,
         harvest: (
             kind: Plant,
-            item: "wild-berry",
+            item: [("wild-berry", 2)],
             difficulty: 0,
-            n_yield: 2,
         ),
         attrs: [
             Plant(

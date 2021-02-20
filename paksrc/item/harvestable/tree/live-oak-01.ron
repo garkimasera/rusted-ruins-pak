@@ -16,9 +16,8 @@
         gen_level: 0,
         harvest: (
             kind: Chop,
-            item: "wood",
+            item: [("wood", 80)],
             difficulty: 0,
-            n_yield: 80,
         ),
         attrs: [
             Plant(
