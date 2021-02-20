@@ -3,10 +3,21 @@
         "grassland": (
             tile: "grass-01",
             wall: "rock-01",
+            plants: [
+                ("live-oak-01", 3.0),
+                ("berry-bush-01", 0.2),
+            ],
+            items: [],
         ),
         "red-desert": (
             tile: "red-sand-01",
             wall: "rock-01",
+            plants: [
+                ("saguaro-01", 0.5),
+            ],
+            items: [
+                ("rusted-machine-01", 0.05),
+            ],
         ),
     },
     sub_biomes: {
