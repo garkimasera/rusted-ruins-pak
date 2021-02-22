@@ -20,7 +20,7 @@
             ],
             target_mode: Ally,
             power_adjust: [],
-            range: 0,
+            range: 2,
             shape: OneTile,
             size: 0,
             anim_kind: Chara,
