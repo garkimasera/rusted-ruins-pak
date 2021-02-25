@@ -21,6 +21,6 @@ $makepak $srcdir/tile/**/*.ron           -o $destdir/tile.pak
 $makepak $srcdir/ui_img/**/*.ron         -o $destdir/ui_img.pak
 $makepak $srcdir/wall/**/*.ron           -o $destdir/wall.pak
 $makepak $srcdir/region_gen/**/*.ron     -o $destdir/region_gen.pak
-$makepak $srcdir/script/**/*.rrscript    -o $destdir/script.pak
+$makepak $srcdir/script/**/*.py          -o $destdir/script.pak
 $makepak $srcdir/site_gen/**/*.ron       -o $destdir/site_gen.pak
 

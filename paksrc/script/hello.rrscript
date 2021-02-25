@@ -1,4 +1,0 @@
-hello
---- start
-talk(hello-start)
-talk(hello-next, [(ans-yes, start), (ans-no, quit)])
