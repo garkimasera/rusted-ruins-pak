@@ -1,0 +1,30 @@
+(
+    object_type: "item",
+    id: "fertilizer",
+    
+    image: (
+        path: "fertilizer.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "special",
+        group: "fertilizer",
+        basic_price: 500,
+        w: 10000,
+        gen_weight: 0.1,
+        gen_level: 0,
+        use_effect: Effect((
+            kind: [
+                PlaceTile(tile: "plowed-field-01"),
+            ],
+            target_mode: Player,
+            range: 1,
+            shape: OneTile,
+            size: 1,
+            anim_kind: Tile,
+            anim_img: "",
+            sound: "",
+        )),
+    ),
+)

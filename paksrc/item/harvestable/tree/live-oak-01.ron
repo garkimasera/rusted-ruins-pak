@@ -16,7 +16,7 @@
         gen_level: 0,
         harvest: (
             kind: Chop,
-            item: [("wood", 80)],
+            item: [("wood", 40, 80)],
             difficulty: 0,
         ),
         attrs: [

@@ -11,5 +11,6 @@
     
     tile: (
         kind: Ground,
+        fertility: 100,
     ),
 )
