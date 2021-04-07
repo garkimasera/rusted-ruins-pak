@@ -29,6 +29,7 @@ def rr_main():
             current_time = rr.current_time()
 
             if not update_time_exist or (current_time - before) > 24 * 30 * 3600:
+                rr.gen_dungeons()
                 yield ScriptYield.talk("guild_informant-after_add_dungeons")
                 rr.set_gvar(var_name, current_time)
             else:

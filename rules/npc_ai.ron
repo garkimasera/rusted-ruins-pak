@@ -1,16 +1,24 @@
 {
     "default": (
         move_kind: NoMove,
+        pathfinding_step: 20,
     ),
     "melee": (
-        move_kind: Melee,
+        move_kind: Wander,
+        pathfinding_step: 20,
+        walk_prob: 0.3,
+        approach_enemy_prob: 0.8,
     ),
     "wander": (
         move_kind: Wander,
+        pathfinding_step: 20,
         walk_prob: 0.4,
+        approach_enemy_prob: 0.5,
     ),
     "shopkeeper": (
         move_kind: Return,
+        pathfinding_step: 20,
         walk_prob: 0.1,
+        approach_enemy_prob: 0.3,
     ),
 }

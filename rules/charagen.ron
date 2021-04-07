@@ -6,6 +6,8 @@
         Endurance,
         Evasion,
         Healing,
+        Conceal,
+        Detection,
     ],
     equip_slots: [
         MeleeWeapon,
