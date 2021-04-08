@@ -15,6 +15,7 @@
     ],
     base_factor: 1,
     attack: 30,
+    conceal: 4,
     endurance: 1000,
     evasion: 200,
     healing: 50,
