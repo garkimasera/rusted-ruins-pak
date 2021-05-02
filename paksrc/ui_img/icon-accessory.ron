@@ -1,9 +1,9 @@
 (
     object_type: "ui_img",
-    id: "!icon-bodyarmor",
+    id: "!icon-accessory",
     
     image: (
-        path: "icon-bodyarmor.png",
+        path: "icon-accessory.png",
         copyright: "T.Okubo",
         w: 24,
         h: 24,

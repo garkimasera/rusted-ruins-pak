@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!icon-head",
+    
+    image: (
+        path: "icon-head.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 24,
+    ),
+)

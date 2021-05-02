@@ -1,7 +1,7 @@
 {
     "human": (
         equip_slots: [
-            BodyArmor,
+            Shield, Head, Skin, Body, Arms, Legs,
         ],
         element_protection: (
             0,

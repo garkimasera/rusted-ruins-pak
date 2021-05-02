@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!icon-legs",
+    
+    image: (
+        path: "icon-legs.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 24,
+    ),
+)

@@ -1,2 +1,18 @@
 {
+    "fire-ball": ActiveSkill(
+        group: Magic,
+        power_calc: Magic,
+        power: 10,
+        hit_power: inf,
+        effect: Effect(
+            kind: [Explosion( element: Fire )],
+            target_mode: Enemy,
+            range: 6,
+            shape: Circle,
+            size: 1,
+            anim_kind: Tile,
+            anim_img: "explosion-01",
+            sound: "explosion-01",
+        )
+    )
 }
