@@ -11,6 +11,7 @@
     
     chara_template: (
         race: "animal",
+        class: "animal",
         gen_weight: 200,
         gen_level: 1,
         default_ai_kind: "melee",

@@ -1,4 +1,5 @@
 {
+    /* default */
     "": (
         revision: (
             hp: 0,
@@ -13,14 +14,15 @@
         skill_bonus: {
         },
     ),
+    /* Available for PC */
     "archaeologist": (
         revision: (
             hp: 10,
             str: -2,
             vit: 2,
-            dex: 0,
+            dex: 4,
             int: 2,
-            wil: 2,
+            wil: 1,
             cha: 2,
             spd: 0,
         ),
@@ -28,6 +30,33 @@
             Whip: Good,
             Art: SlightlyGood,
         },
+        equips: [
+            (Head, "group/hat", 0),
+            (Skin, "group/shirt", 0),
+            (Body, "breastplate", 0),
+            (Legs, "group/boots", 0),
+        ]
+    ),
+    "merchant": (
+        revision: (
+            hp: 30,
+            str: -3,
+            vit: 2,
+            dex: -1,
+            int: 3,
+            wil: -2,
+            cha: 1,
+            spd: 0,
+        ),
+        skill_bonus: {
+            Throwing: Good,
+        },
+        equips: [
+            (Head, "group/hat", 0),
+            (Skin, "group/shirt", 0),
+            (Body, "breastplate", 0),
+            (Legs, "group/shoes", 0),
+        ]
     ),
     "rogue": (
         revision: (
@@ -56,6 +85,51 @@
             spd: 0,
         ),
         skill_bonus: {
+        },
+    ),
+    /* For NPC */
+    "animal": (
+        revision: (
+            hp: 0,
+            str: 0,
+            vit: 0,
+            dex: 0,
+            int: 0,
+            wil: 0,
+            cha: 0,
+            spd: 0,
+        ),
+        skill_bonus: {
+            BareHands: SlightlyGood,
+        },
+    ),
+    "civilian": (
+        revision: (
+            hp: 0,
+            str: -4,
+            vit: -3,
+            dex: 0,
+            int: 0,
+            wil: 0,
+            cha: 0,
+            spd: 0,
+        ),
+        skill_bonus: {
+        },
+    ),
+    "predator": (
+        revision: (
+            hp: 0,
+            str: 0,
+            vit: 0,
+            dex: 0,
+            int: 0,
+            wil: 0,
+            cha: 0,
+            spd: 0,
+        ),
+        skill_bonus: {
+            BareHands: Good,
         },
     ),
 }

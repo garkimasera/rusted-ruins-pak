@@ -11,6 +11,7 @@
     
     chara_template: (
         race: "human",
+        class: "archaeologist",
         gen_weight: 0,
         gen_level: 0,
         default_ai_kind: "shopkeeper",
