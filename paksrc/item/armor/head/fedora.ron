@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "fedora",
+
+    image: (
+        path: "fedora.png",
+        copyright: "T.Okubo",
+    ),
+
+    item: (
+        item_kind: "armor",
+        group: "hat",
+        basic_price: 800,
+        w: 300,
+        quality_kind: Mutable,
+        gen_weight: 1,
+        gen_level: 2,
+        def: (3, 2, 2, 1, 1, 0),
+        armor_kind: Head,
+        material_group: "leather",
+    ),
+)

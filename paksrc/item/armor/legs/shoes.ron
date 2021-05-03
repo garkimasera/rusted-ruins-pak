@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "shoes",
+
+    image: (
+        path: "shoes.png",
+        copyright: "T.Okubo",
+    ),
+
+    item: (
+        item_kind: "armor",
+        group: "shoes",
+        basic_price: 150,
+        w: 400,
+        quality_kind: Mutable,
+        gen_weight: 1,
+        gen_level: 1,
+        def: (3, 2, 2, 2, 0, 0),
+        armor_kind: Legs,
+        material_group: "leather",
+    ),
+)

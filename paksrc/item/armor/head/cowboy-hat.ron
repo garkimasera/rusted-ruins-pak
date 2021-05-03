@@ -1,0 +1,22 @@
+(
+    object_type: "item",
+    id: "cowboy-hat",
+
+    image: (
+        path: "cowboy-hat.png",
+        copyright: "T.Okubo",
+    ),
+
+    item: (
+        item_kind: "armor",
+        group: "hat",
+        basic_price: 300,
+        w: 300,
+        quality_kind: Mutable,
+        gen_weight: 3,
+        gen_level: 2,
+        def: (4, 4, 4, 1, 1, 0),
+        armor_kind: Head,
+        material_group: "leather",
+    ),
+)
