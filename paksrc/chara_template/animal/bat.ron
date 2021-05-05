@@ -12,6 +12,7 @@
     chara_template: (
         race: "animal",
         class: "animal",
+        faction: "monster",
         gen_weight: 150,
         gen_level: 3,
         default_ai_kind: "melee",

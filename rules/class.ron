@@ -31,6 +31,29 @@
             Art: SlightlyGood,
         },
         equips: [
+            (RangedWeapon, "group/bow", 0),
+            (Head, "group/hat", 0),
+            (Skin, "group/shirt", 0),
+            (Body, "breastplate", 0),
+            (Legs, "group/boots", 0),
+        ]
+    ),
+    "hunter": (
+        revision: (
+            hp: 0,
+            str: 2,
+            vit: 1,
+            dex: 4,
+            int: -3,
+            wil: -2,
+            cha: -1,
+            spd: 0,
+        ),
+        skill_bonus: {
+            Bow: Good,
+        },
+        equips: [
+            (RangedWeapon, "group/bow", 0),
             (Head, "group/hat", 0),
             (Skin, "group/shirt", 0),
             (Body, "breastplate", 0),

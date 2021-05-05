@@ -1,8 +1,52 @@
 {
+    "animal": (
+        equip_slots: [],
+        element_protection: (
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+        ),
+    ),
+    "bug": (
+        equip_slots: [],
+        element_protection: (
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+        ),
+    ),
+    "ghost": (
+        equip_slots: [],
+        element_protection: (
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+        ),
+    ),
     "human": (
         equip_slots: [
             Shield, Head, Skin, Body, Arms, Legs,
         ],
+        element_protection: (
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+        ),
+    ),
+    "slime": (
+        equip_slots: [],
         element_protection: (
             0,
             0,

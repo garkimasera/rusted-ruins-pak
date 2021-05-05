@@ -12,6 +12,7 @@
     chara_template: (
         race: "ghost",
         class: "predator",
+        faction: "monster",
         gen_weight: 100,
         gen_level: 5,
         default_ai_kind: "melee",

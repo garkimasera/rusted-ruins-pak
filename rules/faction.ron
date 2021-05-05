@@ -14,6 +14,10 @@
             name: "faction_monster",
             default_relation: -100,
         ),
+        "bandit": (
+            name: "faction_bandit",
+            default_relation: -100,
+        ),
         "citizen": (
             name: "faction_citizen",
             default_relation: 20,

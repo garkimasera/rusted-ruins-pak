@@ -12,6 +12,7 @@
     chara_template: (
         race: "bug",
         class: "predator",
+        faction: "monster",
         gen_weight: 80,
         gen_level: 15,
         default_ai_kind: "melee",
