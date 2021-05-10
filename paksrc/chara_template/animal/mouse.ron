@@ -17,7 +17,7 @@
         gen_level: 1,
         default_ai_kind: "melee",
         skill_bonus: {
-            Endurance: VeryLow,
+            Endurance: Bad,
         },
         base_hp: 20,
         str: 14,
