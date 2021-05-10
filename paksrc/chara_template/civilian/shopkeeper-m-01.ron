@@ -1,9 +1,9 @@
 (
     object_type: "chara_template",
-    id: "towngirl-1",
+    id: "shopkeeper-m-01",
     
     image: (
-        path: "towngirl-1.png",
+        path: "shopkeeper-m-01.png",
         copyright: "T.Okubo",
         w: 24,
         h: 48,
@@ -11,18 +11,18 @@
     
     chara_template: (
         race: "human",
-        class: "civilian",
+        class: "merchant",
         gen_weight: 0,
         gen_level: 0,
-        default_ai_kind: "wander",
+        default_ai_kind: "shopkeeper",
         skill_bonus: {},
-        base_hp: 70,
-        str: 12,
-        vit: 16,
-        dex: 15,
-        int: 15,
-        wil: 12,
-        cha: 18,
+        base_hp: 100,
+        str: 14,
+        vit: 20,
+        dex: 22,
+        int: 20,
+        wil: 11,
+        cha: 17,
         spd: 100,
     ),
 )

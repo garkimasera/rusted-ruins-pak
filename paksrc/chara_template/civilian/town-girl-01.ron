@@ -1,0 +1,28 @@
+(
+    object_type: "chara_template",
+    id: "town-girl-01",
+    
+    image: (
+        path: "town-girl-01.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 48,
+    ),
+    
+    chara_template: (
+        race: "human",
+        class: "civilian",
+        gen_weight: 0,
+        gen_level: 0,
+        default_ai_kind: "wander",
+        skill_bonus: {},
+        base_hp: 70,
+        str: 12,
+        vit: 16,
+        dex: 15,
+        int: 15,
+        wil: 12,
+        cha: 18,
+        spd: 100,
+    ),
+)
