@@ -15,4 +15,8 @@
     common_initial_skills: [
         Throwing,
     ],
+    initial_date_year: 100,
+    initial_date_month: 1,
+    initial_date_day: 1,
+    initial_date_hour: 1,
 )

@@ -1,9 +1,16 @@
 (
     minutes_per_turn_normal: 0.5,
     minutes_per_turn_region: 10,
-    initial_date_year: 100,
-    initial_date_month: 1,
-    initial_date_day: 1,
-    initial_date_hour: 1,
     restart_path: "south-coast/institute-of-life-sciences/0:17,15",
+    skill_bonus: {
+        Awful: (-1.0, 0),
+        VeryBad: (-0.5, 0),
+        SlightlyBad: (-0.2, 0),
+        None: (0.0, 0),
+        SlightlyGood: (0.05, 1),
+        Good: (0.1, 2),
+        VeryGood: (0.2, 4),
+        Excellent: (0.3, 6),
+        Superb: (0.5, 10),
+    }
 )
