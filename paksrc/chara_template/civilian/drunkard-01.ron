@@ -1,0 +1,28 @@
+(
+    object_type: "chara_template",
+    id: "drunkard-01",
+    
+    image: (
+        path: "drunkard-01.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 48,
+    ),
+    
+    chara_template: (
+        race: "human",
+        class: "civilian",
+        gen_weight: 0,
+        gen_level: 0,
+        default_ai_kind: "wander",
+        skill_bonus: { },
+        base_hp: 100,
+        str: 17,
+        vit: 17,
+        dex: 11,
+        int: 12,
+        wil: 13,
+        cha: 14,
+        spd: 100,
+    ),
+)
