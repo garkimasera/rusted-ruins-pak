@@ -15,6 +15,15 @@ giant-ant = giant ant
 killer-scorpion = killer scorpion
 scorpion = scorpion
 
+# Civilian
+drunkard = drunkard
+guild-informant = guild informant
+peasant = peasant
+rich-old-man = rich old man
+shopkeeper = shopkeeper
+town-boy = town boy
+town-girl = town girl
+
 # Ghost
 flying-eye = flying eye
 gast = gast

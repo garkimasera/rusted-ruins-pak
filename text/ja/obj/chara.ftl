@@ -15,6 +15,15 @@ giant-ant = 巨大アリ
 killer-scorpion = 殺人サソリ
 scorpion = サソリ
 
+# Civilian
+drunkard = 飲んだくれ
+guild-informant = ギルドの情報屋
+peasant = 農民
+rich-old-man = 金持ちの老人
+shopkeeper = 店主
+town-boy = 街の子供
+town-girl = 街の子供
+
 # Ghost
 flying-eye = 空飛ぶ目玉
 gast = ガスト
