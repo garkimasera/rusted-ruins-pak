@@ -1,15 +1,12 @@
 (
     object_type: "tile",
-    id: "rm.red-desert-01",
+    id: "soil-03",
     
     image: (
-        path: "rm.red-desert-01.png",
+        path: "soil-03.png",
         copyright: "T.Okubo",
         w: 48,
         h: 48,
-        grid_nx: 3,
-        grid_ny: 2,
-        n_pattern: 5,
     ),
     
     tile: (

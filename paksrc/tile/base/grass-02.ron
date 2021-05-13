@@ -1,9 +1,9 @@
 (
     object_type: "tile",
-    id: "rm.red-desert-01",
+    id: "grass-02",
     
     image: (
-        path: "rm.red-desert-01.png",
+        path: "grass-02.png",
         copyright: "T.Okubo",
         w: 48,
         h: 48,
