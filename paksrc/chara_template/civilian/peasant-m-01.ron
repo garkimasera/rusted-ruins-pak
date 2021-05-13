@@ -1,9 +1,9 @@
 (
     object_type: "chara_template",
-    id: "peasant-f-01",
+    id: "peasant-m-01",
     
     image: (
-        path: "peasant-f-01.png",
+        path: "peasant-m-01.png",
         copyright: "T.Okubo",
         w: 24,
         h: 48,

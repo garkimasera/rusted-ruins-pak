@@ -1,6 +1,6 @@
 (
     object_type: "special_tile",
-    id: "!rm-town",
+    id: "rm-town",
     
     image: (
         path: "rm-town.png",

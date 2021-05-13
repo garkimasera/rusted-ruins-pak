@@ -1,13 +1,17 @@
 (
     object_type: "region_gen",
     id: "south-coast",
-    
+
     region_gen: (
         map_template_id: "south-coast",
         towns: [
             (
-                id: "town-freedom",
+                id: "freedom-town",
                 pos: (44, 48),
+            ),
+            (
+                id: "scena-village",
+                pos: (26, 44),
             ),
         ],
         others: [

@@ -1,0 +1,24 @@
+(
+    object_type: "site_gen",
+    id: "scena-village",
+    
+    site_gen: (
+        kind: Town,
+        site_symbol: "rm-town",
+        map_template_id: [
+            "scena-village-1",
+        ],
+        default_faction_id: "citizen",
+        unique_citizens: Some([
+            (
+                pos: (10, 10),
+                floor: 0,
+                name: None,
+                n: 0,
+                chara_template_id: "peasant-m-01",
+            ),
+        ]),
+        shops: Some([
+        ]),
+    ),
+)

@@ -1,12 +1,12 @@
 (
     object_type: "site_gen",
-    id: "town-freedom",
+    id: "freedom-town",
     
     site_gen: (
         kind: Town,
-        site_symbol: "!rm-town",
+        site_symbol: "rm-town",
         map_template_id: [
-            "town-freedom-0",
+            "freedom-town-1",
         ],
         default_faction_id: "citizen",
         unique_citizens: Some([
@@ -23,7 +23,7 @@
                 floor: 0,
                 name: None,
                 n: 1,
-                chara_template_id: "towngirl-1",
+                chara_template_id: "town-girl-01",
                 talk_script_id: Some("hello"),
             ),
             (
@@ -39,7 +39,7 @@
                 floor: 0,
                 name: None,
                 n: 3,
-                chara_template_id: "shopkeeper-m-1",
+                chara_template_id: "shopkeeper-m-01",
                 talk_script_id: Some("shop"),
             ),
             (
@@ -47,7 +47,7 @@
                 floor: 0,
                 name: None,
                 n: 4,
-                chara_template_id: "shopkeeper-m-1",
+                chara_template_id: "shopkeeper-m-01",
                 talk_script_id: Some("shop"),
             ),
             (
@@ -63,7 +63,7 @@
                 floor: 0,
                 name: None,
                 n: 6,
-                chara_template_id: "shopkeeper-m-1",
+                chara_template_id: "shopkeeper-m-01",
                 talk_script_id: Some("shop"),
             ),
         ]),
