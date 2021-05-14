@@ -9,16 +9,16 @@
             "scena-village-1",
         ],
         default_faction_id: "citizen",
-        unique_citizens: Some([
+        unique_citizens: [
             (
                 pos: (10, 10),
                 floor: 0,
-                name: None,
                 n: 0,
                 chara_template_id: "peasant-m-01",
+                talk_script_id: "scena-civilian-random-01",
             ),
-        ]),
-        shops: Some([
-        ]),
+        ],
+        shops: [
+        ],
     ),
 )
