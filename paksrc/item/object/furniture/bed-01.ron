@@ -1,0 +1,18 @@
+(
+    object_type: "item",
+    id: "bed-01",
+    
+    image: (
+        path: "bed-01.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "furniture",
+        basic_price: 500,
+        w: 30000,
+        gen_weight: 0,
+        gen_level: 0,
+    ),
+)

@@ -8,7 +8,7 @@
         map_template_id: [
             "freedom-town-1",
         ],
-        default_faction_id: "citizen",
+        default_faction_id: "free_frontier",
         unique_citizens: [
             (
                 pos: (22, 10),

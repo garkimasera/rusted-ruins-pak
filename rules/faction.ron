@@ -3,24 +3,25 @@
     relation_neutral: 0,
     factions: {
         "!unknown": (
-            name: "faction_unknown",
             default_relation: 0,
         ),
         "!player": (
-            name: "faction_player",
             default_relation: 100,
         ),
         "monster": (
-            name: "faction_monster",
             default_relation: -100,
         ),
         "bandit": (
-            name: "faction_bandit",
             default_relation: -100,
         ),
-        "citizen": (
-            name: "faction_citizen",
+        "civilian": (
+            default_relation: 0,
+        ),
+        "scientists": (
             default_relation: 20,
+        ),
+        "free_frontier": (
+            default_relation: 0,
         ),
     },
 )

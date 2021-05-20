@@ -90,6 +90,7 @@ stove = かまど
 
 # furniture
 bar-chair = バーの椅子
+bed = ベッド
 bench = ベンチ
 bookshelf = 本棚
 bunk-bed = 二段ベッド

@@ -12,6 +12,7 @@
     chara_template: (
         race: "human",
         class: "civilian",
+        faction: "civilian",
         gen_weight: 0,
         gen_level: 0,
         default_ai_kind: "wander",

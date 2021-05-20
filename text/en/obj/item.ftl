@@ -90,6 +90,7 @@ stove = stove
 
 # furniture
 bar-chair = bar chair
+bed = bed
 bench = bench
 bookshelf = bookshelf
 bunk-bed = bunk bed

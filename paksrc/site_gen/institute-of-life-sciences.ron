@@ -8,6 +8,6 @@
         map_template_id: [
             "institute-of-life-sciences",
         ],
-        default_faction_id: "citizen",
+        default_faction_id: "scientists",
     ),
 )
