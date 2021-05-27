@@ -1,0 +1,29 @@
+(
+    object_type: "chara_template",
+    id: "lucetta",
+    
+    image: (
+        path: "lucetta.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 48,
+    ),
+    
+    chara_template: (
+        race: "human",
+        class: "merchant",
+        faction: "civilian",
+        gen_weight: 0,
+        gen_level: 0,
+        default_ai_kind: "shopkeeper",
+        skill_bonus: {},
+        base_hp: 100,
+        str: 18,
+        vit: 21,
+        dex: 23,
+        int: 21,
+        wil: 18,
+        cha: 23,
+        spd: 100,
+    ),
+)
