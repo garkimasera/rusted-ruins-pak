@@ -63,18 +63,15 @@
         shops: [
             (
                 chara_n: 3,
-                kind: Equipment,
-                id: [],
+                selector: "kind/food"
             ),
             (
                 chara_n: 4,
-                kind: Food,
-                id: [],
+                shop_kind: "equipment",
             ),
             (
                 chara_n: 6,
-                kind: Specified,
-                id: ["skill-cartridge"],
+                selector: "skill-cartridge",
             ),
         ],
     ),

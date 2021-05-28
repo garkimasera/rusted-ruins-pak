@@ -1,4 +1,7 @@
 (
     min_shop_items: 10,
     max_shop_items: 20,
+    shop_kinds: {
+        "equipment": "kind/shield,kind/head,kind/skin,kind/body,kind/arms,kind/legs,kind/sword,kind/spear,kind/axe,kind/whip,kind/bow,kind/crossbow,kind/firearm"
+    }
 )
