@@ -1,9 +1,9 @@
 (
     object_type: "tile",
-    id: "grass-02",
+    id: "over-grass-01",
     
     image: (
-        path: "grass-02.png",
+        path: "over-grass-01.png",
         copyright: "T.Okubo",
         w: 48,
         h: 48,
