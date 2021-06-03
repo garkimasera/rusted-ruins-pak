@@ -1,9 +1,9 @@
 (
     object_type: "chara_template",
-    id: "lucetta",
+    id: "u-lucetta",
     
     image: (
-        path: "lucetta.png",
+        path: "u-lucetta.png",
         copyright: "T.Okubo",
         w: 24,
         h: 48,
