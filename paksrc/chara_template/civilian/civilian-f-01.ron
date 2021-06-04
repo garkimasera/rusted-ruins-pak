@@ -1,0 +1,29 @@
+(
+    object_type: "chara_template",
+    id: "civilian-f-01",
+    
+    image: (
+        path: "civilian-f-01.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 48,
+    ),
+    
+    chara_template: (
+        race: "human",
+        class: "civilian",
+        faction: "civilian",
+        gen_weight: 0,
+        gen_level: 0,
+        default_ai_kind: "wander",
+        skill_bonus: { },
+        base_hp: 100,
+        str: 15,
+        vit: 16,
+        dex: 15,
+        int: 15,
+        wil: 14,
+        cha: 16,
+        spd: 100,
+    ),
+)
