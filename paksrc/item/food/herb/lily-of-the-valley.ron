@@ -1,23 +1,27 @@
 (
     object_type: "item",
-    id: "sleep-rose",
+    id: "lily-of-the-valley",
     
     image: (
-        path: "sleep-rose.png",
+        path: "lily-of-the-valley.png",
         copyright: "T.Okubo",
     ),
     
     item: (
         item_kind: "food",
         group: "herb",
-        basic_price: 30,
-        w: 20,
-        gen_weight: 20,
+        basic_price: 900,
+        w: 40,
+        quality_kind: Mutable,
+        gen_weight: 0,
         gen_level: 0,
         eff: 10,
+        attrs: [
+            Nutrition(200),
+        ],
         medical_effect: (
             kind: [
-                Status(status:Asleep),
+                Status(status:Poison),
             ],
             target_mode: Enemy,
             range: 0,

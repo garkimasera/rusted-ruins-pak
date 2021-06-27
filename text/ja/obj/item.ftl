@@ -52,6 +52,10 @@ turnip = カブ
 wheat-flour = 小麦粉
 
 # herb
+aconitum = トリカブト
+lily-of-the-valley = スズラン
+medical-herb = 薬草
+sleep-rose = 眠りのバラ
 
 #
 # Magic Device

@@ -15,6 +15,9 @@
     common_initial_skills: [
         Throwing,
     ],
+    common_initial_active_skills: [
+        "fire-ball",
+    ],
     initial_date_year: 100,
     initial_date_month: 1,
     initial_date_day: 1,

@@ -52,6 +52,10 @@ turnip = turnip
 wheat-flour = wheat flour
 
 # herb
+aconitum = aconitum
+lily-of-the-valley = lily of the valley
+medical-herb = medical herb
+sleep-rose = sleep rose
 
 #
 # Magic Device

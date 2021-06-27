@@ -1,6 +1,7 @@
 {
     "fire-ball": ActiveSkill(
         group: Magic,
+        icon: "",
         power_calc: Magic,
         power: 10,
         hit_power: inf,

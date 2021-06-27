@@ -9,5 +9,23 @@
             difficulty: 0,
             required_time: Short,
         ),
+        (
+            product: "poison",
+            ingredients: [
+                ("lily-of-the-valley", 1),
+            ],
+            facility: Some("pharmacy"),
+            difficulty: 5,
+            required_time: Short,
+        ),
+        (
+            product: "poison",
+            ingredients: [
+                ("aconitum", 1),
+            ],
+            facility: Some("pharmacy"),
+            difficulty: 8,
+            required_time: Short,
+        ),
     ],
 )

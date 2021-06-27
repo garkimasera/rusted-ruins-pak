@@ -75,6 +75,8 @@ wood =
 #
 # Potion
 #
+poison =
+    毒素を含む水溶液。飲みやすいように調合されている。
 
 #
 # Readable

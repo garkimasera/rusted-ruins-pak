@@ -1,6 +1,6 @@
 (
     object_type: "item",
-    id: "herb-aconitum",
+    id: "aconitum",
     
     image: (
         path: "aconitum.png",
