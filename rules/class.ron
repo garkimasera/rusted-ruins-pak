@@ -162,6 +162,20 @@
         skill_bonus: {
         },
     ),
+    "guard": (
+        revision: (
+            hp: 0,
+            str: 0,
+            vit: 2,
+            dex: 0,
+            int: 0,
+            wil: 0,
+            cha: 0,
+            spd: 0,
+        ),
+        skill_bonus: {
+        },
+    ),
     "predator": (
         revision: (
             hp: 0,

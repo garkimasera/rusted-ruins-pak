@@ -1,0 +1,28 @@
+(
+    object_type: "chara_template",
+    id: "decayed-turret",
+    
+    image: (
+        path: "decayed-turret.png",
+        copyright: "T.Okubo",
+    ),
+    
+    chara_template: (
+        race: "machine",
+        class: "guard",
+        faction: "monster",
+        gen_weight: 100,
+        gen_level: 1,
+        default_ai_kind: "fixed",
+        skill_bonus: {},
+        base_hp: 110,
+        str: 10,
+        vit: 17,
+        dex: 11,
+        int: 10,
+        wil: 5,
+        cha: 5,
+        spd: 75,
+        equips: [ (RangedWeapon, "blunderbuss", 0) ]
+    ),
+)

@@ -169,10 +169,13 @@ pickaxe = ピッケル
 # Weapon
 #
 
+# sword
+bokken = 木刀
+dagger = ダガー
+
 # bow
 longbow = ロングボウ
 shortbow = ショートボウ
 
-# sword
-bokken = 木刀
-dagger = ダガー
+# firearm
+blunderbuss = ラッパ銃

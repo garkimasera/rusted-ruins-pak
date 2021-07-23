@@ -1,0 +1,26 @@
+(
+    object_type: "item",
+    id: "blunderbuss",
+    
+    image: (
+        path: "blunderbuss.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "weapon",
+        group: "gun",
+        basic_price: 600,
+        w: 2000,
+        quality_kind: Mutable,
+        gen_weight: 2,
+        gen_level: 1,
+        eff: 8,
+        eff_var: 4,
+        weapon_kind: Firearm,
+        attrs: [
+            AnimImgShot("shotgun-bullet-01"),
+            Sound("gun-01"),
+        ]
+    ),
+)

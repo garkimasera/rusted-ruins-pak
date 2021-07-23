@@ -43,8 +43,9 @@
         ],
         npc_race_probability: {
             "bug": 0.5,
-            "slime": 0.5,
             "ghost": 0.6,
+            "machine": 1.0,
+            "slime": 0.5,
         },
         default_faction_id: "monster",
         terrain: [

@@ -45,6 +45,17 @@
             0,
         ),
     ),
+    "machine": (
+        equip_slots: [],
+        element_protection: (
+            10,
+            10,
+            10,
+            -50,
+            100,
+            100,
+        ),
+    ),
     "slime": (
         equip_slots: [],
         element_protection: (
