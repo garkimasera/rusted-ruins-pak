@@ -14,8 +14,8 @@
         w: 400,
         gen_weight: 1,
         gen_level: 10,
-        eff: 100,
-        eff_var: 2,
+        power: 100,
+        power_var: 2,
         throw_effect: (
             kind: [
                 Explosion(element:Physical),

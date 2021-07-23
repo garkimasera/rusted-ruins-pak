@@ -4,5 +4,5 @@
     mining_power_factor: 50,
     mining_power_base: 20,
     recover_hp_factor: 0.0005,
-    throw_weight_to_eff_factor: 0.001,
+    throw_weight_to_power_factor: 0.001,
 )

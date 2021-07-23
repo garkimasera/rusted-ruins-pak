@@ -15,7 +15,7 @@
         quality_kind: Mutable,
         gen_weight: 10,
         gen_level: 0,
-        eff: 10,
+        power: 10,
         medical_effect: (
             kind: [
                 Status(status:Poison),

@@ -14,7 +14,7 @@
         w: 600,
         gen_weight: 10,
         gen_level: 3,
-        eff: 100,
+        power: 100,
         magical_effect: (
             kind: [
                 Status(status: Scanned),
