@@ -28,7 +28,7 @@
         shops: [
             (
                 chara_n: 0,
-                selector: "group/seed",
+                selector: "group/seed,fertilizer",
             ),
         ],
     ),
