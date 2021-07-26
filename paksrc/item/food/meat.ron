@@ -17,6 +17,7 @@
         w: 1000,
         attrs: [
             Nutrition(1000),
+            Rot(8),
         ],
     ),
 )
