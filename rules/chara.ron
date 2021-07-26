@@ -16,4 +16,8 @@
     carrying_capacity_threshold_stressed: 1.5,
     carrying_capacity_threshold_strained: 2,
     carrying_capacity_threshold_overloaded: 3,
+    speed_coeff_burdened: 0.8,
+    speed_coeff_stressed: 0.6,
+    speed_coeff_strained: 0.3,
+    speed_coeff_overloaded: 0.1,
 )
