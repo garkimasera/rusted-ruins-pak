@@ -153,6 +153,9 @@ deed-of-land = 土地の権利証
 fertilizer = 肥料
 skill-cartridge = 能力カセット
 
+# filth
+rot-pile = 腐ったかたまり
+
 #
 # Throwing
 #

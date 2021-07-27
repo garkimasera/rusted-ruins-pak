@@ -153,6 +153,9 @@ deed-of-land = deed of land
 fertilizer = fertilizer
 skill-cartridge = skill cartridge
 
+# filth
+rot-pile = rot pile
+
 #
 # Throwing
 #
