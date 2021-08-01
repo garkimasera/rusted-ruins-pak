@@ -1,0 +1,9 @@
+(
+    object_type: "ui_img",
+    id: "!tab-icon-item-open",
+    
+    image: (
+        path: "tab-icon-item-open.png",
+        copyright: "T.Okubo",
+    ),
+)

@@ -1,0 +1,9 @@
+(
+    object_type: "ui_img",
+    id: "!tab-icon-item-put",
+    
+    image: (
+        path: "tab-icon-item-put.png",
+        copyright: "T.Okubo",
+    ),
+)
