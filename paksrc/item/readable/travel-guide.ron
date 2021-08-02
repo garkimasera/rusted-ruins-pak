@@ -14,8 +14,10 @@
         w: 200,
         gen_weight: 100,
         gen_level: 0,
-        titles: [
-            "geography-of-the-north-continent",
+        attrs: [
+            Titles(
+                ["geography-of-the-north-continent"],
+            )
         ],
     ),
 )

@@ -14,8 +14,10 @@
         w: 200,
         gen_weight: 100,
         gen_level: 0,
-        titles: [
-            "game-manual",
+        attrs: [
+            Titles(
+                ["game-manual"],
+            )
         ],
     ),
 )

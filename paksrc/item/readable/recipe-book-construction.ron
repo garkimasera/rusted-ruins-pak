@@ -14,8 +14,10 @@
         w: 400,
         gen_weight: 15,
         gen_level: 0,
-        titles: [
-            "recipe_kind:construction",
+        attrs: [
+            Titles(
+                ["recipe_kind:construction"],
+            )
         ],
     ),
 )
