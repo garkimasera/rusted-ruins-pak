@@ -14,10 +14,12 @@
         w: 50000,
         gen_weight: 10,
         gen_level: 4,
-        harvest: (
-            kind: Deconstruct,
-            item: [("steel-plate", 2, 4)],
-            difficulty: 5,
-        ),
+        attrs: [
+            Harvest((
+                kind: Deconstruct,
+                item: [("steel-plate", 2, 4)],
+                difficulty: 5,
+            )),
+        ],
     ),
 )

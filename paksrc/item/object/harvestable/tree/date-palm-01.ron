@@ -14,15 +14,15 @@
         w: 100000,
         gen_weight: 0,
         gen_level: 0,
-        harvest: (
-            kind: Chop,
-            item: [("wood", 15, 30)],
-            difficulty: 0,
-        ),
         attrs: [
             Plant(
                 growing_time_hours: 0,
-            )
+            ),
+            Harvest((
+                kind: Chop,
+                item: [("wood", 15, 30)],
+                difficulty: 0,
+            )),
         ]
     ),
 )

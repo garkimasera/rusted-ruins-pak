@@ -20,15 +20,15 @@
         w: 10000,
         gen_weight: 0,
         gen_level: 0,
-        harvest: (
-            kind: Plant,
-            item: [("turnip", 1, 2)],
-            difficulty: 0,
-        ),
         attrs: [
             Plant(
                 growing_time_hours: 120,
-            )
+            ),
+            Harvest((
+                kind: Plant,
+                item: [("turnip", 1, 2)],
+                difficulty: 0,
+            ))
         ]
     ),
 )
