@@ -14,6 +14,11 @@
         w: 6000,
         gen_weight: 0,
         gen_level: 0,
-        facility: ("pharmacy", 0),
+        attrs: [
+            Facility(
+                type: "pharmacy",
+                quality: 0,
+            )
+        ]
     ),
 )
