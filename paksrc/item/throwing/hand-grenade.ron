@@ -16,17 +16,22 @@
         gen_level: 10,
         power: 100,
         power_var: 2,
-        throw_effect: (
-            kind: [
-                Explosion(element:Physical),
-            ],
-            target_mode: Enemy,
-            range: 0,
-            shape: Circle,
-            size: 1,
-            anim_kind: Tile,
-            anim_img: "explosion-01",
-            sound: "explosion-01",
-        ),
+        attrs: [
+            Throw (
+                power: (100, 2),
+                effect: (
+                    kind: [
+                        Explosion(element:Physical),
+                    ],
+                    target_mode: Enemy,
+                    range: 0,
+                    shape: Circle,
+                    size: 1,
+                    anim_kind: Tile,
+                    anim_img: "explosion-01",
+                    sound: "explosion-01",
+                )
+            )
+        ],
     ),
 )
