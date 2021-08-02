@@ -169,6 +169,11 @@ lumberjack-axe = lumberjack axe
 pickaxe = pickaxe
 
 #
+# Container
+#
+ice-box = ice box
+
+#
 # Weapon
 #
 

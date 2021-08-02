@@ -169,6 +169,11 @@ lumberjack-axe = 木こりの斧
 pickaxe = ピッケル
 
 #
+# Container
+#
+ice-box = アイスボックス
+
+#
 # Weapon
 #
 

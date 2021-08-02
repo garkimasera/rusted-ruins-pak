@@ -1,0 +1,25 @@
+(
+    object_type: "item",
+    id: "ice-box",
+    
+    image: (
+        path: "ice-box.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "container",
+        group: "box",
+        basic_price: 100000,
+        w: 2000,
+        gen_weight: 0.1,
+        gen_level: 20,
+        attrs: [
+            Container (
+                selector: "kind/food",
+                capacity: 15_000,
+                functions: [ PreventRot ],
+            )
+        ]
+    ),
+)
