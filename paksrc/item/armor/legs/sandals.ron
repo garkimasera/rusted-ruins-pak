@@ -15,8 +15,10 @@
         quality_kind: Mutable,
         gen_weight: 1,
         gen_level: 1,
-        def: (2, 0, 0, 0, 0, 0),
         armor_kind: Legs,
         material_group: "leather",
+        attrs: [
+            Defence((2, 0, 0, 0, 0, 0)),
+        ]
     ),
 )

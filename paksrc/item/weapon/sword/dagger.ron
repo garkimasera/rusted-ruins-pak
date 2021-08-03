@@ -15,9 +15,10 @@
         quality_kind: Mutable,
         gen_weight: 7,
         gen_level: 1,
-        power: 8,
-        power_var: 2,
         weapon_kind: Sword,
         material_group: "metal",
+        attrs: [
+            WeaponPower((8, 2)),
+        ]
     ),
 )

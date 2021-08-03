@@ -14,8 +14,6 @@
         w: 400,
         gen_weight: 1,
         gen_level: 10,
-        power: 100,
-        power_var: 2,
         attrs: [
             Throw (
                 power: (100, 2),

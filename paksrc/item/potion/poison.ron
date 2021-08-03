@@ -14,7 +14,6 @@
         w: 200,
         gen_weight: 10,
         gen_level: 0,
-        power: 30,
         attrs: [
             Medical(
                 power: (30, 0),

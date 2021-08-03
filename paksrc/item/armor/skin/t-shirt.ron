@@ -15,8 +15,10 @@
         quality_kind: Mutable,
         gen_weight: 4,
         gen_level: 1,
-        def: (2, 2, 2, 1, 1, 0),
         armor_kind: Skin,
         material_group: "cloth",
+        attrs: [
+            Defence((2, 2, 2, 1, 1, 0)),
+        ]
     ),
 )

@@ -15,8 +15,10 @@
         quality_kind: Mutable,
         gen_weight: 2,
         gen_level: 10,
-        def: (12, 5, 5, 5, 5, 0),
         armor_kind: Body,
         material_group: "metal",
+        attrs: [
+            Defence((12, 5, 5, 5, 5, 0)),
+        ]
     ),
 )

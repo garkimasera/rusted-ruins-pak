@@ -15,8 +15,10 @@
         quality_kind: Mutable,
         gen_weight: 1,
         gen_level: 2,
-        def: (3, 2, 2, 1, 1, 0),
         armor_kind: Head,
         material_group: "leather",
+        attrs: [
+            Defence((3, 2, 2, 1, 1, 0)),
+        ]
     ),
 )

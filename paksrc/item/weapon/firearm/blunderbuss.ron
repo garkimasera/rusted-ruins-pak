@@ -15,10 +15,9 @@
         quality_kind: Mutable,
         gen_weight: 2,
         gen_level: 1,
-        power: 8,
-        power_var: 4,
         weapon_kind: Firearm,
         attrs: [
+            WeaponPower((8, 4)),
             AnimImgShot("shotgun-bullet-01"),
             Sound("gun-01"),
         ]
