@@ -14,15 +14,20 @@
         w: 20,
         gen_weight: 20,
         gen_level: 0,
-        power: 10,
-        medical_effect: (
-            kind: [
-                Status(status:Asleep),
-            ],
-            target_mode: Enemy,
-            range: 0,
-            shape: OneTile,
-            size: 0,
-        ),
+        attrs: [
+            Medical(
+                power: (10, 0),
+                effect: (
+                    kind: [Status(status:Asleep)],
+                    target_mode: Enemy,
+                    range: 0,
+                    shape: OneTile,
+                    size: 0,
+                    anim_kind: Chara,
+                    anim_img: "",
+                    sound: "",
+                ),
+            )
+        ]
     ),
 )

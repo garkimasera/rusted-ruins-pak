@@ -15,23 +15,22 @@
         quality_kind: Mutable,
         gen_weight: 20,
         gen_level: 0,
-        power: 50,
-        power_var: 10,
-        magical_effect: (
-            kind: [
-                Ranged(element:Physical),
-            ],
-            target_mode: Enemy,
-            range: 7,
-            shape: OneTile,
-            size: 0,
-            anim_img: "",
-            anim_kind: Shot,
-            anim_img_shot: "magic-arrow-physical",
-            sound: "",
-        ),
         attrs: [
             Charge(min: 8, max: 16),
+            Release(
+                power: (50, 10),
+                effect: (
+                    kind: [Ranged(element:Physical)],
+                    target_mode: Enemy,
+                    range: 7,
+                    shape: OneTile,
+                    size: 0,
+                    anim_img: "",
+                    anim_kind: Shot,
+                    anim_img_shot: "magic-arrow-physical",
+                    sound: "",
+                )
+            )
         ]
     ),
 )

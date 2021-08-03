@@ -14,18 +14,20 @@
         w: 80,
         gen_weight: 0.5,
         gen_level: 0,
-        use_effect: Effect((
-            kind: [
-                SkillLearning(skills:[]),
-            ],
-            target_mode: Ally,
-            power_adjust: [],
-            range: 2,
-            shape: OneTile,
-            size: 0,
-            anim_kind: Chara,
-            anim_img: "",
-            sound: "",
-        )),
+        attrs: [
+            Use(Effect((
+                kind: [
+                    SkillLearning(skills:[]),
+                ],
+                target_mode: Ally,
+                power_adjust: [],
+                range: 2,
+                shape: OneTile,
+                size: 0,
+                anim_kind: Chara,
+                anim_img: "",
+                sound: "",
+            ))),
+        ],
     ),
 )

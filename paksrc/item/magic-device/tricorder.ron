@@ -14,21 +14,21 @@
         w: 600,
         gen_weight: 10,
         gen_level: 3,
-        power: 100,
-        magical_effect: (
-            kind: [
-                Status(status: Scanned),
-            ],
-            target_mode: Enemy,
-            range: 4,
-            shape: OneTile,
-            size: 0,
-            anim_kind: Chara,
-            anim_img: "scan-chara",
-            sound: "scan-chara",
-        ),
         attrs: [
             Charge(min: 15, max: 20),
+            Release(
+                power: (100, 0),
+                effect: (
+                    kind: [Status(status: Scanned)],
+                    target_mode: Enemy,
+                    range: 4,
+                    shape: OneTile,
+                    size: 0,
+                    anim_kind: Chara,
+                    anim_img: "scan-chara",
+                    sound: "scan-chara",
+                )
+            )
         ]
     ),
 )

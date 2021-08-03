@@ -15,18 +15,21 @@
         quality_kind: Mutable,
         gen_weight: 0,
         gen_level: 0,
-        power: 10,
         attrs: [
             Nutrition(200),
-        ],
-        medical_effect: (
-            kind: [
-                Status(status:Poison),
-            ],
-            target_mode: Enemy,
-            range: 0,
-            shape: OneTile,
-            size: 0,
-        ),
+            Medical(
+                power: (10, 0),
+                effect: (
+                    kind: [Status(status:Poison)],
+                    target_mode: Enemy,
+                    range: 0,
+                    shape: OneTile,
+                    size: 0,
+                    anim_kind: Chara,
+                    anim_img: "",
+                    sound: "",
+                ),
+            )
+        ]
     ),
 )

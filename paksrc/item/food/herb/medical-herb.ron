@@ -15,15 +15,20 @@
         quality_kind: Mutable,
         gen_weight: 10,
         gen_level: 1,
-        power: 30,
-        medical_effect: (
-            kind: [
-                RecoverHp,
-            ],
-            target_mode: Enemy,
-            range: 0,
-            shape: OneTile,
-            size: 0,
-        ),
+        attrs: [
+            Medical(
+                power: (20, 0),
+                effect: (
+                    kind: [RecoverHp],
+                    target_mode: Ally,
+                    range: 0,
+                    shape: OneTile,
+                    size: 0,
+                    anim_kind: Chara,
+                    anim_img: "",
+                    sound: "",
+                ),
+            )
+        ]
     ),
 )

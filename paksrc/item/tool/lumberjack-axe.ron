@@ -14,6 +14,8 @@
         w: 500,
         gen_weight: 0,
         gen_level: 0,
-        tool_effect: Chop,
+        attrs: [
+            Tool(Chop),
+        ]
     ),
 )
