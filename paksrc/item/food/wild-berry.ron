@@ -17,7 +17,7 @@
         w: 100,
         attrs: [
             Nutrition(40),
-            Rot(48),
+            Rot("2d"),
         ],
     ),
 )
