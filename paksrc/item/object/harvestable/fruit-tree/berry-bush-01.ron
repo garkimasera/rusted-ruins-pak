@@ -22,7 +22,7 @@
         gen_level: 0,
         attrs: [
             Plant(
-                growing_time_hours: 72,
+                growing_duration: "3d",
             ),
             Harvest((
                 kind: Plant,

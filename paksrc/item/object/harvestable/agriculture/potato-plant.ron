@@ -22,7 +22,7 @@
         gen_level: 0,
         attrs: [
             Plant(
-                growing_time_hours: 168,
+                growing_duration: "7d",
                 required_fertility: 80,
             ),
             Harvest((
