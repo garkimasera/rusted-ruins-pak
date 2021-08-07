@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!tab-icon-game-info-faction",
+    
+    image: (
+        path: "tab-icon-game-info-faction.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 32,
+    ),
+)

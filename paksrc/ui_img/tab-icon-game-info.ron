@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!tab-icon-game-info",
+    
+    image: (
+        path: "tab-icon-game-info.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 32,
+    ),
+)
