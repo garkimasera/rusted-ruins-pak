@@ -171,6 +171,7 @@ pickaxe = ピッケル
 #
 # Container
 #
+compost-bin = 堆肥入れ
 ice-box = アイスボックス
 
 #

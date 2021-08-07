@@ -1,0 +1,31 @@
+(
+    object_type: "item",
+    id: "compost-bin",
+    
+    image: (
+        path: "compost-bin.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "container",
+        group: "agriculture",
+        basic_price: 2000,
+        w: 3500,
+        gen_weight: 0,
+        gen_level: 1,
+        attrs: [
+            Container (
+                selector: "rot-pile",
+                capacity: 20_000,
+                functions: [
+                    ConvertMixed(
+                        duration: "2d",
+                        product: "fertilizer",
+                        ingredients: [("rot-pile", 5)],
+                    ),
+                ],
+            )
+        ]
+    ),
+)

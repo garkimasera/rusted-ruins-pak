@@ -171,6 +171,7 @@ pickaxe = pickaxe
 #
 # Container
 #
+compost-bin = compost bin
 ice-box = ice box
 
 #
