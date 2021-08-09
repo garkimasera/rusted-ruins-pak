@@ -173,6 +173,7 @@ pickaxe = ピッケル
 #
 compost-bin = 堆肥入れ
 ice-box = アイスボックス
+seed-maker = 種メーカー
 
 #
 # Weapon

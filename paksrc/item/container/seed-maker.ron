@@ -1,0 +1,29 @@
+(
+    object_type: "item",
+    id: "seed-maker",
+    
+    image: (
+        path: "seed-maker.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "container",
+        group: "agriculture",
+        basic_price: 200000,
+        w: 26_000,
+        gen_weight: 0,
+        gen_level: 1,
+        attrs: [
+            Container (
+                selector: "*",
+                capacity: 10_000,
+                functions: [
+                    Converter(
+                        kind: "seed-maker",
+                    ),
+                ],
+            )
+        ]
+    ),
+)

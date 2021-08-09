@@ -173,6 +173,7 @@ pickaxe = pickaxe
 #
 compost-bin = compost bin
 ice-box = ice box
+seed-maker = seed maker
 
 #
 # Weapon
