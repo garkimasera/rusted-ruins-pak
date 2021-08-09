@@ -18,6 +18,10 @@
         attrs: [
             Nutrition(120),
             Rot("95d"),
+            ConvertableByContainer(
+                kind: "seed-maker",
+                products: [("corn-seed", 8)],
+            ),
         ],
     ),
 )

@@ -18,6 +18,10 @@
         attrs: [
             Nutrition(80),
             Rot("18d"),
+            ConvertableByContainer(
+                kind: "seed-maker",
+                products: [("turnip-seed", 4)],
+            ),
         ],
     ),
 )

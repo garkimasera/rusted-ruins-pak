@@ -18,6 +18,10 @@
         attrs: [
             Nutrition(100),
             Rot("150d"),
+            ConvertableByContainer(
+                kind: "seed-maker",
+                products: [("potato-seed", 4)],
+            ),
         ],
     ),
 )
