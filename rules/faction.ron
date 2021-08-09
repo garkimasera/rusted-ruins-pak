@@ -1,24 +1,32 @@
 (
-    relation_friend: 80,
-    relation_neutral: 0,
+    relation_friend: 200,
+    relation_neutral: -200,
+    relvar_attacked: -10,
+    relvar_killed: -50,
     factions: {
         "!unknown": (
             default_relation: 0,
+            constant: true,
         ),
         "!player": (
-            default_relation: 100,
+            default_relation: 1000,
+            constant: true,
         ),
         "monster": (
-            default_relation: -100,
+            default_relation: -1000,
+            constant: true,
         ),
         "bandit": (
-            default_relation: -100,
+            default_relation: -1000,
+            constant: true,
         ),
         "civilian": (
             default_relation: 0,
+            constant: true,
         ),
         "scientists": (
-            default_relation: 20,
+            default_relation: 100,
+            constant: true,
         ),
         "free_frontier": (
             default_relation: 0,
