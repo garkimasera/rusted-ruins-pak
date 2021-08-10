@@ -18,6 +18,10 @@
     common_initial_active_skills: [
         "fire-ball",
     ],
+    common_initial_items: [
+        ("hard-biscuit", 8),
+        ("canned-ration", 3),
+    ],
     initial_date_year: 100,
     initial_date_month: 1,
     initial_date_day: 1,
