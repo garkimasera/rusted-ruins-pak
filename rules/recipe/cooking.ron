@@ -19,6 +19,15 @@
             required_time: Short,
         ),
         (
+            product: "corn-on-the-cob",
+            ingredients: [
+                ("corn", 1),
+            ],
+            facility: Some("stove"),
+            difficulty: 2,
+            required_time: Short,
+        ),
+        (
             product: "hard-biscuit",
             ingredients: [
                 ("wheat-flour", 1),
