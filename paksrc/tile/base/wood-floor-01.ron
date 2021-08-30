@@ -1,9 +1,9 @@
 (
     object_type: "tile",
-    id: "wood-02",
+    id: "wood-floor-01",
     
     image: (
-        path: "wood-02.png",
+        path: "wood-floor-01.png",
         copyright: "T.Okubo",
         w: 48,
         h: 48,
