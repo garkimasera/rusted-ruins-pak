@@ -13,7 +13,7 @@
     ),
     
     wall: (
-        hp: Some(1000),
+        hp: 1000,
         mining_rewards: [
             ("iron-ore", 10),
         ],

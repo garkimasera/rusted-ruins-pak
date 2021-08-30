@@ -13,10 +13,10 @@
     ),
     
     wall: (
-        hp: Some(300),
-        build_skill: Some(1),
-        materials: Some([
+        hp: 300,
+        build_skill: 1,
+        materials: [
             ("wood", 10),
-        ]),
+        ],
     ),
 )

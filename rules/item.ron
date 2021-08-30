@@ -2,4 +2,5 @@
     quality_level_factor: 5,
     rotten_item: "rot-pile",
     rotten_item_gen_per_gram: 100,
+    build_obj_default: Wall("wooden-wall-01"),
 )

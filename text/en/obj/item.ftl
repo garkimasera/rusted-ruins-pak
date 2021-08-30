@@ -29,6 +29,7 @@ canned-ration = canned ration
 carrot = carrot
 cooking-oil = cooking oil
 corn = corn
+corn-on-the-cob = corn on the cob
 corpse = corpse
 custard-pudding = custard pudding
 egg = egg

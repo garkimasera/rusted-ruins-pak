@@ -29,6 +29,7 @@ canned-ration = 缶詰
 carrot = ニンジン
 cooking-oil = 食用油
 corn = トウモロコシ
+corn-on-the-cob = 焼きトウモロコシ
 corpse = 死体
 custard-pudding = プリン
 egg = 卵
