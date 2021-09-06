@@ -16,6 +16,7 @@
         gen_level: 0,
         attrs: [
             Tool(Build),
+            Use(SelectBuilding),
         ]
     ),
 )

@@ -11,5 +11,9 @@
     
     tile: (
         kind: Ground,
+        build_skill: 0,
+        materials: [
+            ("wood", 2),
+        ],
     ),
 )

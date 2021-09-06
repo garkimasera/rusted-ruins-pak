@@ -14,9 +14,9 @@
     
     wall: (
         hp: 300,
-        build_skill: 1,
+        build_skill: 0,
         materials: [
-            ("wood", 10),
+            ("wood", 5),
         ],
     ),
 )
