@@ -31,6 +31,7 @@
             Art: SlightlyGood,
         },
         equips: [
+            (MeleeWeapon, "kind/whip", 0),
             (RangedWeapon, "group/bow", 0),
             (Head, "group/hat", 0),
             (Skin, "group/shirt", 0),

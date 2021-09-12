@@ -1,0 +1,23 @@
+(
+    object_type: "item",
+    id: "leather-whip",
+    
+    image: (
+        path: "leather-whip.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "weapon",
+        group: "whip",
+        basic_price: 80,
+        w: 1500,
+        quality_kind: Mutable,
+        gen_weight: 3,
+        gen_level: 1,
+        weapon_kind: Whip,
+        attrs: [
+            WeaponPower((7, 2)),
+        ]
+    ),
+)
