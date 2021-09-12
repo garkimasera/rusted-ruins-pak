@@ -3,10 +3,50 @@
         (
             product: "campfire",
             ingredients: [
+                ("wood", 4),
+            ],
+            facility: None,
+            difficulty: 0,
+            required_time: Short,
+            put_on_ground: true,
+        ),
+        (
+            product: "chair-01",
+            ingredients: [
                 ("wood", 5),
             ],
             facility: None,
             difficulty: 0,
+            required_time: Short,
+            put_on_ground: true,
+        ),
+        (
+            product: "chair-02",
+            ingredients: [
+                ("wood", 5),
+            ],
+            facility: None,
+            difficulty: 0,
+            required_time: Short,
+            put_on_ground: true,
+        ),
+        (
+            product: "bench-01",
+            ingredients: [
+                ("wood", 8),
+            ],
+            facility: None,
+            difficulty: 1,
+            required_time: Short,
+            put_on_ground: true,
+        ),
+        (
+            product: "table-01",
+            ingredients: [
+                ("wood", 8),
+            ],
+            facility: None,
+            difficulty: 2,
             required_time: Short,
             put_on_ground: true,
         ),

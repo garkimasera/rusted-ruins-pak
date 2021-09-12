@@ -6,6 +6,5 @@
         Long: 32,
         VeryLong: 50,
     },
-    recipe_learning_item_factor: 8,
-    recipe_learning_item_initial: 5,
+    recipe_learning_level_margin: 5,
 )

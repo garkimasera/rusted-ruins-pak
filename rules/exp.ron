@@ -16,10 +16,11 @@
     base_factor: 1,
     attack: 30,
     conceal: 4,
+    defence: 1000,
     endurance: 1000,
+    endurance_regeneration: 50,
+    endurance_regeneration_probability: 0.2,
     evasion: 200,
-    healing: 50,
-    healing_probability: 0.2,
     mining: 100,
     creation_base_exp: 1000,
 )
