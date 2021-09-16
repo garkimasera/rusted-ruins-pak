@@ -3,7 +3,7 @@
         (
             product: "campfire",
             ingredients: [
-                ("wood", 4),
+                ("wood", 1),
             ],
             facility: None,
             difficulty: 0,

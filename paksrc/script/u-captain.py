@@ -8,7 +8,7 @@ def rr_main():
 
     yield ScriptYield.talk(sid + "-0")
     yield ScriptYield.talk(sid + "-1", ["ans-yes", "ans-no"])
-    if rr.yield_result() == 0:
+    if rr.response() == 0:
         yield ScriptYield.talk(sid + "-2")
     else:
         yield ScriptYield.talk(sid + "-3")

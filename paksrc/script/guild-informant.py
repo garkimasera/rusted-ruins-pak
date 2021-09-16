@@ -14,7 +14,7 @@ def rr_main():
                 "guild_informant-ans-exit",
             ],
         )
-        last_choice = rr.yield_result()
+        last_choice = rr.response()
         if last_choice == 0:
             yield ScriptYield.quest()
         elif last_choice == 1:

@@ -7,7 +7,7 @@ def rr_main():
         yield ScriptYield.talk(
             "shop-start", ["shop-ans-buy", "shop-ans-sell", "shop-ans-exit"]
         )
-        choice = rr.yield_result()
+        choice = rr.response()
         if choice == 0:
             yield ScriptYield.shop_buy()
         elif choice == 1:

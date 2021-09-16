@@ -8,7 +8,7 @@ def rr_main():
 
     if not rr.exist_var("first-quest-received"):
         yield ScriptYield.talk(sid + "_before-first-quest", ["ans-yes", "ans-no"])
-        if rr.yield_result() == 0:
+        if rr.response() == 0:
             yield ScriptYield.talk(sid + "_first-quest-received")
             rr.set_var("first-quest-received", True)
             return

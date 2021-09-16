@@ -1,3 +1,4 @@
 (
     map_switch_recover_minutes: 30,
+    party_size_max: 7,
 )

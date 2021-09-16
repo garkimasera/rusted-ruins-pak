@@ -7,6 +7,6 @@ def rr_main():
     while True:
         yield ScriptYield.talk("hello-start")
         yield ScriptYield.talk("hello-next", ["ans-yes", "ans-no"])
-        if rr.yield_result() == 1:
+        if rr.response() == 1:
             break
     return
