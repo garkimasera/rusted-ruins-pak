@@ -1,0 +1,27 @@
+(
+    object_type: "chara_template",
+    id: "packhorse",
+    
+    image: (
+        path: "packhorse.png",
+        copyright: "T.Okubo",
+    ),
+    
+    chara_template: (
+        race: "animal",
+        class: "animal",
+        faction: "monster",
+        gen_weight: 0,
+        gen_level: 1,
+        default_ai_kind: "melee",
+        skill_bonus: {},
+        base_hp: 150,
+        str: 16,
+        vit: 23,
+        dex: 12,
+        int: 12,
+        wil: 13,
+        cha: 14,
+        spd: 100,
+    ),
+)
