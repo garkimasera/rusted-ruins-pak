@@ -25,5 +25,7 @@
         wil: 9,
         cha: 15,
         spd: 100,
+        carry: 1,
+        cruise_speed: 4,
     ),
 )

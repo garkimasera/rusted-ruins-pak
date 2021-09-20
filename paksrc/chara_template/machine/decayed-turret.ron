@@ -23,6 +23,8 @@
         wil: 5,
         cha: 5,
         spd: 75,
-        equips: [ (RangedWeapon, "blunderbuss", 0) ]
+        carry: 3,
+        cruise_speed: 1,
+        equips: [ (RangedWeapon, "blunderbuss", 0) ],
     ),
 )
