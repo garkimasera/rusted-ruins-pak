@@ -15,3 +15,7 @@ guild_informant-ans-reward = Recieve rewards of completed quests
 guild_informant-ans-add_dungeons = Add new dungeons to my map
 guild_informant-ans-exit = Bye
 
+freedom-caravan-0 = ...
+freedom-caravan-1 = Why don't you buy a horse?
+freedom-caravan-2 = OK, here you are.
+freedom-caravan-3 = Bye
