@@ -1,7 +1,6 @@
 (
     minutes_per_turn_normal: 0.5,
     regionmap_tile_size: 4.0,
-    restart_path: "south-coast/institute-of-life-sciences/0:17,15",
     skill_bonus: {
         Awful: (-1.0, 0),
         VeryBad: (-0.5, 0),

@@ -1,3 +1,4 @@
 (
     restart_path: "south-coast/institute-of-life-sciences/0:17,15",
+    restart_script: "restart",
 )
