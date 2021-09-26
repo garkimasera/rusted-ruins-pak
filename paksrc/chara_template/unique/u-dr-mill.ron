@@ -1,0 +1,30 @@
+(
+    object_type: "chara_template",
+    id: "u-dr-mill",
+    
+    image: (
+        path: "u-dr-mill.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 48,
+    ),
+    
+    chara_template: (
+        race: "human",
+        class: "archaeologist",
+        gen_weight: 0,
+        gen_level: 0,
+        default_ai_kind: "shopkeeper",
+        skill_bonus: {},
+        base_hp: 100,
+        str: 15,
+        vit: 23,
+        dex: 25,
+        int: 27,
+        wil: 18,
+        cha: 24,
+        spd: 100,
+        carry: 2,
+        cruise_speed: 4,
+    ),
+)

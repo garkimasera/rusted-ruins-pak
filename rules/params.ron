@@ -12,5 +12,6 @@
         VeryGood: (0.2, 4),
         Excellent: (0.3, 6),
         Superb: (0.5, 10),
-    }
+    },
+    magic_device_base_power: 1000,
 )
