@@ -11,8 +11,10 @@ scalearmor = scalearmor
 cowboy-hat = cowboy hat
 fedora = fedora
 
-# legs
+# skin
+t-shirt = t-shirt
 
+# legs
 boots = boots
 sandals = sandals
 shoes = shoes
@@ -184,9 +186,12 @@ seed-maker = seed maker
 bokken = bokken
 dagger = dagger
 
+# whip
+leather-whip = leather whip
+
 # bow
 longbow = longbow
 shortbow = shortbow
 
 # firearm
-blunderbuss = ラッパ銃
+blunderbuss = blunderbuss

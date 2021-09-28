@@ -11,8 +11,10 @@ scalearmor = スケイルアーマー
 cowboy-hat = カウボーイハット
 fedora = フェドーラ
 
-# legs
+# skin
+t-shirt = Tシャツ
 
+# legs
 boots = ブーツ
 sandals = サンダル
 shoes = 靴
@@ -183,6 +185,9 @@ seed-maker = 種メーカー
 # sword
 bokken = 木刀
 dagger = ダガー
+
+# whip
+leather-whip = 皮のムチ
 
 # bow
 longbow = ロングボウ
