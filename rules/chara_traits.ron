@@ -1,0 +1,15 @@
+{
+    "strong": (
+        cost: 1,
+        properties: [
+            CharaStr(2),
+            CharaVit(3),
+        ],
+    ),
+    "intelligent": (
+        cost: 1,
+        properties: [
+            CharaInt(5),
+        ],
+    ),
+}
