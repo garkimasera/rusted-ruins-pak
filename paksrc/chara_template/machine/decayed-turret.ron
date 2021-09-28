@@ -24,7 +24,7 @@
         cha: 5,
         spd: 75,
         carry: 3,
-        cruise_speed: 1,
+        travel_speed: 1,
         equips: [ (RangedWeapon, "blunderbuss", 0) ],
     ),
 )

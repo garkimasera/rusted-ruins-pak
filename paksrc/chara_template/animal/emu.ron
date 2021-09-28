@@ -24,6 +24,6 @@
         cha: 18,
         spd: 100,
         carry: 2,
-        cruise_speed: 6,
+        travel_speed: 6,
     ),
 )
