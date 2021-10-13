@@ -1,8 +1,8 @@
 {
     /* default */
     "": (
-        revision: (
-            hp: 0,
+        attr: (
+            base_hp: 0,
             str: 0,
             vit: 0,
             dex: 0,
@@ -16,8 +16,8 @@
     ),
     /* Available for PC */
     "archaeologist": (
-        revision: (
-            hp: 10,
+        attr: (
+            base_hp: 10,
             str: -2,
             vit: 2,
             dex: 4,
@@ -40,8 +40,8 @@
         ]
     ),
     "farmer": (
-        revision: (
-            hp: 0,
+        attr: (
+            base_hp: 0,
             str: 1,
             vit: 2,
             dex: -2,
@@ -62,8 +62,8 @@
         ]
     ),
     "hunter": (
-        revision: (
-            hp: 0,
+        attr: (
+            base_hp: 0,
             str: 2,
             vit: 1,
             dex: 4,
@@ -84,8 +84,8 @@
         ]
     ),
     "merchant": (
-        revision: (
-            hp: 30,
+        attr: (
+            base_hp: 30,
             str: -3,
             vit: 2,
             dex: -1,
@@ -105,8 +105,8 @@
         ]
     ),
     "rogue": (
-        revision: (
-            hp: -10,
+        attr: (
+            base_hp: -10,
             str: -2,
             vit: 0,
             dex: 4,
@@ -120,8 +120,8 @@
         },
     ),
     "warrior": (
-        revision: (
-            hp: 20,
+        attr: (
+            base_hp: 20,
             str: 6,
             vit: 5,
             dex: 0,
@@ -135,8 +135,8 @@
     ),
     /* For NPC */
     "animal": (
-        revision: (
-            hp: 0,
+        attr: (
+            base_hp: 0,
             str: 0,
             vit: 0,
             dex: 0,
@@ -150,8 +150,8 @@
         },
     ),
     "civilian": (
-        revision: (
-            hp: 0,
+        attr: (
+            base_hp: 0,
             str: -4,
             vit: -3,
             dex: 0,
@@ -164,8 +164,8 @@
         },
     ),
     "guard": (
-        revision: (
-            hp: 0,
+        attr: (
+            base_hp: 0,
             str: 0,
             vit: 2,
             dex: 0,
@@ -178,8 +178,8 @@
         },
     ),
     "predator": (
-        revision: (
-            hp: 0,
+        attr: (
+            base_hp: 0,
             str: 0,
             vit: 0,
             dex: 0,

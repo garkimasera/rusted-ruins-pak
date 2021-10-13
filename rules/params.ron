@@ -3,7 +3,8 @@
     regionmap_tile_size: 4.0,
     skill_bonus: {
         Awful: (-1.0, 0),
-        VeryBad: (-0.5, 0),
+        VeryBad: (-0.6, 0),
+        Bad: (-0.4, 0),
         SlightlyBad: (-0.2, 0),
         None: (0.0, 0),
         SlightlyGood: (0.05, 1),
