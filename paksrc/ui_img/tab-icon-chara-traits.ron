@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!tab-icon-chara-traits",
+    
+    image: (
+        path: "tab-icon-chara-traits.png",
+        copyright: "T.Okubo",
+        w: 48,
+        h: 32,
+    ),
+)
