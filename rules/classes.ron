@@ -104,7 +104,7 @@
             (Legs, "group/shoes", 0),
         ]
     ),
-    "rogue": (
+    "thief": (
         attr: (
             base_hp: -10,
             str: -2,

@@ -1,22 +1,28 @@
 (
     class_choices: [
         "archaeologist",
-        "rogue",
+        "thief",
         "warrior",
     ],
+    trait_choices: [
+        "strong",
+        "intelligent",
+        "monk",
+        "beautiful",
+    ],
+    trait_initial_point: 2,
     start_region: "south-coast",
     start_pos: (43, 48),
     start_money: 1000,
     chara_template_table: {
         "archaeologist": "archaeologist-m",
-        "rogue": "rogue-m",
+        "thief": "thief-m",
         "warrior": "warrior-m",
     },
     common_initial_skills: [
         Throwing,
     ],
     common_initial_active_skills: [
-        "fire-ball",
     ],
     common_initial_items: [
         ("hard-biscuit", 8),

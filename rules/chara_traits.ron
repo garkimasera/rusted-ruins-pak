@@ -1,9 +1,8 @@
 {
-    "strong": (
+    "beautiful": (
         cost: 1,
         properties: [
-            CharaStr(2),
-            CharaVit(3),
+            CharaCha(5),
         ],
     ),
     "intelligent": (
@@ -18,10 +17,11 @@
             CharaWil(5),
         ],
     ),
-    "pretty": (
+    "strong": (
         cost: 1,
         properties: [
-            CharaCha(5),
+            CharaStr(2),
+            CharaVit(3),
         ],
     ),
 }

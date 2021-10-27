@@ -1,9 +1,9 @@
 (
     object_type: "chara_template",
-    id: "rogue-m",
+    id: "thief-m",
     
     image: (
-        path: "rogue-m.png",
+        path: "thief-m.png",
         copyright: "T.Okubo",
         w: 24,
         h: 48,
