@@ -2,26 +2,26 @@
     "beautiful": (
         cost: 1,
         properties: [
-            CharaCha(5),
+            Cha(5),
         ],
     ),
     "intelligent": (
         cost: 1,
         properties: [
-            CharaInt(5),
+            Int(5),
         ],
     ),
     "monk": (
         cost: 1,
         properties: [
-            CharaWil(5),
+            Wil(5),
         ],
     ),
     "strong": (
         cost: 1,
         properties: [
-            CharaStr(2),
-            CharaVit(3),
+            Str(2),
+            Vit(3),
         ],
     ),
 }
