@@ -1,6 +1,8 @@
 {
+    // Positive traits
     "beautiful": (
         cost: 1,
+        conflicts: ["ugly"],
         properties: [
             Cha(5),
         ],
@@ -19,9 +21,26 @@
     ),
     "strong": (
         cost: 1,
+        conflicts: ["weak"],
         properties: [
             Str(2),
             Vit(3),
+        ],
+    ),
+    // Negative traits
+    "ugly": (
+        cost: -1,
+        conflicts: ["beautiful"],
+        properties: [
+            Cha(-5),
+        ],
+    ),
+    "weak": (
+        cost: -1,
+        conflicts: ["strong"],
+        properties: [
+            Str(-3),
+            Vit(-3),
         ],
     ),
 }

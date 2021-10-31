@@ -9,6 +9,8 @@
         "intelligent",
         "monk",
         "beautiful",
+        "weak",
+        "ugly",
     ],
     trait_initial_point: 2,
     start_region: "south-coast",
