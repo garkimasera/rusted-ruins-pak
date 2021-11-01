@@ -3,26 +3,26 @@
     "beautiful": (
         cost: 1,
         conflicts: ["ugly"],
-        properties: [
+        modifiers: [
             Cha(5),
         ],
     ),
     "intelligent": (
         cost: 1,
-        properties: [
+        modifiers: [
             Int(5),
         ],
     ),
     "monk": (
         cost: 1,
-        properties: [
+        modifiers: [
             Wil(5),
         ],
     ),
     "strong": (
         cost: 1,
         conflicts: ["weak"],
-        properties: [
+        modifiers: [
             Str(2),
             Vit(3),
         ],
@@ -31,14 +31,14 @@
     "ugly": (
         cost: -1,
         conflicts: ["beautiful"],
-        properties: [
+        modifiers: [
             Cha(-5),
         ],
     ),
     "weak": (
         cost: -1,
         conflicts: ["strong"],
-        properties: [
+        modifiers: [
             Str(-3),
             Vit(-3),
         ],
