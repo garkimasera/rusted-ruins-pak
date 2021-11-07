@@ -6,6 +6,7 @@ emu = emu
 fox = fox
 llama = llama
 mouse = mouse
+packhorse = packhorse
 raven = raven
 stray-dog = stray dog
 

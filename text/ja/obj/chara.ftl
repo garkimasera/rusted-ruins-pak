@@ -6,6 +6,7 @@ emu = エミュー
 fox = キツネ
 llama = ラマ
 mouse = ネズミ
+packhorse = 駄馬
 raven = カラス
 stray-dog = 野犬
 
