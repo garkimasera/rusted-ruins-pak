@@ -14,7 +14,7 @@
         w: 2000,
         quality_kind: Mutable,
         gen_weight: 2,
-        gen_level: 1,
+        gen_level: 0,
         weapon_kind: Firearm,
         attrs: [
             WeaponPower((8, 4)),

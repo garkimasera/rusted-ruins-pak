@@ -14,7 +14,7 @@
         w: 7000,
         quality_kind: Mutable,
         gen_weight: 7,
-        gen_level: 1,
+        gen_level: 0,
         weapon_kind: Sword,
         material_group: "metal",
         attrs: [

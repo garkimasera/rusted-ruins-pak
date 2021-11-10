@@ -13,7 +13,7 @@
         basic_price: 2000,
         w: 3500,
         gen_weight: 0,
-        gen_level: 1,
+        gen_level: 0,
         attrs: [
             Container (
                 selector: "rot-pile",

@@ -14,7 +14,7 @@
         w: 10000,
         quality_kind: Mutable,
         gen_weight: 2,
-        gen_level: 10,
+        gen_level: 8,
         armor_kind: Body,
         material_group: "metal",
         attrs: [

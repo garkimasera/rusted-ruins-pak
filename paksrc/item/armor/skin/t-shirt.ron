@@ -14,7 +14,7 @@
         w: 300,
         quality_kind: Mutable,
         gen_weight: 4,
-        gen_level: 1,
+        gen_level: 0,
         armor_kind: Skin,
         material_group: "cloth",
         attrs: [

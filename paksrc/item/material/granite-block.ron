@@ -13,7 +13,7 @@
         basic_price: 100,
         w: 5000,
         gen_weight: 1,
-        gen_level: 1,
+        gen_level: 0,
         material: "granite",
     ),
 )

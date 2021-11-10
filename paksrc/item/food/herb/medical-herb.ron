@@ -14,7 +14,7 @@
         w: 15,
         quality_kind: Mutable,
         gen_weight: 10,
-        gen_level: 1,
+        gen_level: 0,
         attrs: [
             Medical(
                 power: (20, 0),

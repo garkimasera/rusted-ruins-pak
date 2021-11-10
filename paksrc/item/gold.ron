@@ -13,6 +13,6 @@
         basic_price: 1,
         w: 0,
         gen_weight: 10,
-        gen_level: 1,
+        gen_level: 0,
     ),
 )
