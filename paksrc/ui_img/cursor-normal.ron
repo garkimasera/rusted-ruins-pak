@@ -1,0 +1,13 @@
+(
+    object_type: "ui_img",
+    id: "!cursor-normal",
+    
+    image: (
+        path: "cursor-normal.png",
+        copyright: "T.Okubo",
+    ),
+    
+    ui_img: (
+        hot: (0, 0),
+    )
+)
