@@ -24,7 +24,7 @@
     common_initial_skills: [
         Throwing,
     ],
-    common_initial_active_skills: [
+    common_initial_abilities: [
     ],
     common_initial_items: [
         ("hard-biscuit", 8),

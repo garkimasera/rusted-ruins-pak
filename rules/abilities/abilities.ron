@@ -1,5 +1,5 @@
 {
-    "fire-ball": ActiveSkill(
+    "fire-ball": Ability(
         group: Magic,
         icon: "",
         power_calc: Magic,

@@ -9,7 +9,7 @@
         walk_prob: 0.3,
         combat_prob: {
             ApproachEnemy: 0.8,
-            ActiveSkill: 0.3,
+            Ability: 0.3,
         }
     ),
     "fixed": (
@@ -19,7 +19,7 @@
         combat_prob: {
             ApproachEnemy: 0,
             RangedWeapon: 1.0,
-            ActiveSkill: 0.3,
+            Ability: 0.3,
         }
     ),
     "wander": (
@@ -28,7 +28,7 @@
         walk_prob: 0.4,
         combat_prob: {
             ApproachEnemy: 0.5,
-            ActiveSkill: 0.3,
+            Ability: 0.3,
         }
     ),
     "shopkeeper": (
@@ -37,7 +37,7 @@
         walk_prob: 0.1,
         combat_prob: {
             ApproachEnemy: 0.2,
-            ActiveSkill: 0.3,
+            Ability: 0.3,
         }
     ),
 }

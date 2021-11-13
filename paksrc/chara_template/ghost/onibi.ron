@@ -18,7 +18,7 @@
         default_ai_kind: "melee",
         skill_bonus: {},
         base_hp: 30,
-        active_skills: ["fire-ball"],
+        abilities: ["fire-ball"],
         str: 14,
         vit: 12,
         dex: 10,
