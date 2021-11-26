@@ -15,7 +15,7 @@
         faction: "civilian",
         gen_weight: 0,
         gen_level: 0,
-        default_ai_kind: "wander",
+        default_ai_kind: "shopkeeper",
         skill_bonus: { },
         base_hp: 100,
         str: 17,

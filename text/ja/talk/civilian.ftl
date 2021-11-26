@@ -1,6 +1,10 @@
 hello-start = Rusted Ruinsへようこそ!
 hello-next = これは会話テストです。続行しますか?
 
+freedom-town-drunkard-01 =
+  いやー、今日は街の近くの道ばたでいいもの拾えたもんだ。
+  これで酒が飲めるってもんよ。
+
 scena-civilian-random-01-01 = 
   この荒れた土地をここまで耕したのは大変だった。しかし、
   ここなら自分らの作物を自分らで食べられる。

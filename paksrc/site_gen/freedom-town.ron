@@ -66,6 +66,13 @@
                 chara_template_id: "shopkeeper-m-01",
                 talk_script_id: "freedom-caravan",
             ),
+            (
+                id: Site(100),
+                pos: (38, 11),
+                floor: 0,
+                chara_template_id: "drunkard-01",
+                talk_script_id: "freedom-town-drunkard",
+            ),
         ],
         shops: [
             (
@@ -79,6 +86,26 @@
             (
                 chara_id: 6,
                 selector: "skill-cartridge",
+            ),
+        ],
+        quests: [
+            ItemDelivering(
+                text_id: "construction-material-needed",
+                deadline: 5,
+                reward: (
+                    money: 800,
+                ),
+                item: "wood",
+                n: 5,
+            ),
+            ItemDelivering(
+                text_id: "weapon-material-needed",
+                deadline: 5,
+                reward: (
+                    money: 1000,
+                ),
+                item: "iron-plate",
+                n: 5,
             ),
         ],
     ),

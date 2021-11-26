@@ -8,20 +8,17 @@ def rr_main():
         yield ScriptYield.talk(
             "guild_informant-start",
             [
-                "guild_informant-ans-quest",
-                "guild_informant-ans-reward",
+                "guild_informant-ans-quest_offer",
+                "guild_informant-ans-quest_report",
                 "guild_informant-ans-add_dungeons",
                 "guild_informant-ans-exit",
             ],
         )
         last_choice = rr.response()
         if last_choice == 0:
-            yield ScriptYield.quest()
+            yield ScriptYield.quest_offer()
         elif last_choice == 1:
-            if rr.receive_quest_rewards():
-                yield ScriptYield.talk("guild_informant-reward_recieved")
-            else:
-                yield ScriptYield.talk("guild_informant-reward_not_recieved")
+            yield ScriptYield.quest_report()
         elif last_choice == 2:
             var_name = "last-dungeon-location-update-time"
             update_time_exist = rr.exist_gvar(var_name)
