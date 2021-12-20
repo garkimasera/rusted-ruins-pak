@@ -26,7 +26,7 @@
             ),
             Harvest((
                 kind: Plant,
-                item: [("turnip", 1, 2)],
+                items: [("turnip", 1, 2)],
                 difficulty: 0,
             ))
         ]

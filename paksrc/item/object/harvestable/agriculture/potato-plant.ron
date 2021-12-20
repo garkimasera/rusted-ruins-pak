@@ -27,7 +27,7 @@
             ),
             Harvest((
                 kind: Plant,
-                item: [("potato", 5, 10)],
+                items: [("potato", 5, 10)],
                 difficulty: 0,
             )),
         ]

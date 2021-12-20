@@ -18,7 +18,7 @@
             Plant(),
             Harvest((
                 kind: Chop,
-                item: [("wood", 40, 80)],
+                items: [("wood", 40, 80)],
                 difficulty: 0,
             )),
         ]

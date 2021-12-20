@@ -17,7 +17,7 @@
         attrs: [
             Harvest((
                 kind: Deconstruct,
-                item: [("steel-plate", 2, 4)],
+                items: [("steel-plate", 2, 4)],
                 difficulty: 5,
             )),
         ],
