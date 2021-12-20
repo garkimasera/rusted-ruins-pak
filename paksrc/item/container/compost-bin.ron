@@ -18,13 +18,11 @@
             Container (
                 selector: "rot-pile",
                 capacity: 20_000,
-                functions: [
-                    ConvertMixed(
-                        duration: "2d",
-                        product: "fertilizer",
-                        ingredients: [("rot-pile", 5)],
-                    ),
-                ],
+                function: ConvertMixed(
+                    duration: "2d",
+                    product: "fertilizer",
+                    ingredients: [("rot-pile", 5)],
+                ),
             )
         ]
     ),

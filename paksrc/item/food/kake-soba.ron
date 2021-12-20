@@ -1,0 +1,23 @@
+(
+    object_type: "item",
+    id: "kake-soba",
+    
+    image: (
+        copyright: "T.Okubo",
+        path: "kake-soba.png",
+    ),
+    
+    item: (
+        item_kind: "food",
+        group: "dish",
+        gen_weight: 0,
+        shop_weight: 0,
+        gen_level: 0,
+        basic_price: 500,
+        w: 500,
+        attrs: [
+            Nutrition(100),
+            Rot("4h"),
+        ],
+    ),
+)

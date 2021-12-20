@@ -41,6 +41,7 @@ fried-egg = fried egg
 grape = grape
 hard-biscuit = hard biscuit
 honey = honey
+kake-soba = kake soba
 milk = milk
 mochi = mochi
 onion = onion
@@ -146,6 +147,7 @@ recipe-book-cooking = recipe book of cooking
 recipe-book-craft = recipe book of craft
 recipe-book-pharmacy = recipe book of pharmacy
 recipe-book-smith = recipe book of smith
+torn-memo = torn memo
 travel-guide = travel guide
 
 #
@@ -175,6 +177,7 @@ pickaxe = pickaxe
 # Container
 #
 compost-bin = compost bin
+delivery-chest = delivery chest
 ice-box = ice box
 seed-maker = seed maker
 

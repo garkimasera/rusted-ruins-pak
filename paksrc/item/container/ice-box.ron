@@ -18,7 +18,7 @@
             Container (
                 selector: "kind/food",
                 capacity: 15_000,
-                functions: [ PreventRot ],
+                prevent_rot: true,
             )
         ]
     ),

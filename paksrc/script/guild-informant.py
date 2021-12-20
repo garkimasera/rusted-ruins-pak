@@ -2,7 +2,6 @@
 
 import rr
 
-
 def rr_main():
     while True:
         yield ScriptYield.talk(

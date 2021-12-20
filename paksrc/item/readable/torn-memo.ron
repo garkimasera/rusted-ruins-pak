@@ -1,0 +1,23 @@
+(
+    object_type: "item",
+    id: "torn-memo",
+    
+    image: (
+        path: "torn-memo.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "food",
+        group: "memo",
+        basic_price: 1,
+        w: 10,
+        gen_weight: 10,
+        gen_level: 0,
+        attrs: [
+            Titles(
+                ["torn-memo-01"],
+            )
+        ],
+    ),
+)

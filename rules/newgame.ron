@@ -30,8 +30,8 @@
         ("hard-biscuit", 8),
         ("canned-ration", 3),
     ],
-    initial_date_year: 100,
-    initial_date_month: 1,
-    initial_date_day: 1,
+    initial_date_year: 21,
+    initial_date_month: 12,
+    initial_date_day: 20,
     initial_date_hour: 1,
 )

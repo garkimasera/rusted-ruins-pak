@@ -41,6 +41,7 @@ fried-egg = 目玉焼き
 grape = ブドウ
 hard-biscuit = ビスケット
 honey = ハチミツ
+kake-soba = かけそば
 milk = ミルク
 mochi = 餅
 onion = タマネギ
@@ -146,6 +147,7 @@ recipe-book-cooking = 料理のレシピ本
 recipe-book-craft = 工作のレシピ本
 recipe-book-pharmacy = 薬品のレシピ本
 recipe-book-smith = 鍛冶のレシピ本
+torn-memo = 破れたメモ
 travel-guide = 旅行ガイド
 
 #
@@ -175,6 +177,7 @@ pickaxe = ピッケル
 # Container
 #
 compost-bin = 堆肥入れ
+delivery-chest = 納品箱
 ice-box = アイスボックス
 seed-maker = 種メーカー
 

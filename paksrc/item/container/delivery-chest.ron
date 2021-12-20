@@ -1,26 +1,24 @@
 (
     object_type: "item",
-    id: "seed-maker",
+    id: "delivery-chest",
     
     image: (
-        path: "seed-maker.png",
+        path: "delivery-chest.png",
         copyright: "T.Okubo",
     ),
     
     item: (
         item_kind: "container",
         group: "agriculture",
-        basic_price: 200000,
-        w: 26_000,
+        basic_price: 1000,
+        w: 100000,
         gen_weight: 0,
         gen_level: 0,
         attrs: [
             Container (
                 selector: "*",
-                capacity: 10_000,
-                function: Converter(
-                    kind: "seed-maker",
-                ),
+                capacity: 10000000,
+                function: DeliveryChest,
             )
         ]
     ),

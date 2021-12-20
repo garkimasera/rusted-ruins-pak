@@ -95,8 +95,7 @@
                 reward: (
                     money: 800,
                 ),
-                item: "wood",
-                n: 5,
+                items: [("wood", 5)],
             ),
             ItemDelivering(
                 text_id: "weapon-material-needed",
@@ -104,9 +103,9 @@
                 reward: (
                     money: 1000,
                 ),
-                item: "iron-plate",
-                n: 5,
+                items: [("iron-plate", 5)],
             ),
         ],
+        delivery_chest: (0, (19, 12), "delivery-chest")
     ),
 )

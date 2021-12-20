@@ -10,8 +10,8 @@ guild_informant-after_add_dungeons = ダンジョンの位置をあんたの地�
 guild_informant-reward_recieved = よくやった。これが報酬だ。
 guild_informant-reward_not_recieved = なんのクエストも達成していないぞ。
 guild_informant-add_dungeons_fail = まだ新しいダンジョンは見つかっていないな。しばらく待つんだな。
-guild_informant-ans-quest = クエストを受ける
-guild_informant-ans-reward = 報酬をもらう
+guild_informant-ans-quest_offer = クエストを受ける
+guild_informant-ans-quest_report = クエストを報告する
 guild_informant-ans-add_dungeons = 新しいダンジョンを探す
 guild_informant-ans-exit = さよなら
 
