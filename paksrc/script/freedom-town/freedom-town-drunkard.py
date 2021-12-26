@@ -1,7 +1,4 @@
 # rusted-ruins-script
 
-import rr
+game.talk("freedom-town-drunkard-01")
 
-def rr_main():
-    yield ScriptYield.talk("freedom-town-drunkard-01")
-    return

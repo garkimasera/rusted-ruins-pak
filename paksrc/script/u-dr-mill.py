@@ -1,16 +1,13 @@
 # rusted-ruins-script
 
-import rr
+sid = game.self_id()
 
-def rr_main():
-    sid = rr.self_id()
-
-    if rr.number_of_dead_party_members() > 0:
-        yield ScriptYield.talk(sid + "-00", ["ans-yes", "ans-no"])
-        if rr.response() == 0:
-            rr.resurrect_party_members()
-            yield ScriptYield.talk(sid + "-01")
-        else:
-            yield ScriptYield.talk(sid + "-02")
+if game.number_of_dead_party_members() > 0:
+    response = game.talk(sid + "-00", ["ans-yes", "ans-no"])
+    if response == 0:
+        game.resurrect_party_members()
+        game.talk(sid + "-01")
     else:
-        yield ScriptYield.talk(sid + "-03")
+        game.talk(sid + "-02")
+else:
+    game.talk(sid + "-03")

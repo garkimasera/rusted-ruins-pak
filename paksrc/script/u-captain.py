@@ -1,14 +1,10 @@
 # rusted-ruins-script
 
-import rr
+sid = game.self_id()
 
-
-def rr_main():
-    sid = rr.self_id()
-
-    yield ScriptYield.talk(sid + "-0")
-    yield ScriptYield.talk(sid + "-1", ["ans-yes", "ans-no"])
-    if rr.response() == 0:
-        yield ScriptYield.talk(sid + "-2")
-    else:
-        yield ScriptYield.talk(sid + "-3")
+game.talk(sid + "-0")
+response = game.talk(sid + "-1", ["ans-yes", "ans-no"])
+if response == 0:
+    game.talk(sid + "-2")
+else:
+    game.talk(sid + "-3")
