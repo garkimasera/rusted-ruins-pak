@@ -64,7 +64,7 @@
                 pos: (3, 3),
                 floor: 0,
                 chara_template_id: "shopkeeper-m-01",
-                talk_script_id: "freedom-caravan",
+                talk_script_id: "freedom-town-caravan",
             ),
             (
                 id: Site(100),
@@ -90,7 +90,7 @@
         ],
         quests: [
             ItemDelivering(
-                text_id: "construction-material-needed",
+                text_id: "construction-material-procurement",
                 deadline: 5,
                 reward: (
                     money: 800,
@@ -98,7 +98,7 @@
                 items: [("wood", 5)],
             ),
             ItemDelivering(
-                text_id: "weapon-material-needed",
+                text_id: "weapon-material-procurement",
                 deadline: 5,
                 reward: (
                     money: 1000,
