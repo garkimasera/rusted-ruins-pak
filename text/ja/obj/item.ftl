@@ -192,6 +192,9 @@ dagger = ダガー
 # whip
 leather-whip = 皮のムチ
 
+# throwing
+gokoseki = 五光石
+
 # bow
 longbow = ロングボウ
 shortbow = ショートボウ

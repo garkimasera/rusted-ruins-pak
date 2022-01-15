@@ -1,0 +1,10 @@
+(
+    object_type: "anim_img",
+    id: "thrown-stone-01",
+    
+    image: (
+        path: "thrown-stone-01.png",
+        copyright: "T.Okubo",
+        n_anim_frame: 1,
+    ),
+)

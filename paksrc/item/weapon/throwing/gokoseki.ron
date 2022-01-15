@@ -1,0 +1,24 @@
+(
+    object_type: "item",
+    id: "gokoseki",
+    
+    image: (
+        path: "gokoseki.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "weapon",
+        group: "throwing",
+        basic_price: 2500,
+        w: 500,
+        quality_kind: Mutable,
+        gen_weight: 0,
+        gen_level: 5,
+        weapon_kind: Throwing,
+        attrs: [
+            WeaponPower((6, 4)),
+            AnimImgShot("thrown-stone-01"),
+        ]
+    ),
+)

@@ -192,6 +192,9 @@ dagger = dagger
 # whip
 leather-whip = leather whip
 
+# throwing
+gokoseki = gokoseki
+
 # bow
 longbow = longbow
 shortbow = shortbow
