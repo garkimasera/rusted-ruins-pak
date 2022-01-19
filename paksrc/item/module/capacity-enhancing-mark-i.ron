@@ -1,0 +1,30 @@
+(
+    object_type: "item",
+    id: "capacity-enhancing-mark-i",
+    
+    image: (
+        path: "capacity-enhancing-mark-i.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "module",
+        group: "assist",
+        basic_price: 10000,
+        w: 50,
+        gen_weight: 1,
+        gen_level: 0,
+        attrs: [
+            Module (
+                effects: [
+                    (Extend(Chara(Str(2))), 1.0),
+                    (Extend(Chara(Vit(2))), 1.0),
+                    (Extend(Chara(Dex(2))), 1.0),
+                    (Extend(Chara(Int(2))), 1.0),
+                    (Extend(Chara(Wil(2))), 1.0),
+                    (Extend(Chara(Cha(2))), 1.0),
+                ]
+            )
+        ]
+    ),
+)
