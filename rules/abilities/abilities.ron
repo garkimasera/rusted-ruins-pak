@@ -6,7 +6,7 @@
         power: 10,
         hit_power: inf,
         effect: Effect(
-            kind: [Explosion( element: Fire )],
+            kind: [Explosion( element: Heat )],
             target_mode: Enemy,
             range: 6,
             shape: Circle,

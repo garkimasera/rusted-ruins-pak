@@ -1,0 +1,9 @@
+(
+    object_type: "ui_img",
+    id: "!icon-defence-poison",
+    
+    image: (
+        path: "icon-defence-poison.png",
+        copyright: "T.Okubo",
+    ),
+)

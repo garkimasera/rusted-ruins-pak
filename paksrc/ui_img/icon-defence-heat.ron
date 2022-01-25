@@ -1,0 +1,9 @@
+(
+    object_type: "ui_img",
+    id: "!icon-defence-heat",
+    
+    image: (
+        path: "icon-defence-heat.png",
+        copyright: "T.Okubo",
+    ),
+)
