@@ -18,7 +18,10 @@
         weapon_kind: Sword,
         material_group: "wood",
         attrs: [
-            WeaponPower((4, 1)),
+            Weapon(
+                base_power: (4, 1),
+                hit: 90
+            ),
         ]
     ),
 )

@@ -17,10 +17,11 @@
         gen_level: 0,
         attrs: [
             Medical(
-                power: (10, 0),
                 effect: (
                     kind: [Status(status:Poison)],
                     target_mode: Enemy,
+                    base_power: (10, 1),
+                    hit: 80,
                     range: 0,
                     shape: OneTile,
                     size: 0,

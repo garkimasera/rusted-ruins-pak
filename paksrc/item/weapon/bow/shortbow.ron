@@ -18,7 +18,10 @@
         weapon_kind: Bow,
         material_group: "wood",
         attrs: [
-            WeaponPower((4, 2)),
+            Weapon(
+                base_power: (4, 2),
+                hit: 75,
+            ),
         ]
     ),
 )

@@ -20,6 +20,8 @@
                 effect: (
                     kind: [Status(status:Poison)],
                     target_mode: Enemy,
+                    base_power: (30, 0),
+                    hit: 100,
                     range: 0,
                     shape: OneTile,
                     size: 0,

@@ -1,10 +1,6 @@
 (
-    skill_base: 8,
     throw_range_factor: 250,
     throw_range_max: 5,
-    bare_hand_power_base: 2.0,
-    bare_hand_power_factor: 0.25,
-    bare_hand_power_var: 0.25,
     detection_range: 8,
     detection_factor: 1.2,
 )

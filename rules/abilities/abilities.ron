@@ -2,12 +2,11 @@
     "fire-ball": Ability(
         group: Magic,
         icon: "",
-        power_calc: Magic,
-        power: 10,
-        hit_power: inf,
+        power_calc: Magic(Heat),
         effect: Effect(
             kind: [Explosion( element: Heat )],
             target_mode: Enemy,
+            base_power: (10, 2),
             range: 6,
             shape: Circle,
             size: 1,

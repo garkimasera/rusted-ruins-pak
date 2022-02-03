@@ -17,10 +17,10 @@
         gen_level: 0,
         attrs: [
             Medical(
-                power: (20, 0),
                 effect: (
                     kind: [RecoverHp],
                     target_mode: Ally,
+                    base_power: (20, 2),
                     range: 0,
                     shape: OneTile,
                     size: 0,

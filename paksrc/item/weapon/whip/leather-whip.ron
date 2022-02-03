@@ -17,7 +17,10 @@
         gen_level: 0,
         weapon_kind: Whip,
         attrs: [
-            WeaponPower((7, 2)),
+            Weapon(
+                base_power: (7, 2),
+                hit: 80,
+            ),
         ]
     ),
 )

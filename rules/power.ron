@@ -1,0 +1,10 @@
+(
+    skill_base: 8,
+    throw_weight_factor: 0.2,
+    throw_hit_str_factor: 0.25,
+    bare_hand_power_base: 2.0,
+    bare_hand_power_factor: 0.25,
+    bare_hand_power_var: 0.25,
+    bare_hand_hit: 100,
+    medical_power_base: 30,
+)

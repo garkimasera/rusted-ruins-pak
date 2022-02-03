@@ -17,10 +17,11 @@
         attrs: [
             Charge(min: 15, max: 20),
             Release(
-                power: (100, 0),
                 effect: (
                     kind: [Status(status: Scanned)],
                     target_mode: Enemy,
+                    base_power: (100, 0),
+                    hit: 200,
                     range: 4,
                     shape: OneTile,
                     size: 0,

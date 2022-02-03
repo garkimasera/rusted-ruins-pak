@@ -16,12 +16,12 @@
         gen_level: 7,
         attrs: [
             Throw (
-                power: (100, 2),
                 effect: (
                     kind: [
                         Explosion(element:Physical),
                     ],
                     target_mode: Enemy,
+                    base_power: (100, 2),
                     range: 0,
                     shape: Circle,
                     size: 1,

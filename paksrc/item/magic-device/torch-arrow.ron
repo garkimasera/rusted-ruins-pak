@@ -18,10 +18,11 @@
         attrs: [
             Charge(min: 8, max: 16),
             Release(
-                power: (50, 10),
                 effect: (
                     kind: [Ranged(element:Physical)],
                     target_mode: Enemy,
+                    base_power: (50, 10),
+                    hit: 120,
                     range: 7,
                     shape: OneTile,
                     size: 0,
