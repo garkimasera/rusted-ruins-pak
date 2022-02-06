@@ -1,0 +1,9 @@
+(
+    object_type: "ui_img",
+    id: "!popup-miss",
+    
+    image: (
+        path: "popup-miss.png",
+        copyright: "T.Okubo",
+    ),
+)
