@@ -2,9 +2,13 @@
     skill_base: 8,
     throw_weight_factor: 0.2,
     throw_hit_str_factor: 0.25,
+    base_evasion_power: 60,
     bare_hand_power_base: 2.0,
     bare_hand_power_factor: 0.25,
     bare_hand_power_var: 0.25,
     bare_hand_hit: 100,
+    hit_calc_factor0: 10,
+    hit_calc_factor1: 0.05,
+    hit_calc_factor2: 0.15,
     medical_power_base: 30,
 )
