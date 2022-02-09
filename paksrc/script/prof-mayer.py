@@ -4,19 +4,19 @@ sid = game.self_id()
 
 has_box = game.number_of_item("ancient-box") > 0
 
-if not game.exist_var("first-quest-received"):
+if game.vars["first-quest-received"] is None:
     response = game.talk(sid + "_before-first-quest", ["ans-yes", "ans-no"])
     if response == 0:
         game.talk(sid + "_first-quest-received")
-        game.set_var("first-quest-received", True)
+        game.vars["first-quest-received"] = True
     else:
         game.talk(sid + "_first-quest-rejected")
 
-elif not game.exist_var("first-quest-cleared"):
+elif game.vars["first-quest-cleared"] is None:
     if has_box:
         game.talk(sid + "_first-quest-received-with-box")
-        game.set_var("first-quest-cleared", True)
-        game.set_var("given-box", 1)
+        game.vars["first-quest-cleared"] = True
+        game.vars["given-box"] = 1
         game.remove_item("ancient-box", 1)
         game.receive_money(1000)
         game.receive_item("deed-of-land", 1)
@@ -26,8 +26,8 @@ elif not game.exist_var("first-quest-cleared"):
         game.talk(sid + "_first-quest-received-without-box")
 
 elif has_box:
-    given_box = game.get_var("given-box") + 1
-    game.set_var("given-box", given_box)
+    game.vars["given-box"] += 1
+    given_box = game.vars["given-box"]
     game.remove_item("ancient-box", 1)
 
     if given_box == 2:
