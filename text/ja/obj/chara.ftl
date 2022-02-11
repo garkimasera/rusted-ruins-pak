@@ -33,6 +33,9 @@ onibi = 鬼火
 # Human
 poacher = 密猟者
 
+# Machine
+decayed-turret = 朽ちたタレット
+
 # Slime
 green-slime = グリーンスライム
 jelly = ゼリー

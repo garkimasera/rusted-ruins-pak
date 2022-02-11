@@ -25,6 +25,9 @@
         spd: 75,
         carry: 3,
         travel_speed: 1,
-        equips: [ (RangedWeapon, "blunderbuss", 0) ],
+        equips: [
+            (RangedWeapon, "blunderbuss", 0),
+            (ArmorPlate, "basic-armor-plate", 0),
+        ],
     ),
 )

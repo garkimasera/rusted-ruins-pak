@@ -46,7 +46,7 @@
         ),
     ),
     "machine": (
-        equip_slots: [],
+        equip_slots: [ArmorPlate],
         element_protection: (
             10,
             10,

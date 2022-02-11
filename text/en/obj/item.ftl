@@ -10,6 +10,7 @@ scalearmor = scalearmor
 # head
 cowboy-hat = cowboy hat
 fedora = fedora
+hachimaki = hachimaki
 
 # skin
 t-shirt = t-shirt
@@ -18,6 +19,9 @@ t-shirt = t-shirt
 boots = boots
 sandals = sandals
 shoes = shoes
+
+# armor plate
+basic-armor-plate = basic armor plate
 
 #
 # Food

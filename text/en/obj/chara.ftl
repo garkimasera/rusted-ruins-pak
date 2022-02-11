@@ -33,6 +33,9 @@ onibi = onibi
 # Human
 poacher = poacher
 
+# Machine
+decayed-turret = decayed turret
+
 # Slime
 green-slime = green slime
 jelly = jelly

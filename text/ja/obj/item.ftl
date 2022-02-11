@@ -10,6 +10,7 @@ scalearmor = スケイルアーマー
 # head
 cowboy-hat = カウボーイハット
 fedora = フェドーラ
+hachimaki = はちまき
 
 # skin
 t-shirt = Tシャツ
@@ -18,6 +19,9 @@ t-shirt = Tシャツ
 boots = ブーツ
 sandals = サンダル
 shoes = 靴
+
+# armor plate
+basic-armor-plate = 基本装甲板
 
 #
 # Food

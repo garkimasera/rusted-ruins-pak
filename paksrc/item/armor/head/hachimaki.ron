@@ -1,0 +1,25 @@
+(
+    object_type: "item",
+    id: "hachimaki",
+
+    image: (
+        path: "hachimaki.png",
+        copyright: "T.Okubo",
+    ),
+
+    item: (
+        item_kind: "armor",
+        group: "hat",
+        basic_price: 500,
+        w: 50,
+        quality_kind: Mutable,
+        gen_weight: 1,
+        gen_level: 4,
+        armor_kind: Head,
+        material_group: "cloth",
+        attrs: [
+            Defence((3, 4, 4, 1, 2, 9)),
+            CharaModifier(Wil(2)),
+        ],
+    ),
+)

@@ -1,0 +1,11 @@
+(
+    object_type: "ui_img",
+    id: "!icon-armor_plate",
+    
+    image: (
+        path: "icon-armor_plate.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 24,
+    ),
+)

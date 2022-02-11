@@ -1,0 +1,24 @@
+(
+    object_type: "item",
+    id: "basic-armor-plate",
+
+    image: (
+        path: "basic-armor-plate.png",
+        copyright: "T.Okubo",
+    ),
+
+    item: (
+        item_kind: "armor",
+        group: "armor_plate",
+        basic_price: 1000,
+        w: 10000,
+        quality_kind: Mutable,
+        gen_weight: 1,
+        gen_level: 8,
+        armor_kind: ArmorPlate,
+        material_group: "metal",
+        attrs: [
+            Defence((18, 14, 14, 0, 0, 0)),
+        ]
+    ),
+)
