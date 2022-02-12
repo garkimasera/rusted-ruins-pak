@@ -26,8 +26,8 @@
         carry: 3,
         travel_speed: 1,
         equips: [
-            (RangedWeapon, "blunderbuss", 0),
-            (ArmorPlate, "basic-armor-plate", 0),
+            (esk: RangedWeapon, item_selector: "blunderbuss"),
+            (esk: ArmorPlate, item_selector: "basic-armor-plate", quality_bonus: -1),
         ],
     ),
 )

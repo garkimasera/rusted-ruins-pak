@@ -31,12 +31,12 @@
             Art: SlightlyGood,
         },
         equips: [
-            (MeleeWeapon, "kind/whip", 0),
-            (RangedWeapon, "group/bow", 0),
-            (Head, "group/hat", 0),
-            (Skin, "group/shirt", 0),
-            (Body, "breastplate", 0),
-            (Legs, "group/boots", 0),
+            (esk: MeleeWeapon, item_selector: "kind/whip"),
+            (esk: RangedWeapon, item_selector: "group/bow"),
+            (esk: Head, item_selector: "group/hat"),
+            (esk: Skin, item_selector: "group/shirt"),
+            (esk: Body, item_selector: "breastplate"),
+            (esk: Legs, item_selector: "group/boots"),
         ]
     ),
     "farmer": (
@@ -54,11 +54,11 @@
             Plants: Excellent,
         },
         equips: [
-            (RangedWeapon, "group/bow", 0),
-            (Head, "group/hat", 0),
-            (Skin, "group/shirt", 0),
-            (Body, "breastplate", 0),
-            (Legs, "group/boots", 0),
+            (esk: RangedWeapon, item_selector: "group/bow"),
+            (esk: Head, item_selector: "group/hat"),
+            (esk: Skin, item_selector: "group/shirt"),
+            (esk: Body, item_selector: "breastplate"),
+            (esk: Legs, item_selector: "group/boots"),
         ]
     ),
     "hunter": (
@@ -76,11 +76,11 @@
             Bow: Good,
         },
         equips: [
-            (RangedWeapon, "group/bow", 0),
-            (Head, "group/hat", 0),
-            (Skin, "group/shirt", 0),
-            (Body, "breastplate", 0),
-            (Legs, "group/boots", 0),
+            (esk: RangedWeapon, item_selector: "group/bow"),
+            (esk: Head, item_selector: "group/hat"),
+            (esk: Skin, item_selector: "group/shirt"),
+            (esk: Body, item_selector: "breastplate"),
+            (esk: Legs, item_selector: "group/boots"),
         ]
     ),
     "merchant": (
@@ -98,10 +98,10 @@
             Throwing: Good,
         },
         equips: [
-            (Head, "group/hat", 0),
-            (Skin, "group/shirt", 0),
-            (Body, "breastplate", 0),
-            (Legs, "group/shoes", 0),
+            (esk: Head, item_selector: "group/hat"),
+            (esk: Skin, item_selector: "group/shirt"),
+            (esk: Body, item_selector: "breastplate"),
+            (esk: Legs, item_selector: "group/shoes"),
         ]
     ),
     "thief": (
@@ -119,11 +119,11 @@
             Throwing: Good,
         },
         equips: [
-            (MeleeWeapon, "dagger", 0),
-            (Head, "group/hat", 0),
-            (Skin, "group/shirt", 0),
-            (Body, "breastplate", 0),
-            (Legs, "group/boots", 0),
+            (esk: MeleeWeapon, item_selector: "dagger"),
+            (esk: Head, item_selector: "group/hat"),
+            (esk: Skin, item_selector: "group/shirt"),
+            (esk: Body, item_selector: "breastplate"),
+            (esk: Legs, item_selector: "group/boots"),
         ]
     ),
     "warrior": (
@@ -144,11 +144,11 @@
             Spear: Good,
         },
         equips: [
-            (MeleeWeapon, "kind/sword", 0),
-            (Head, "group/hat", 0),
-            (Skin, "group/shirt", 0),
-            (Body, "breastplate", 0),
-            (Legs, "group/boots", 0),
+            (esk: MeleeWeapon, item_selector: "kind/sword"),
+            (esk: Head, item_selector: "group/hat"),
+            (esk: Skin, item_selector: "group/shirt"),
+            (esk: Body, item_selector: "breastplate"),
+            (esk: Legs, item_selector: "group/boots"),
         ]
     ),
     /* For NPC */
