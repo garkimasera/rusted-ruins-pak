@@ -90,6 +90,9 @@ wood = 木材
 # Object
 #
 
+# !special
+silver = シルバー
+
 # art
 small-sculpture = 小さな彫刻
 

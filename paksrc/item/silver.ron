@@ -1,15 +1,15 @@
 (
     object_type: "item",
-    id: "!gold",
+    id: "!silver",
     
     image: (
-        path: "gold.png",
+        path: "silver.png",
         copyright: "T.Okubo",
     ),
     
     item: (
         item_kind: "object",
-        group: "~gold",
+        group: "~silver",
         basic_price: 1,
         w: 0,
         gen_weight: 10,

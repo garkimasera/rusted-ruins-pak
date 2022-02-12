@@ -90,6 +90,9 @@ wood = wood
 # Object
 #
 
+# !special
+silver = silver
+
 # art
 small-sculpture = small sculpture
 
