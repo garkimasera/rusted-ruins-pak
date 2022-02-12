@@ -25,11 +25,11 @@
                 growing_duration: "10d",
                 required_fertility: 70,
             ),
-            Harvest((
+            Harvest(
                 kind: Plant,
                 items: [("carrot", 5, 10)],
                 difficulty: 0,
-            )),
+            ),
         ]
     ),
 )

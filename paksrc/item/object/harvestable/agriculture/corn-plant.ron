@@ -25,11 +25,11 @@
                 growing_duration: "18d",
                 required_fertility: 100,
             ),
-            Harvest((
+            Harvest(
                 kind: Plant,
                 items: [("corn", 12, 20)],
                 difficulty: 5,
-            )),
+            ),
         ]
     ),
 )

@@ -25,11 +25,11 @@
                 growing_duration: "7d",
                 required_fertility: 80,
             ),
-            Harvest((
+            Harvest(
                 kind: Plant,
                 items: [("potato", 5, 10)],
                 difficulty: 0,
-            )),
+            ),
         ]
     ),
 )

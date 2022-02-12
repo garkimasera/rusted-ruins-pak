@@ -16,11 +16,11 @@
         gen_level: 0,
         attrs: [
             Plant(),
-            Harvest((
+            Harvest(
                 kind: Chop,
                 items: [("wood", 40, 80)],
                 difficulty: 0,
-            )),
+            ),
         ]
     ),
 )

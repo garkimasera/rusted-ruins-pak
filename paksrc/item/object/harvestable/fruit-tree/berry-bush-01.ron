@@ -24,11 +24,11 @@
             Plant(
                 growing_duration: "3d",
             ),
-            Harvest((
+            Harvest(
                 kind: Plant,
                 items: [("wild-berry", 2, 5)],
                 difficulty: 0,
-            )),
+            ),
         ]
     ),
 )

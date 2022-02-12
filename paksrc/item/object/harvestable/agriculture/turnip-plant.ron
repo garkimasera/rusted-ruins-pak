@@ -24,11 +24,11 @@
             Plant(
                 growing_duration: "5d",
             ),
-            Harvest((
+            Harvest(
                 kind: Plant,
                 items: [("turnip", 1, 2)],
                 difficulty: 0,
-            ))
+            ),
         ]
     ),
 )
