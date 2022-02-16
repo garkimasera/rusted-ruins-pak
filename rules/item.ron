@@ -3,4 +3,34 @@
     rotten_item: "rot-pile",
     rotten_item_gen_per_gram: 100,
     build_obj_default: Wall("wooden-wall-01"),
+    ability_slot_required_quality: {
+        MeleeWeapon: 0,
+        RangedWeapon: 0,
+        Arms: 0,
+    },
+    core_slot_required_quality: {
+        MeleeWeapon: 3,
+        RangedWeapon: 3,
+        Arms: 3,
+    },
+    extend_slot_required_quality: {
+        MeleeWeapon: [0, 5, 12],
+        RangedWeapon: [0, 5, 12],
+        Shield: [1, 7, 15],
+        Head: [1, 7],
+        Body: [1, 7],
+        Arms: [0, 5, 12],
+        Legs: [1, 7],
+        ArmorPlate: [1, 7, 15],
+    },
+    slot_install_cost_base: {
+        Ability: 2000,
+        Core: 5000,
+        Extend: 1000,
+    },
+    slot_install_cost_factor: {
+        Ability: 0.8,
+        Core: 1.5,
+        Extend: 0.5,
+    },
 )

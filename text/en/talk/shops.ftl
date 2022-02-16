@@ -4,6 +4,10 @@ shop-ans-buy = Buy
 shop-ans-sell = Sell
 shop-ans-exit = Exit
 
+smith-start = What do you want?
+smith-ans-ability-slot = Install ability slot
+smith-ans-extend-slot = Install extend slot
+
 guild_informant-start = I'm a member of this guild.
     My role is to teach information in this region.
 guild_informant-after_add_dungeons = I added dungeons to your map

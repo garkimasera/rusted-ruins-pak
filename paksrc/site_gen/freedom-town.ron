@@ -33,17 +33,17 @@
             ),
             (
                 id: Site(3),
-                pos: (30, 18),
+                pos: (12, 11),
                 floor: 0,
                 chara_template_id: "shopkeeper-m-01",
                 talk_script_id: "shop",
             ),
             (
                 id: Site(4),
-                pos: (12, 11),
+                pos: (30, 18),
                 floor: 0,
-                chara_template_id: "shopkeeper-m-01",
-                talk_script_id: "shop",
+                chara_template_id: "smith-m-01",
+                talk_script_id: "smith",
             ),
             (
                 id: Unique("prof-mayer"),

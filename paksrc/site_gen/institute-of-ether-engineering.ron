@@ -1,0 +1,22 @@
+(
+    object_type: "site_gen",
+    id: "institute-of-ether-engineering",
+    
+    site_gen: (
+        kind: Other,
+        site_symbol: "rm-institute",
+        map_template_id: [
+            "institute-of-ether-engineering",
+        ],
+        default_faction_id: "scientists",
+        npcs: [
+            (
+                id: Unique("dr-mill"),
+                pos: (17, 14),
+                floor: 0,
+                chara_template_id: "u-dr-mill",
+                talk_script_id: "u-dr-mill",
+            ),
+        ],
+    ),
+)
