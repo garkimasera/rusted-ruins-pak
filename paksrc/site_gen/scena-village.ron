@@ -25,11 +25,10 @@
                 talk_script_id: "scena-civilian-random-01",
             ),
         ],
-        shops: [
-            (
-                chara_id: 0,
-                selector: "group/seed,fertilizer",
+        shops: {
+            Site(0): (
+                item_selector: "group/seed,fertilizer",
             ),
-        ],
+        },
     ),
 )

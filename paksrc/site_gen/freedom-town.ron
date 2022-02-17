@@ -74,20 +74,17 @@
                 talk_script_id: "freedom-town-drunkard",
             ),
         ],
-        shops: [
-            (
-                chara_id: 3,
-                selector: "kind/food"
+        shops: {
+            Site(3): (
+                item_selector: "kind/food"
             ),
-            (
-                chara_id: 4,
+            Site(4): (
                 shop_kind: "equipment",
             ),
-            (
-                chara_id: 6,
-                selector: "skill-cartridge",
+            Site(6): (
+                item_selector: "skill-cartridge",
             ),
-        ],
+        },
         quests: [
             ItemDelivering(
                 text_id: "construction-material-procurement",
