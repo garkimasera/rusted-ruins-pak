@@ -1,0 +1,21 @@
+(
+    object_type: "item",
+    id: "module-inserter",
+    
+    image: (
+        path: "module-inserter.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "usable",
+        basic_price: 200000,
+        w: 24000,
+        gen_weight: 0,
+        gen_level: 0,
+        attrs: [
+            Use(InsertModule)
+        ],
+    ),
+)

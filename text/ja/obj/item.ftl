@@ -138,6 +138,9 @@ date-palm = ヤシ
 live-oak = オーク
 saguaro = ベンケイチュウ
 
+# usable
+module-inserter = モジュール取付機
+
 #
 # Potion
 #

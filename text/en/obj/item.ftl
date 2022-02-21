@@ -138,6 +138,9 @@ date-palm = date palm
 live-oak = live oak
 saguaro = saguaro
 
+# usable
+module-inserter = module inserter
+
 #
 # Potion
 #
