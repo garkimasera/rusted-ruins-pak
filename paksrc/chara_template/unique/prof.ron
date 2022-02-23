@@ -17,6 +17,7 @@
         default_ai_kind: "shopkeeper",
         skill_bonus: {},
         base_hp: 100,
+        base_mp: 100,
         str: 14,
         vit: 20,
         dex: 20,

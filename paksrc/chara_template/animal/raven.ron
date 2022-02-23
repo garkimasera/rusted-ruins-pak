@@ -18,6 +18,7 @@
         default_ai_kind: "melee",
         skill_bonus: {},
         base_hp: 45,
+        base_mp: 50,
         str: 17,
         vit: 13,
         dex: 18,

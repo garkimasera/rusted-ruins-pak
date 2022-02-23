@@ -20,6 +20,7 @@
             Endurance: Bad,
         },
         base_hp: 20,
+        base_mp: 100,
         str: 14,
         vit: 14,
         dex: 13,

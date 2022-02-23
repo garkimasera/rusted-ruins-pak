@@ -15,6 +15,7 @@
         gen_level: 0,
         skill_bonus: {},
         base_hp: 100,
+        base_mp: 100,
         str: 42,
         vit: 42,
         dex: 42,

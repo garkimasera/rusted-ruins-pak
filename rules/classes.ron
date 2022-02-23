@@ -3,6 +3,7 @@
     "": (
         attr: (
             base_hp: 0,
+            base_mp: 0,
             str: 0,
             vit: 0,
             dex: 0,
@@ -18,6 +19,7 @@
     "archaeologist": (
         attr: (
             base_hp: 10,
+            base_mp: 0,
             str: -2,
             vit: 2,
             dex: 4,
@@ -42,6 +44,7 @@
     "farmer": (
         attr: (
             base_hp: 0,
+            base_mp: -10,
             str: 1,
             vit: 2,
             dex: -2,
@@ -64,6 +67,7 @@
     "hunter": (
         attr: (
             base_hp: 0,
+            base_mp: -10,
             str: 2,
             vit: 1,
             dex: 4,
@@ -86,6 +90,7 @@
     "merchant": (
         attr: (
             base_hp: 30,
+            base_mp: -20,
             str: -3,
             vit: 2,
             dex: -1,
@@ -107,6 +112,7 @@
     "thief": (
         attr: (
             base_hp: -10,
+            base_mp: 0,
             str: -2,
             vit: 0,
             dex: 4,
@@ -129,6 +135,7 @@
     "warrior": (
         attr: (
             base_hp: 20,
+            base_mp: -10,
             str: 6,
             vit: 5,
             dex: 0,
@@ -155,6 +162,7 @@
     "animal": (
         attr: (
             base_hp: 0,
+            base_mp: 0,
             str: 0,
             vit: 0,
             dex: 0,
@@ -170,6 +178,7 @@
     "civilian": (
         attr: (
             base_hp: 0,
+            base_mp: 0,
             str: -4,
             vit: -3,
             dex: 0,
@@ -184,6 +193,7 @@
     "guard": (
         attr: (
             base_hp: 0,
+            base_mp: 0,
             str: 0,
             vit: 2,
             dex: 0,
@@ -198,6 +208,7 @@
     "predator": (
         attr: (
             base_hp: 0,
+            base_mp: 0,
             str: 0,
             vit: 0,
             dex: 0,

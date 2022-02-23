@@ -18,6 +18,7 @@
         default_ai_kind: "wander",
         skill_bonus: { Plants: VeryGood },
         base_hp: 100,
+        base_mp: 100,
         str: 18,
         vit: 17,
         dex: 12,

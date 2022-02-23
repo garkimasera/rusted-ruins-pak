@@ -16,6 +16,7 @@
         default_ai_kind: "fixed",
         skill_bonus: {},
         base_hp: 110,
+        base_mp: 0,
         str: 10,
         vit: 17,
         dex: 11,
