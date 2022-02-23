@@ -87,6 +87,13 @@ steel-plate = 鋼板
 wood = 木材
 
 #
+# Module
+#
+
+# extend
+capacity-enhancing-mark-i = 能力向上マークI
+
+#
 # Object
 #
 

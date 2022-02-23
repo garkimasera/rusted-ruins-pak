@@ -87,6 +87,13 @@ steel-plate = steel plate
 wood = wood
 
 #
+# Module
+#
+
+# extend
+capacity-enhancing-mark-i = capacity enhancing mark i
+
+#
 # Object
 #
 

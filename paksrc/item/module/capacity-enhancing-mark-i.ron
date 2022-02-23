@@ -9,7 +9,7 @@
     
     item: (
         item_kind: "module",
-        group: "assist",
+        group: "extend",
         basic_price: 10000,
         w: 50,
         gen_weight: 1,
