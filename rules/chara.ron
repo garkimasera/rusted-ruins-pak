@@ -1,6 +1,8 @@
 (
     default_view_range: 5,
     min_spd: 10,
+    max_hp_skill_factor: 8,
+    max_mp_skill_factor: 8,
     hp_regeneration_probability: 0.3,
     hp_regeneration_factor: 1.5,
     sp_default: 100,
