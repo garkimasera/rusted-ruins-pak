@@ -1,8 +1,10 @@
 {
     "fire-ball": Ability(
-        group: Magic,
+        category: "ether",
+        group: "heat",
         icon: "",
         power_calc: Magic(Heat),
+        cost_mp: 50,
         effect: Effect(
             kind: [Explosion( element: Heat )],
             target_mode: Enemy,
