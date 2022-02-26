@@ -1,11 +1,28 @@
 {
-    "fire-ball": Ability(
+    "fire-arrow": (
         category: "ether",
         group: "heat",
+        require: [Skill(Heat, 0)],
         icon: "",
         power_calc: Magic(Heat),
-        cost_mp: 50,
-        effect: Effect(
+        cost_mp: 5,
+        effect: (
+            kind: [Ranged( element: Heat )],
+            target_mode: Enemy,
+            base_power: (8, 2),
+            range: 6,
+            shape: OneTile,
+            size: 1,
+        )
+    ),
+    "fire-ball": (
+        category: "ether",
+        group: "heat",
+        require: [Skill(Heat, 5)],
+        icon: "",
+        power_calc: Magic(Heat),
+        cost_mp: 5,
+        effect: (
             kind: [Explosion( element: Heat )],
             target_mode: Enemy,
             base_power: (10, 2),
@@ -16,5 +33,5 @@
             anim_img: "explosion-01",
             sound: "explosion-01",
         )
-    )
+    ),
 }
