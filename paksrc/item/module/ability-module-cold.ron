@@ -1,0 +1,25 @@
+(
+    object_type: "item",
+    id: "ability-module-cold",
+    
+    image: (
+        path: "ability-module-cold.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "module",
+        group: "extend",
+        basic_price: 15000,
+        w: 70,
+        gen_weight: 1,
+        gen_level: 0,
+        attrs: [
+            Module (
+                effects: [
+                    (Ability ( group: "cold" ), 1.0),
+                ]
+            )
+        ]
+    ),
+)

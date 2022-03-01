@@ -90,6 +90,11 @@ wood = 木材
 # Module
 #
 
+# ability
+ability-module-heat = アビリティモジュール 【熱】
+ability-module-cold = アビリティモジュール 【冷気】
+ability-module-shock = アビリティモジュール 【電撃】
+
 # extend
 capacity-enhancing-mark-i = 能力向上マークI
 

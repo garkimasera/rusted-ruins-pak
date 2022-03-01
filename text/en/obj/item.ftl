@@ -90,6 +90,11 @@ wood = wood
 # Module
 #
 
+# ability
+ability-module-heat = ability module heat
+ability-module-cold = ability module cold
+ability-module-shock = ability module shock
+
 # extend
 capacity-enhancing-mark-i = capacity enhancing mark i
 
