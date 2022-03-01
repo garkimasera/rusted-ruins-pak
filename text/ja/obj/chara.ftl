@@ -22,6 +22,7 @@ guild-informant = ギルドの情報屋
 peasant = 農民
 rich-old-man = 金持ちの老人
 shopkeeper = 店主
+smith = 鍛冶屋
 town-boy = 街の子供
 town-girl = 街の子供
 
@@ -41,3 +42,9 @@ green-slime = グリーンスライム
 jelly = ゼリー
 magma-slime = マグマスライム
 tickle-slime = くすぐりスライム
+
+# Unique
+u-prof-mayer = メイヤー教授
+u-dr-mill = ドクターミル
+u-dr-zorben = ドクターゾルベン
+u-lucetta = ルセッタ

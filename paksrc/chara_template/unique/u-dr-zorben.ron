@@ -1,0 +1,29 @@
+(
+    object_type: "chara_template",
+    id: "u-dr-zorben",
+    
+    image: (
+        path: "u-dr-zorben.png",
+        copyright: "T.Okubo",
+    ),
+    
+    chara_template: (
+        race: "human",
+        class: "archaeologist",
+        gen_weight: 0,
+        gen_level: 0,
+        default_ai_kind: "shopkeeper",
+        skill_bonus: {},
+        base_hp: 100,
+        base_mp: 100,
+        str: 18,
+        vit: 25,
+        dex: 26,
+        int: 27,
+        wil: 20,
+        cha: 18,
+        spd: 100,
+        carry: 2,
+        travel_speed: 4,
+    ),
+)

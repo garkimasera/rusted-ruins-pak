@@ -10,6 +10,7 @@
             kind: [Ranged( element: Heat )],
             target_mode: Enemy,
             base_power: (8, 2),
+            hit: 90,
             range: 6,
             shape: OneTile,
             size: 1,
@@ -32,6 +33,40 @@
             anim_kind: Tile,
             anim_img: "explosion-01",
             sound: "explosion-01",
+        )
+    ),
+    "ice-arrow": (
+        category: "ether",
+        group: "cold",
+        require: [Skill(Cold, 1)],
+        icon: "",
+        power_calc: Magic(Cold),
+        cost_mp: 5,
+        effect: (
+            kind: [Ranged( element: Cold )],
+            target_mode: Enemy,
+            base_power: (8, 2),
+            hit: 90,
+            range: 6,
+            shape: OneTile,
+            size: 1,
+        )
+    ),
+    "shock-arrow": (
+        category: "ether",
+        group: "shock",
+        require: [Skill(Shock, 1)],
+        icon: "",
+        power_calc: Magic(Shock),
+        cost_mp: 5,
+        effect: (
+            kind: [Ranged( element: Shock )],
+            target_mode: Enemy,
+            base_power: (8, 2),
+            hit: 90,
+            range: 6,
+            shape: OneTile,
+            size: 1,
         )
     ),
 }

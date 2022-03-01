@@ -11,11 +11,11 @@
         default_faction_id: "scientists",
         npcs: [
             (
-                id: Unique("dr-mill"),
-                pos: (17, 14),
+                id: Unique("u-dr-zorben"),
+                pos: (8, 14),
                 floor: 0,
-                chara_template_id: "u-dr-mill",
-                talk_script_id: "u-dr-mill",
+                chara_template_id: "u-dr-zorben",
+                talk_script_id: "u-dr-zorben",
             ),
         ],
     ),

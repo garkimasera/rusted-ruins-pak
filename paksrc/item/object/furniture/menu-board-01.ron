@@ -1,0 +1,18 @@
+(
+    object_type: "item",
+    id: "menu-board-01",
+    
+    image: (
+        path: "menu-board-01.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "furniture",
+        basic_price: 500,
+        w: 1000,
+        gen_weight: 0,
+        gen_level: 0,
+    ),
+)

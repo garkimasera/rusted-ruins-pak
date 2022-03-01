@@ -49,7 +49,7 @@
                 id: Unique("prof-mayer"),
                 pos: (36, 3),
                 floor: 0,
-                chara_template_id: "prof",
+                chara_template_id: "u-prof-mayer",
                 talk_script_id: "prof-mayer",
             ),
             (

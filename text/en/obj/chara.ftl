@@ -22,6 +22,7 @@ guild-informant = guild informant
 peasant = peasant
 rich-old-man = rich old man
 shopkeeper = shopkeeper
+smith = smith
 town-boy = town boy
 town-girl = town girl
 
@@ -41,3 +42,9 @@ green-slime = green slime
 jelly = jelly
 magma-slime = magma slime
 tickle-slime = tickle-slime
+
+# Unique
+u-prof-mayer = prof. mayer
+u-dr-mill = dr. mill
+u-dr-zorben = dr. zorben
+u-lucetta = lucetta
