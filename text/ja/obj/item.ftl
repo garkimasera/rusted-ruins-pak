@@ -126,6 +126,7 @@ dresser = たんす
 drying-clothes = 干された洗濯物
 gas-cylinders = ガスボンベ
 juke-box = ジュークボックス
+luxury-urn = 高級な壷
 measurement-device = 測定機器
 oscilloscope = オシロスコープ
 plant-pot = 植木鉢

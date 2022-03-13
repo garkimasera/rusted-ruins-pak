@@ -1,0 +1,17 @@
+(
+    object_type: "item",
+    id: "luxury-urn-01",
+    
+    image: (
+        path: "luxury-urn-01.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "object",
+        group: "furniture",
+        basic_price: 198000,
+        w: 4000,
+        gen_weight: 0,
+    ),
+)

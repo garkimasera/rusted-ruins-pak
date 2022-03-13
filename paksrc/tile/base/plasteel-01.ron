@@ -1,0 +1,13 @@
+(
+    object_type: "tile",
+    id: "plasteel-01",
+
+    image: (
+        path: "plasteel-01.png",
+        copyright: "T.Okubo",
+    ),
+
+    tile: (
+        kind: Ground,
+    ),
+)

@@ -126,6 +126,7 @@ dresser = dresser
 drying-clothes = drying clothes
 gas-cylinders = gas cylinders
 juke-box = juke box
+luxury-urn = luxury urn
 measurement-device = measurement device
 oscilloscope = oscilloscope
 plant-pot = plant pot
