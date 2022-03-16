@@ -1,0 +1,9 @@
+(
+    object_type: "ui_img",
+    id: "!icon-close",
+    
+    image: (
+        path: "icon-close.png",
+        copyright: "T.Okubo",
+    ),
+)
