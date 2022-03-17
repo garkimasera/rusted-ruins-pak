@@ -1,9 +1,9 @@
 (
     object_type: "item",
-    id: "lumberjack-axe",
+    id: "woodcutters-axe",
     
     image: (
-        path: "lumberjack-axe.png",
+        path: "woodcutters-axe.png",
         copyright: "T.Okubo",
     ),
     

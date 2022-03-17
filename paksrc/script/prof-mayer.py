@@ -21,7 +21,7 @@ elif game.vars["first-quest-cleared"] is None:
         game.receive_money(1000)
         game.receive_item("deed-of-land", 1)
         game.receive_item("building-hammer", 1)
-        game.receive_item("lumberjack-axe", 1)
+        game.receive_item("woodcutters-axe", 1)
     else:
         game.talk(sid + "_first-quest-received-without-box")
 

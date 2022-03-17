@@ -193,8 +193,8 @@ hand-grenade = hand grenade
 # Tool
 #
 building-hammer = building hammer
-lumberjack-axe = lumberjack axe
 pickaxe = pickaxe
+woodcutters-axe = woodcutter's axe
 
 #
 # Container

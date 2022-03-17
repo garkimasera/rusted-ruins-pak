@@ -193,8 +193,8 @@ hand-grenade = 手榴弾
 # Tool
 #
 building-hammer = 大工のハンマー
-lumberjack-axe = 木こりの斧
 pickaxe = ピッケル
+woodcutters-axe = 木こりの斧
 
 #
 # Container
