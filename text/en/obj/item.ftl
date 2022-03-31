@@ -135,6 +135,10 @@ resurrect-reactor = resurrect reactor
 table = table
 
 # harvestable/argiculture
+carrot-plant = carrot
+carrot-seed = carrot seed
+corn-plant = corn
+corn-seed = corn seed
 potato-plant = potato
 potato-seed = seed potato
 turnip-plant = turnip
@@ -211,6 +215,10 @@ seed-maker = seed maker
 # sword
 bokken = bokken
 dagger = dagger
+
+# blunt
+club = club
+steel-pipe = steel pipe
 
 # whip
 leather-whip = leather whip

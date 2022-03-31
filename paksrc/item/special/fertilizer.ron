@@ -12,7 +12,7 @@
         group: "fertilizer",
         basic_price: 500,
         w: 10000,
-        gen_weight: 0.1,
+        gen_weight: 1,
         gen_level: 0,
         attrs: [
             Use(Effect((

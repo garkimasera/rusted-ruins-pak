@@ -134,7 +134,11 @@ research-table = 研究机
 resurrect-reactor = 再生リアクター
 table = テーブル
 
-# harvestable/argiculture
+# harvestable/argiculture]
+carrot-plant = ニンジン
+carrot-seed = ニンジンの種
+corn-plant = トウモロコシ
+corn-seed = トウモロコシの種
 potato-plant = じゃがいも
 potato-seed = じゃがいもの種芋
 turnip-plant = カブ
@@ -211,6 +215,10 @@ seed-maker = 種メーカー
 # sword
 bokken = 木刀
 dagger = ダガー
+
+# blunt
+club = 棍棒
+steel-pipe = 鉄パイプ
 
 # whip
 leather-whip = 皮のムチ

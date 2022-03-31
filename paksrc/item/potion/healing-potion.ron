@@ -17,7 +17,7 @@
         attrs: [
             Medical(
                 effect: (
-                    kind: [RecoverHp],
+                    kind: [RestoreHp],
                     target_mode: Ally,
                     base_power: (30, 2),
                     range: 0,
