@@ -42,8 +42,6 @@ tricorder =
 #
 # Material
 #
-bronze-plate =
-    防具や装飾品の材料に使用される。加工は比較的容易だが、鉄より脆い。
 copper-ore =
     精錬すると銅を生産できる。重要な金属材料として各地で取引されている。
 copper-plate =

@@ -9,7 +9,7 @@
     
     item: (
         item_kind: "material",
-        group: "stone-material",
+        group: "stone",
         basic_price: 100,
         w: 5000,
         gen_weight: 1,

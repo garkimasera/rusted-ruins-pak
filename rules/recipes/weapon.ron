@@ -3,7 +3,7 @@
         (
             product: "bokken",
             ingredients: [
-                ("wood", 1),
+                ("group/lightweight", 1),
             ],
             facility: None,
             difficulty: 0,

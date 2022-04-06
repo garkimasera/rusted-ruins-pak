@@ -75,7 +75,6 @@ tricorder = tricorder
 # Material
 #
 
-bronze-plate = bronze plate
 copper-ore = copper ore
 copper-plate = copper plate
 granite-block = granite block

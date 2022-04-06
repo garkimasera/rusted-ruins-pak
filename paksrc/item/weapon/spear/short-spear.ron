@@ -1,0 +1,27 @@
+(
+    object_type: "item",
+    id: "short-spear",
+    
+    image: (
+        path: "short-spear.png",
+        copyright: "T.Okubo",
+    ),
+    
+    item: (
+        item_kind: "weapon",
+        group: "spear",
+        basic_price: 2000,
+        w: 7000,
+        quality_kind: Mutable,
+        gen_weight: 3,
+        gen_level: 8,
+        weapon_kind: Spear,
+        material_group: "metal",
+        attrs: [
+            Weapon(
+                base_power: (30, 6),
+                hit: 80,
+            ),
+        ]
+    ),
+)

@@ -20,7 +20,7 @@
         quality_kind: Mutable,
         gen_weight: 0,
         gen_level: 0,
-        material_group: "stone-material",
+        material_group: "stone",
         material: "",
     ),
 )

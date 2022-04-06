@@ -1,9 +1,14 @@
 #
 # Group
 #
-material-group-metal = 金属
-material-group-wood = 木
-material_group-stone-material = 石材
+material_group-lightweight = 軽量素材
+material_group-metal = 金属
+material_group-stone = 石材
+
+#
+# Lightweight
+#
+material-wood = 木
 
 #
 # Metal
@@ -11,11 +16,6 @@ material_group-stone-material = 石材
 material-copper = 銅
 material-iron = 鉄
 material-steel = 鋼
-
-#
-# Wood
-#
-material-wood = 木
 
 #
 # Stone

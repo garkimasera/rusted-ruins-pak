@@ -7,14 +7,6 @@
         eff: 0.4,
         price: 0.6,
     ),
-    "bronze": (
-        group: "metal",
-        gen_weight: 0.2,
-        level: 0,
-        w: 1.2,
-        eff: 0.6,
-        price: 0.6,
-    ),
     "iron": (
         group: "metal",
         gen_weight: 1,
@@ -32,7 +24,7 @@
         price: 2.5,
     ),
     "wood": (
-        group: "wood",
+        group: "lightweight",
         gen_weight: 1,
         level: 0,
         w: 1,
@@ -40,7 +32,7 @@
         price: 1,
     ),
     "granite": (
-        group: "stone-material",
+        group: "stone",
         gen_weight: 1,
         level: 0,
         w: 1,

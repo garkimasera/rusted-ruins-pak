@@ -3,7 +3,7 @@
         (
             product: "small-sculpture",
             ingredients: [
-                ("group/stone-material", 4),
+                ("group/stone", 4),
             ],
             difficulty: 0,
             required_time: Long,

@@ -75,7 +75,6 @@ tricorder = トライコーダー
 # Material
 #
 
-bronze-plate = 青銅の板
 copper-ore = 銅鉱石
 copper-plate = 銅板
 granite-block = 花崗岩のブロック

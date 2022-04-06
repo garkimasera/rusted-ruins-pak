@@ -10,15 +10,6 @@
             required_time: Medium,
         ),
         (
-            product: "bronze-plate",
-            ingredients: [
-                ("copper-ore", 2),
-            ],
-            facility: Some("furnance"),
-            difficulty: 0,
-            required_time: Medium,
-        ),
-        (
             product: "iron-plate",
             ingredients: [
                 ("iron-ore", 1),

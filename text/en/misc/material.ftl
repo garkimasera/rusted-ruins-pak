@@ -1,9 +1,14 @@
 #
 # Group
 #
+material_group-lightweight = lightweight material
 material_group-metal = metal
-material_group-wood = wood
-material_group-stone-material = stone
+material_group-stone = stone
+
+#
+# Lightweight
+#
+material-wood = wood
 
 #
 # Metal
@@ -11,11 +16,6 @@ material_group-stone-material = stone
 material-copper = copper
 material-iron = iron
 material-steel = steel
-
-#
-# Wood
-#
-material-wood = wood
 
 #
 # Stone
