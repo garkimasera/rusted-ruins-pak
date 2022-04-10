@@ -8,7 +8,7 @@
     ),
     
     chara_template: (
-        race: "machine",
+        race: "turret",
         class: "guard",
         faction: "monster",
         gen_weight: 100,
