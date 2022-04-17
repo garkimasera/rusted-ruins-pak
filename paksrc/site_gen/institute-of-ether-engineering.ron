@@ -15,7 +15,7 @@
                 pos: (8, 14),
                 floor: 0,
                 chara_template_id: "u-dr-zorben",
-                talk_script_id: "u-dr-zorben",
+                talk_script: "u-dr-zorben",
             ),
         ],
     ),

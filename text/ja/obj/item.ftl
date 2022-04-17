@@ -220,7 +220,7 @@ club = 棍棒
 steel-pipe = 鉄パイプ
 
 # whip
-leather-whip = 皮のムチ
+leather-whip = 革のムチ
 
 # throwing
 gokoseki = 五光石

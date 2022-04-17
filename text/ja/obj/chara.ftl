@@ -21,6 +21,7 @@ drunkard = 飲んだくれ
 guild-informant = ギルドの情報屋
 peasant = 農民
 rich-old-man = 金持ちの老人
+rescuer = 回収屋
 shopkeeper = 店主
 smith = 鍛冶屋
 town-boy = 街の子供

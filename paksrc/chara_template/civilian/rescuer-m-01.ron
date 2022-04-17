@@ -1,0 +1,31 @@
+(
+    object_type: "chara_template",
+    id: "rescuer-m-01",
+    
+    image: (
+        path: "rescuer-m-01.png",
+        copyright: "T.Okubo",
+        w: 24,
+        h: 48,
+    ),
+    
+    chara_template: (
+        race: "human",
+        class: "hunter",
+        faction: "civilian",
+        gen_weight: 0,
+        gen_level: 1,
+        skill_bonus: {},
+        base_hp: 100,
+        base_mp: 100,
+        str: 22,
+        vit: 22,
+        dex: 17,
+        int: 14,
+        wil: 15,
+        cha: 13,
+        spd: 100,
+        carry: 2,
+        travel_speed: 4,
+    ),
+)

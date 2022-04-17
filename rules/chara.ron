@@ -26,4 +26,9 @@
     speed_coeff_stressed: 0.6,
     speed_coeff_strained: 0.3,
     speed_coeff_overloaded: 0.1,
+    damage_factor_burdened: 0.0,
+    damage_factor_stressed: 0.0,
+    damage_factor_strained: 0.3,
+    damage_factor_overloaded: 0.6,
+    damage_factor_poisoned: 0.5,
 )

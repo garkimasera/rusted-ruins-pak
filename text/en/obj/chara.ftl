@@ -21,6 +21,7 @@ drunkard = drunkard
 guild-informant = guild informant
 peasant = peasant
 rich-old-man = rich old man
+rescuer = rescuer
 shopkeeper = shopkeeper
 smith = smith
 town-boy = town boy
