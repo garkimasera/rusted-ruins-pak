@@ -1,5 +1,6 @@
 (
     begin_adjust_coeff: -4,
+    
     adjust_coeff: [
         2,
         1.75,
@@ -14,6 +15,7 @@
         0.015625,
     ],
     base_factor: 1,
+    int_bonus_divisor: 64,
     attack: 30,
     carry: 10,
     carry_prob: 0.05,
