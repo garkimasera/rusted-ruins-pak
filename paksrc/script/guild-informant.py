@@ -17,10 +17,9 @@ while True:
         game.quest_report()
     elif response == 2:
         var_name = "last-dungeon-location-update-time"
-        before = game.gvars[var_name]
         current_time = game.current_time()
 
-        if before is None or (current_time - before) > 24 * 30 * 3600:
+        if not var_name in game.gvars or (current_time - game.gvars[var_name]) > 24 * 30 * 3600:
             game.gen_dungeons()
             game.talk("guild_informant-after_add_dungeons")
             game.gvars[var_name] = current_time

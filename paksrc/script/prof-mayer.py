@@ -4,7 +4,7 @@ sid = game.self_id()
 
 has_box = game.number_of_item("ancient-box") > 0
 
-if game.vars["first-quest-received"] is None:
+if not "first-quest-received" in game.vars:
     response = game.talk(sid + "_before-first-quest", ["ans-yes", "ans-no"])
     if response == 0:
         game.talk(sid + "_first-quest-received")
@@ -12,7 +12,7 @@ if game.vars["first-quest-received"] is None:
     else:
         game.talk(sid + "_first-quest-rejected")
 
-elif game.vars["first-quest-cleared"] is None:
+elif not "first-quest-cleared" in game.vars:
     if has_box:
         game.talk(sid + "_first-quest-received-with-box")
         game.vars["first-quest-cleared"] = True

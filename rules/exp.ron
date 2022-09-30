@@ -26,5 +26,6 @@
     endurance_regeneration_probability: 0.2,
     evasion: 200,
     mining: 100,
+    negotiation_max: 3000,
     creation: 1000,
 )

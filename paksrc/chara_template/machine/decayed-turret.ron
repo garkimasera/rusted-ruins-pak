@@ -30,5 +30,8 @@
             (esk: RangedWeapon, item_selector: "blunderbuss"),
             (esk: ArmorPlate, item_selector: "basic-armor-plate", quality_bonus: -1),
         ],
+        drop_items: [
+            (item_selector: "iron-plate", probability: 10),
+        ],
     ),
 )
